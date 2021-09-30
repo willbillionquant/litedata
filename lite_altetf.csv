@@ -1,0 +1,27 @@
+symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
+AGG,ARCA,altetf,USD,iShares Core U.S. Aggregate Bond ETF,na,na,2003-09-29,2021-04-23
+BIL,ARCA,altetf,USD,1-3 Month T-Bill Barclays Capital SPDR,na,na,2007-05-30,2021-04-23
+BKLN,ARCA,altetf,USD,PowerShares Senior Loan Portfolio,na,na,2011-03-03,2021-04-23
+BND,ARCA,altetf,USD,Total Bond Market ETF Vanguard,na,na,2007-04-10,2021-04-23
+BNDX,ARCA,altetf,USD,Total Intl Bond ETF Vanguard,na,na,2013-06-04,2021-04-23
+DBC,ARCA,altetf,USD,PowerShares DB Commodity Index Tracking Fund,na,na,2006-02-06,2021-04-23
+EMLC,ARCA,altetf,USD,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,na,na,2010-07-23,2021-04-23
+GBTC,ARCA,altetf,USD,Grayscale Bitcoin Trust,na,na,2015-05-11,2021-04-23
+GLD,ARCA,altetf,USD,SPDR Gold Trust,na,na,2004-11-18,2021-04-23
+HYG,ARCA,altetf,USD,iShares iBoxx $ High Yield Corporate Bond ETF,na,na,2007-04-11,2021-04-23
+IAU,ARCA,altetf,USD,iShares Gold Trust,na,na,2005-01-28,2021-04-23
+IEF,ARCA,altetf,USD,iShares 7-10 Year Treasury Bond ETF,na,na,2002-07-30,2021-04-23
+IGSB,ARCA,altetf,USD,Short-Term Corp Bond Ishares ETF,na,na,2007-01-11,2021-04-23
+JNK,ARCA,altetf,USD,SPDR Barclays High Yield Bond ETF,na,na,2007-12-04,2021-04-23
+LQD,ARCA,altetf,USD,iShares iBoxx $ Investment Grade Corporate Bond ETF,na,na,2002-07-30,2021-04-23
+MBB,ARCA,altetf,USD,MBS Ishares ETF,na,na,2007-03-16,2021-04-23
+PALL,ARCA,altetf,USD,Aberdeen Standard Physical Palladium Shares ETF,na,na,2010-01-14,2021-04-23
+PPLT,ARCA,altetf,USD,Aberdeen Standard Platinum Shares ETF,na,na,2010-01-08,2021-04-23
+SHV,ARCA,altetf,USD,Short Treasury Bond Ishares ETF,na,na,2007-01-11,2021-04-23
+SHY,ARCA,altetf,USD,1-3 Year Treasury Bond Ishares ETF,na,na,2002-07-30,2021-04-23
+SLV,ARCA,altetf,USD,iShares Silver Trust,na,na,2006-04-28,2021-04-23
+TLT,ARCA,altetf,USD,iShares 20+ Year Treasury Bond ETF,na,na,2002-07-30,2021-04-23
+UNG,ARCA,altetf,USD,United States Natural Gas Fund,na,na,2007-04-18,2021-04-23
+USO,ARCA,altetf,USD,United States Oil Fund,na,na,2006-04-10,2021-04-23
+VXX,ARCA,altetf,USD,iPath S&P 500 VIX Short-Term Futures ETN,na,na,2018-01-29,2021-04-23
+ZROZ,ARCA,altetf,USD,PIMCO 25+ Year Zero Coupon US Treasury Index Fund,na,na,2009-11-04,2021-04-23
