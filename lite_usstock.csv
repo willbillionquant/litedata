@@ -1,196 +1,190 @@
 symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
-BIDU,ARCA,usstock,USD,Baidu Inc,Communication Services,Interactive Media & Services,2005-08-05,2021-04-23
-DOYU,ARCA,usstock,USD,DOUYU INTERNATIONAL HOLDINGS LTD,Communication Services,Entertainment,2019-07-17,2021-04-23
-HUYA,ARCA,usstock,USD,HUYA Inc,Communication Services,Entertainment,2018-05-11,2021-04-23
-IRDM,ARCA,usstock,USD,IRIDIUM COMMUNICATIONS INC,Communication Services,Diversified Telecommunication Services,2008-03-20,2021-04-23
-NTES,ARCA,usstock,USD,NETEASE INC,Communication Services,Entertainment,2000-06-30,2021-04-23
-PERI,ARCA,usstock,USD,PERION NETWORK LTD,Communication Services,Media,2006-01-31,2021-04-23
-PINS,ARCA,usstock,USD,Pinterest Inc,Communication Services,Interactive Media & Services,2019-04-18,2021-04-23
-SE,ARCA,usstock,USD,Sea Ltd,Communication Services,Entertainment,2017-10-20,2021-04-23
-SNAP,ARCA,usstock,USD,Snapchat Inc,Communication Services,Interactive Media & Services,2017-03-02,2021-04-23
-SPOT,ARCA,usstock,USD,Spotify Technology,Communication Services,Entertainment,2018-04-03,2021-04-23
-WB,ARCA,usstock,USD,Weibo Corporation,Communication Services,Interactive Media & Services,2014-04-17,2021-04-23
-Z,ARCA,usstock,USD,Zillow Group Inc,Communication Services,Interactive Media & Services,2015-08-03,2021-04-23
-BABA,ARCA,usstock,USD,Alibaba Group Holdings,Consumer Discretionary,Internet & Direct Marketing Retail,2014-09-19,2021-04-23
-CHWY,ARCA,usstock,USD,Chewy Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2019-06-14,2021-04-23
-CVNA,ARCA,usstock,USD,Carvana Co,Consumer Discretionary,Specialty Retail,2017-04-28,2021-04-23
-DADA,ARCA,usstock,USD,DADA NEXUS LTD,Consumer Discretionary,Internet & Direct Marketing Retail,2020-06-05,2021-04-23
-EDU,ARCA,usstock,USD,New Oriental Education,Consumer Discretionary,Diversified Consumer Services,2006-09-15,2021-04-23
-FVRR,ARCA,usstock,USD,FIVERR INTERNATIONAL LTD,Consumer Discretionary,Internet & Direct Marketing Retail,2019-06-13,2021-04-23
-JD,ARCA,usstock,USD,JD com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2014-05-22,2021-04-23
-JMIA,ARCA,usstock,USD,JUMIA TECHNOLOGIES AG,Consumer Discretionary,Internet & Direct Marketing Retail,2019-04-12,2021-04-23
-MELI,ARCA,usstock,USD,MercadoLibre Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2007-08-10,2021-04-23
-MLCO,ARCA,usstock,USD,Melco Resorts & Entertainment,Consumer Discretionary,Hotels Restaurants & Leisure,2006-12-19,2021-04-23
-NIO,ARCA,usstock,USD,NIO,Consumer Discretionary,Automobiles,2018-09-12,2021-04-23
-NIU,ARCA,usstock,USD,NIU TECHNOLOGIES,Consumer Discretionary,Automobiles,2018-10-19,2021-04-23
-OSTK,ARCA,usstock,USD,Overstock.com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2002-05-30,2021-04-23
-PDD,ARCA,usstock,USD,Pinduoduo Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2018-07-26,2021-04-23
-PTON,ARCA,usstock,USD,Peloton Interactive Inc,Consumer Discretionary,Leisure Products,2019-09-26,2021-04-23
-ROKU,ARCA,usstock,USD,Roku Inc,Consumer Discretionary,Consumer Electronics,2017-09-28,2021-04-23
-RVLV,ARCA,usstock,USD,Revolve Group Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2019-06-07,2021-04-23
-SFIX,ARCA,usstock,USD,Stitch Fix Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2017-11-17,2021-04-23
-SSTK,ARCA,usstock,USD,Shutterstock Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2012-10-11,2021-04-23
-STMP,ARCA,usstock,USD,Stamps.Com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,1999-06-25,2021-04-23
-W,ARCA,usstock,USD,Wayfair Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2014-10-02,2021-04-23
-WKHS,ARCA,usstock,USD,WORKHORSE GROUP INC,Consumer Discretionary,Auto Components,2010-06-02,2021-04-23
-XPEL,ARCA,usstock,USD,XPEL INC,Consumer Discretionary,Auto Components,2019-07-02,2021-04-23
-XPEV,ARCA,usstock,USD,XPENG INC,Consumer Discretionary,Automobiles,2020-08-27,2021-04-23
-BYND,ARCA,usstock,USD,Beyond Meat Inc,Consumer Staples,Food Products,2019-05-02,2021-04-23
-REGI,ARCA,usstock,USD,Renewable Energy Group Inc,Energy,"Oil, Gas & Consumable Fuels",2012-01-19,2021-04-23
-MARA,ARCA,usstock,USD,MARATHON PATENT GROUP INC,Financial Services,Capital Markets,2012-05-04,2021-04-23
-FUTU,ARCA,usstock,USD,FUTU HOLDINGS LTD,Financials,Capital Markets,2019-03-08,2021-04-23
-HASI,ARCA,usstock,USD,Hannon Armstrong Sustainable Infrastructure Capital Inc,Financials,Mortgage REITs,2013-04-18,2021-04-23
-HDB,ARCA,usstock,USD,HDFC BANK LTD,Financials,Banks,2001-07-20,2021-04-23
-IBKR,ARCA,usstock,USD,INTERACTIVE BROKERS GROUP INC,Financials,Capital Markets,2007-05-04,2021-04-23
-LC,ARCA,usstock,USD,LENDINGCLUB CORP,Financials,Consumer Finance,2014-12-11,2021-04-23
-SI,ARCA,usstock,USD,SILVERGATE CAPITAL CORP,Financials,Banks,2019-11-07,2021-04-23
-ACCD,ARCA,usstock,USD,ACCOLADE INC,Health Care,Health Care Technology,2020-07-01,2021-04-23
-ADPT,ARCA,usstock,USD,Adaptive Biotechnologies,Health Care,Life Sciences Tools & Services,2019-06-27,2021-04-23
-AQB,ARCA,usstock,USD,Aquabounty Technologies,Health Care,Biotechnology,2017-01-09,2021-04-23
-AVTR,ARCA,usstock,USD,Avantor Inc,Health Care,Life Sciences Tools & Services,2019-05-17,2021-04-23
-BEAM,ARCA,usstock,USD,BEAM THERAPEUTICS INC,Health Care,Biotechnology,2020-02-06,2021-04-23
-BLI,ARCA,usstock,USD,BERKELEY LIGHTS INC,Health Care,Life Sciences Tools & Services,2020-07-17,2021-04-23
-CDNA,ARCA,usstock,USD,CareDx Inc,Health Care,Biotechnology,2014-07-17,2021-04-23
-CDXS,ARCA,usstock,USD,Codexis Inc,Health Care,Life Sciences Tools & Services,2010-04-22,2021-04-23
-CERS,ARCA,usstock,USD,Cerus Corp,Health Care,Health Care Equipment & Supplies,1997-01-31,2021-04-23
-CGEN,ARCA,usstock,USD,Compugen Ltd,Health Care,Life Sciences Tools & Services,2000-08-11,2021-04-23
-CLLS,ARCA,usstock,USD,Cellectis,Health Care,Biotechnology,2015-03-25,2021-04-23
-CRSP,ARCA,usstock,USD,CRISPR Therapeutics AG,Health Care,Biotechnology,2016-10-19,2021-04-23
-CSTL,ARCA,usstock,USD,Castle Biosciences,Health Care,Biotechnology,2019-07-25,2021-04-23
-EDIT,ARCA,usstock,USD,Editas Medicine Inc,Health Care,Biotechnology,2016-02-03,2021-04-23
-EVGN,ARCA,usstock,USD,EVOGENE LTD,Health Care,Biotechnology,2010-12-13,2021-04-23
-EXAS,ARCA,usstock,USD,EXACT SCIENCES CORP,Health Care,Biotechnology,2001-02-01,2021-04-23
-FATE,ARCA,usstock,USD,Fate Therapeutics Inc,Health Care,Biotechnology,2013-10-01,2021-04-23
-FLGT,ARCA,usstock,USD,FULGENT GENETICS INC,Health Care,Health Care Providers & Services,2016-09-29,2021-04-23
-GH,ARCA,usstock,USD,Guardant Health Inc,Health Care,Health Care Providers & Services,2018-10-04,2021-04-23
-INMD,ARCA,usstock,USD,INMODE LTD,Health Care,Health Care Equipment & Supplies,2019-08-08,2021-04-23
-INO,ARCA,usstock,USD,Inovio Pharma,Health Care,Biotechnology,1998-12-08,2021-04-23
-IONS,ARCA,usstock,USD,Ionis Pharmaceuticals,Health Care,Biotechnology,1991-05-17,2021-04-23
-IOVA,ARCA,usstock,USD,Iovance Biotherapeutics,Health Care,Biotechnology,2010-10-15,2021-04-23
-MCRB,ARCA,usstock,USD,Seres Theraptc,Health Care,Biotechnology,2015-06-26,2021-04-23
-MRNA,ARCA,usstock,USD,Moderna Inc,Health Care,Biotechnology,2018-12-07,2021-04-23
-NNOX,ARCA,usstock,USD,NANOX IMAGING LTD,Health Care,Health Care Equipment & Supplies,2020-08-21,2021-04-23
-NSTG,ARCA,usstock,USD,Nanostring Tech,Health Care,Life Sciences Tools & Services,2013-06-26,2021-04-23
-NTLA,ARCA,usstock,USD,Intellia Therapeutics,Health Care,Biotechnology,2016-05-06,2021-04-23
-NVAX,ARCA,usstock,USD,NOVAVAX INC,Health Care,Biotechnology,1995-12-05,2021-04-23
-NVCR,ARCA,usstock,USD,Novocure Ltd,Health Care,Health Care Equipment & Supplies,2015-10-02,2021-04-23
-NVS,ARCA,usstock,USD,NOVARTIS AG,Health Care,Pharmaceuticals,1996-11-07,2021-04-23
-NVTA,ARCA,usstock,USD,Invitae Corp,Health Care,Biotechnology,2015-02-12,2021-04-23
-ONVO,ARCA,usstock,USD,Organovo Holdings,Health Care,Biotechnology,2012-02-14,2021-04-23
-PACB,ARCA,usstock,USD,Pacific Biosciences,Health Care,Life Sciences Tools & Services,2010-10-27,2021-04-23
-PHR,ARCA,usstock,USD,PHREESIA INC,Health Care,Health Care Technology,2019-07-18,2021-04-23
-PSNL,ARCA,usstock,USD,Personalis Inc,Health Care,Life Sciences Tools & Services,2019-06-20,2021-04-23
-PSTI,ARCA,usstock,USD,Pluristem Therapeutic,Health Care,Biotechnology,2003-06-30,2021-04-23
-RDHL,ARCA,usstock,USD,REDHILL BIOPHARMA LTD,Health Care,Pharmaceuticals,2013-01-07,2021-04-23
-SDGR,ARCA,usstock,USD,Schrodinger Inc,Health Care,Health Care Technology,2020-02-06,2021-04-23
-SURF,ARCA,usstock,USD,Surface Oncology Inc,Health Care,Biotechnology,2018-04-19,2021-04-23
-SYRS,ARCA,usstock,USD,Syros Pharmaceuticals,Health Care,Biotechnology,2016-06-30,2021-04-23
-TDOC,ARCA,usstock,USD,Teladoc Inc,Health Care,Health Care Technology,2015-07-01,2021-04-23
-TEVA,ARCA,usstock,USD,Teva Pharmaceutical Industries,Health Care,Pharmaceuticals,1990-01-02,2021-04-23
-TWST,ARCA,usstock,USD,Twist Bioscience Corp,Health Care,Biotechnology,2018-10-31,2021-04-23
-TXG,ARCA,usstock,USD,10X Genomics Inc,Health Care,Life Sciences Tools & Services,2019-09-12,2021-04-23
-VCYT,ARCA,usstock,USD,Veracyte Inc,Health Care,Biotechnology,2013-10-30,2021-04-23
-VEEV,ARCA,usstock,USD,Veeva Systems Inc,Health Care,Health Care Technology,2013-10-16,2021-04-23
-VIR,ARCA,usstock,USD,Vir Biotechnology Inc,Health Care,Biotechnology,2019-10-11,2021-04-23
-AVAV,ARCA,usstock,USD,AEROVIRONMENT INC,Industrials,Aerospace & Defense,2007-01-23,2021-04-23
-BE,ARCA,usstock,USD,Bloom Energy Corp,Industrials,Electrical Equipment,2018-07-25,2021-04-23
-BLDP,ARCA,usstock,USD,BALLARD POWER SYSTEMS INC,Industrials,Electrical Equipment,1995-11-08,2021-04-23
-CRS,ARCA,usstock,USD,Carpenter Technology Corporation,Industrials,Metal Fabrication,1990-01-02,2021-04-23
-DM,ARCA,usstock,USD,DESKTOP METAL INC,Industrials,Machinery,2019-05-03,2021-04-23
-ESLT,ARCA,usstock,USD,ELBIT SYSTEMS LTD,Industrials,Aerospace & Defense,1996-11-27,2021-04-23
-FCEL,ARCA,usstock,USD,FUELCELL ENERGY INC,Industrials,Electrical Equipment,1992-06-25,2021-04-23
-KRNT,ARCA,usstock,USD,Kornit Digital Ltd,Industrials,Machinery,2015-04-02,2021-04-23
-KTOS,ARCA,usstock,USD,KRATOS DEFENSE AND SECURITY SOLUTIONS INC,Industrials,Aerospace & Defense,1999-11-05,2021-04-23
-PLUG,ARCA,usstock,USD,Plug Power Inc,Industrials,Electrical Equipment,1999-10-29,2021-04-23
-PRLB,ARCA,usstock,USD,PROTO LABS INC,Industrials,Machinery,2012-02-24,2021-04-23
-RADA,ARCA,usstock,USD,RADA ELECTRONIC INDUSTRIES LTD,Industrials,Aerospace & Defense,1990-01-02,2021-04-23
-RAVN,ARCA,usstock,USD,RAVEN INDUSTRIES INC,Industrials,Industrial Conglomerates,1990-01-02,2021-04-23
-RUN,ARCA,usstock,USD,Sunrun Inc,Industrials,Electrical Equipment,2015-08-05,2021-04-23
-SPCE,ARCA,usstock,USD,VIRGIN GALACTIC HOLDINGS INC,Industrials,Aerospace & Defense,2017-09-29,2021-04-23
-TRU,ARCA,usstock,USD,TRANSUNION,Industrials,Professional Services,2015-06-25,2021-04-23
-UBER,ARCA,usstock,USD,Uber Technologies Inc,Industrials,Road & Rail,2019-05-10,2021-04-23
-XONE,ARCA,usstock,USD,EXONE CO,Industrials,Machinery,2013-02-07,2021-04-23
-API,ARCA,usstock,USD,AGORA INC,Information Technology,Software,2020-06-26,2021-04-23
-AYX,ARCA,usstock,USD,Alteryx Inc,Information Technology,Application Software,2017-03-24,2021-04-23
-BB,ARCA,usstock,USD,BLACKBERRY LTD,Information Technology,Software,1999-02-04,2021-04-23
-BL,ARCA,usstock,USD,Blackline Inc,Information Technology,Software,2016-10-28,2021-04-23
-CAN,ARCA,usstock,USD,CANAAN INC,Information Technology,"Technology Hardware, Storage & Peripherals",2019-11-20,2021-04-23
-CHKP,ARCA,usstock,USD,Check Point Software Technologies Ltd,Information Technology,Software,1996-06-28,2021-04-23
-COUP,ARCA,usstock,USD,COUPA SOFTWARE INC,Information Technology,Software,2016-10-06,2021-04-23
-CRWD,ARCA,usstock,USD,CrowdStrike Holdings,Information Technology,Systems Software,2019-06-12,2021-04-23
-CSIQ,ARCA,usstock,USD,Canadian Solar Inc,Information Technology,Semiconductors & Semiconductor Equipment,2006-11-09,2021-04-23
-CYBR,ARCA,usstock,USD,Cyberark Software Ltd,Information Technology,Software,2014-09-24,2021-04-23
-DDD,ARCA,usstock,USD,3D SYSTEMS CORP,Information Technology,"Technology Hardware, Storage & Peripherals",1990-01-02,2021-04-23
-DDOG,ARCA,usstock,USD,Datadog Inc,Information Technology,Software,2019-09-19,2021-04-23
-DOCU,ARCA,usstock,USD,DOCUSIGN INC,Information Technology,Software,2018-04-27,2021-04-23
-DOX,ARCA,usstock,USD,Amdocs Ltd,Information Technology,IT Services,1998-06-19,2021-04-23
-DQ,ARCA,usstock,USD,Daqo New Energy Corp,Information Technology,Semiconductors & Semiconductor Equipment,2010-10-07,2021-04-23
-DT,ARCA,usstock,USD,Dynatrace Inc,Information Technology,Software,2019-08-01,2021-04-23
-ENPH,ARCA,usstock,USD,Enphase Energy Inc,Information Technology,Semiconductors & Semiconductor Equipment,2012-03-30,2021-04-23
-ESTC,ARCA,usstock,USD,Elastic NV,Information Technology,Software,2018-10-05,2021-04-23
-FIVN,ARCA,usstock,USD,Five9 Inc,Information Technology,Software,2014-04-04,2021-04-23
-FSLY,ARCA,usstock,USD,FASTLY INC,Information Technology,IT services,2019-05-17,2021-04-23
-GILT,ARCA,usstock,USD,GILAT SATELLITE NETWORKS LTD,Information Technology,Communications Equipment,1993-03-26,2021-04-23
-GWRE,ARCA,usstock,USD,GUIDEWIRE SOFTWARE INC,Information Technology,Software,2012-01-25,2021-04-23
-HUBS,ARCA,usstock,USD,HubSpot Inc,Information Technology,Application Software,2014-10-09,2021-04-23
-INFY,ARCA,usstock,USD,Infosys Techonologies,Information Technology,IT services,1999-03-11,2021-04-23
-IRBT,ARCA,usstock,USD,iRobot Corporation,Information Technology,Consumer Electronics,2005-11-09,2021-04-23
-ITRN,ARCA,usstock,USD,ITURAN LOCATION AND CONTROL LTD,Information Technology,Communications Equipment,2005-09-28,2021-04-23
-JKS,ARCA,usstock,USD,JinkoSolar Holding Co Ltd,Information Technology,Semiconductors & Semiconductor Equipment,2010-05-14,2021-04-23
-LPSN,ARCA,usstock,USD,LivePerson Inc,Information Technology,Software,2000-04-07,2021-04-23
-LSPD,ARCA,usstock,USD,LIGHTSPEED POS INC,Information Technology,Software,2020-09-11,2021-04-23
-MDB,ARCA,usstock,USD,MONGODB INC,Information Technology,IT Services,2017-10-19,2021-04-23
-MSTR,ARCA,usstock,USD,MICROSTRATEGY INC,Information Technology,Software,1998-06-11,2021-04-23
-MTLS,ARCA,usstock,USD,MATERIALISE NV,Information Technology,Software,2014-06-25,2021-04-23
-MVIS,ARCA,usstock,USD,MicroVision Inc,Information Technology,Scientific & Technical Instruments,1996-08-27,2021-04-23
-NET,ARCA,usstock,USD,CLOUDFLARE INC,Information Technology,Software,2019-09-13,2021-04-23
-NICE,ARCA,usstock,USD,Nice Ltd,Information Technology,Software,1996-01-25,2021-04-23
-NNDM,ARCA,usstock,USD,NANO DIMENSION LTD,Information Technology,"Technology Hardware, Storage & Peripherals",2016-03-07,2021-04-23
-NOK,ARCA,usstock,USD,NOKIA OYJ,Information Technology,Communications Equipment,1994-01-03,2021-04-23
-NXPI,ARCA,usstock,USD,NXP SEMICONDUCTORS NV,Information Technology,Semiconductors,2010-08-06,2021-04-23
-OKTA,ARCA,usstock,USD,Okta Inc,Information Technology,IT Services,2017-04-07,2021-04-23
-PCTY,ARCA,usstock,USD,Paylocity Holding Corp,Information Technology,Software,2014-03-19,2021-04-23
-PD,ARCA,usstock,USD,Pagerduty Inc,Information Technology,Software,2019-04-11,2021-04-23
-PLAN,ARCA,usstock,USD,Anaplan Inc,Information Technology,Software,2018-10-12,2021-04-23
-PLTR,ARCA,usstock,USD,PALANTIR TECHNOLOGIES INC,Information Technology,Software,2020-09-30,2021-04-23
-PSTG,ARCA,usstock,USD,Pure Storage Inc,Information Technology,"Technology Hardware, Storage & Peripherals",2015-10-07,2021-04-23
-PTC,ARCA,usstock,USD,PTC INC,Information Technology,Software,1990-01-02,2021-04-23
-RIOT,ARCA,usstock,USD,RIOT BLOCKCHAIN INC,Information Technology,Software,2016-03-31,2021-04-23
-SHOP,ARCA,usstock,USD,Shopify Inc,Information Technology,IT Services,2015-05-21,2021-04-23
-SPLK,ARCA,usstock,USD,Splunk Inc,Information Technology,Application Software,2012-04-19,2021-04-23
-SPT,ARCA,usstock,USD,Sprout Social Inc,Information Technology,Software,2019-12-13,2021-04-23
-SPWR,ARCA,usstock,USD,SunPower Corp,Information Technology,Semiconductors & Semiconductor Equipment,2005-11-17,2021-04-23
-SQ,ARCA,usstock,USD,Square Inc.,Information Technology,Application Software,2015-11-19,2021-04-23
-SSYS,ARCA,usstock,USD,STRATASYS LTD,Information Technology,"Technology Hardware, Storage & Peripherals",1994-10-21,2021-04-23
-STNE,ARCA,usstock,USD,StoneCo Ltd,Information Technology,IT Services,2018-10-25,2021-04-23
-TEAM,ARCA,usstock,USD,Atlassian Corporation Plc,Information Technology,Application Software,2015-12-10,2021-04-23
-TENB,ARCA,usstock,USD,Tenable Holdings Inc,Information Technology,Software,2018-07-26,2021-04-23
-TER,ARCA,usstock,USD,Teradyn Inc,Information Technology,Semiconductors,1990-01-02,2021-04-23
-TRMB,ARCA,usstock,USD,TRIMBLE INC,Information Technology,"Electronic Equipment, Instruments & Components",1990-07-20,2021-04-23
-TSM,ARCA,usstock,USD,Taiwan Semiconductor Manufacturing,Information Technology,Semiconductors & Semiconductor Equipment,1997-10-09,2021-04-23
-TTD,ARCA,usstock,USD,Trade Desk Inc,Information Technology,Application Software,2016-09-21,2021-04-23
-TWLO,ARCA,usstock,USD,Twilio Inc,Information Technology,IT Services,2016-06-23,2021-04-23
-TWOU,ARCA,usstock,USD,2U Inc,Information Technology,Application Software,2014-03-28,2021-04-23
-U,ARCA,usstock,USD,UNITY SOFTWARE INC,Information Technology,Software,2020-09-18,2021-04-23
-VMW,ARCA,usstock,USD,VMWare Inc,Information Technology,Systems Software,2007-08-15,2021-04-23
-VRNS,ARCA,usstock,USD,Varonis Systems Inc,Information Technology,Software,2014-02-28,2021-04-23
-VRNS,ARCA,usstock,USD,Varonis Systems,Information Technology,Software,2014-02-28,2021-04-23
-VRNT,ARCA,usstock,USD,Verint Systems Inc,Information Technology,Software,2002-05-16,2021-04-23
-VUZI,ARCA,usstock,USD,Vuzix Corporation,Information Technology,Consumer Electronics,2010-04-06,2021-04-23
-WDAY,ARCA,usstock,USD,Workday Inc,Information Technology,Application Software,2012-10-12,2021-04-23
-WIX,ARCA,usstock,USD,WIX.COM LTD,Information Technology,IT Services,2013-11-06,2021-04-23
-WORK,ARCA,usstock,USD,Slack Technologies,Information Technology,Application Software,2019-06-20,2021-04-23
-ZEN,ARCA,usstock,USD,Zendesk Inc,Information Technology,Software,2014-05-15,2021-04-23
-ZM,ARCA,usstock,USD,ZOOM VIDEO COMMUNICATIONS INC,Information Technology,Software,2019-04-18,2021-04-23
-ZS,ARCA,usstock,USD,Zscaler Inc,Information Technology,Systems Software,2018-03-16,2021-04-23
-FSLR,ARCA,usstock,USD,First Solar Inc,Information Techonology,Solar Energy,2006-11-17,2021-04-23
-ALB,ARCA,usstock,USD,Albemarle Corporation,Materials,Specialty Chemicals,1994-02-22,2021-04-23
-CENX,ARCA,usstock,USD,Century Aluminum Company,Materials,Aluminum,1996-03-29,2021-04-23
-CMC,ARCA,usstock,USD,Commercial Metals Company,Materials,Steel,1990-01-02,2021-04-23
-LAC,ARCA,usstock,USD,Lithium Americas Corp,Materials,Other Industrial Metals & Mining,2008-09-19,2021-04-23
-LTHM,ARCA,usstock,USD,Livent Corp,Materials,Chemicals,2018-10-11,2021-04-23
-SCCO,ARCA,usstock,USD,Southern Copper Corporation,Materials,Copper,1996-01-05,2021-04-23
-TROX,ARCA,usstock,USD,LTronox Inc,Materials,Chemicals,2010-12-01,2021-04-23
-VEDL,ARCA,usstock,USD,Vedanta Limited,Materials,Other Industrial Metals & Mining,2007-06-20,2021-04-23
-CWEN,ARCA,usstock,USD,Clearway Energy Inc,Utilities,Independent Power & Renewable Electricity Producers,2015-05-15,2021-04-23
-ORA,ARCA,usstock,USD,Ormat Technologies Inc,Utilities,Independent Power & Renewable Electricity Producers,2004-11-11,2021-04-23
+BIDU,ARCA,usstock,USD,Baidu Inc,Communication Services,Interactive Media & Services,2005-08-05,2021-10-15
+DOYU,ARCA,usstock,USD,DOUYU INTERNATIONAL HOLDINGS LTD,Communication Services,Entertainment,2019-07-17,2021-10-15
+HUYA,ARCA,usstock,USD,HUYA Inc,Communication Services,Entertainment,2018-05-11,2021-10-15
+IRDM,ARCA,usstock,USD,IRIDIUM COMMUNICATIONS INC,Communication Services,Diversified Telecommunication Services,2008-03-20,2021-10-15
+NTES,ARCA,usstock,USD,NETEASE INC,Communication Services,Entertainment,2000-06-30,2021-10-15
+PERI,ARCA,usstock,USD,PERION NETWORK LTD,Communication Services,Media,2006-01-31,2021-10-15
+PINS,ARCA,usstock,USD,Pinterest Inc,Communication Services,Interactive Media & Services,2019-04-18,2021-10-15
+SE,ARCA,usstock,USD,Sea Ltd,Communication Services,Entertainment,2017-10-20,2021-10-15
+SNAP,ARCA,usstock,USD,Snapchat Inc,Communication Services,Interactive Media & Services,2017-03-02,2021-10-15
+SPOT,ARCA,usstock,USD,Spotify Technology,Communication Services,Entertainment,2018-04-03,2021-10-15
+WB,ARCA,usstock,USD,Weibo Corporation,Communication Services,Interactive Media & Services,2014-04-17,2021-10-15
+Z,ARCA,usstock,USD,Zillow Group Inc,Communication Services,Interactive Media & Services,2015-08-03,2021-10-15
+BABA,ARCA,usstock,USD,Alibaba Group Holdings,Consumer Discretionary,Internet & Direct Marketing Retail,2014-09-19,2021-10-15
+CHWY,ARCA,usstock,USD,Chewy Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2019-06-14,2021-10-15
+CVNA,ARCA,usstock,USD,Carvana Co,Consumer Discretionary,Specialty Retail,2017-04-28,2021-10-15
+DADA,ARCA,usstock,USD,DADA NEXUS LTD,Consumer Discretionary,Internet & Direct Marketing Retail,2020-06-05,2021-10-15
+EDU,ARCA,usstock,USD,New Oriental Education,Consumer Discretionary,Diversified Consumer Services,2006-09-15,2021-10-15
+FVRR,ARCA,usstock,USD,FIVERR INTERNATIONAL LTD,Consumer Discretionary,Internet & Direct Marketing Retail,2019-06-13,2021-10-15
+JD,ARCA,usstock,USD,JD com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2014-05-22,2021-10-15
+JMIA,ARCA,usstock,USD,JUMIA TECHNOLOGIES AG,Consumer Discretionary,Internet & Direct Marketing Retail,2019-04-12,2021-10-15
+MELI,ARCA,usstock,USD,MercadoLibre Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2007-08-10,2021-10-15
+MLCO,ARCA,usstock,USD,Melco Resorts & Entertainment,Consumer Discretionary,Hotels Restaurants & Leisure,2006-12-19,2021-10-15
+NIO,ARCA,usstock,USD,NIO,Consumer Discretionary,Automobiles,2018-09-12,2021-10-15
+NIU,ARCA,usstock,USD,NIU TECHNOLOGIES,Consumer Discretionary,Automobiles,2018-10-19,2021-10-15
+OSTK,ARCA,usstock,USD,Overstock.com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2002-05-30,2021-10-15
+PDD,ARCA,usstock,USD,Pinduoduo Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2018-07-26,2021-10-15
+PTON,ARCA,usstock,USD,Peloton Interactive Inc,Consumer Discretionary,Leisure Products,2019-09-26,2021-10-15
+ROKU,ARCA,usstock,USD,Roku Inc,Consumer Discretionary,Consumer Electronics,2017-09-28,2021-10-15
+RVLV,ARCA,usstock,USD,Revolve Group Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2019-06-07,2021-10-15
+SFIX,ARCA,usstock,USD,Stitch Fix Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2017-11-17,2021-10-15
+SSTK,ARCA,usstock,USD,Shutterstock Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2012-10-11,2021-10-15
+W,ARCA,usstock,USD,Wayfair Inc,Consumer Discretionary,Internet & Direct Marketing Retail,2014-10-02,2021-10-15
+WKHS,ARCA,usstock,USD,WORKHORSE GROUP INC,Consumer Discretionary,Auto Components,2010-06-02,2021-10-15
+XPEL,ARCA,usstock,USD,XPEL INC,Consumer Discretionary,Auto Components,2019-07-02,2021-10-15
+XPEV,ARCA,usstock,USD,XPENG INC,Consumer Discretionary,Automobiles,2020-08-27,2021-10-15
+BYND,ARCA,usstock,USD,Beyond Meat Inc,Consumer Staples,Food Products,2019-05-02,2021-10-15
+REGI,ARCA,usstock,USD,Renewable Energy Group Inc,Energy,"Oil, Gas & Consumable Fuels",2012-01-19,2021-10-15
+MARA,ARCA,usstock,USD,MARATHON PATENT GROUP INC,Financial Services,Capital Markets,2012-05-04,2021-10-15
+FUTU,ARCA,usstock,USD,FUTU HOLDINGS LTD,Financials,Capital Markets,2019-03-08,2021-10-15
+HASI,ARCA,usstock,USD,Hannon Armstrong Sustainable Infrastructure Capital Inc,Financials,Mortgage REITs,2013-04-18,2021-10-15
+HDB,ARCA,usstock,USD,HDFC BANK LTD,Financials,Banks,2001-07-20,2021-10-15
+IBKR,ARCA,usstock,USD,INTERACTIVE BROKERS GROUP INC,Financials,Capital Markets,2007-05-04,2021-10-15
+LC,ARCA,usstock,USD,LENDINGCLUB CORP,Financials,Consumer Finance,2014-12-11,2021-10-15
+SI,ARCA,usstock,USD,SILVERGATE CAPITAL CORP,Financials,Banks,2019-11-07,2021-10-15
+ACCD,ARCA,usstock,USD,ACCOLADE INC,Health Care,Health Care Technology,2020-07-01,2021-10-15
+ADPT,ARCA,usstock,USD,Adaptive Biotechnologies,Health Care,Life Sciences Tools & Services,2019-06-27,2021-10-15
+AQB,ARCA,usstock,USD,Aquabounty Technologies,Health Care,Biotechnology,2017-01-09,2021-10-15
+AVTR,ARCA,usstock,USD,Avantor Inc,Health Care,Life Sciences Tools & Services,2019-05-17,2021-10-15
+BEAM,ARCA,usstock,USD,BEAM THERAPEUTICS INC,Health Care,Biotechnology,2020-02-06,2021-10-15
+BLI,ARCA,usstock,USD,BERKELEY LIGHTS INC,Health Care,Life Sciences Tools & Services,2020-07-17,2021-10-15
+CDNA,ARCA,usstock,USD,CareDx Inc,Health Care,Biotechnology,2014-07-17,2021-10-15
+CDXS,ARCA,usstock,USD,Codexis Inc,Health Care,Life Sciences Tools & Services,2010-04-22,2021-10-15
+CERS,ARCA,usstock,USD,Cerus Corp,Health Care,Health Care Equipment & Supplies,1997-01-31,2021-10-15
+CGEN,ARCA,usstock,USD,Compugen Ltd,Health Care,Life Sciences Tools & Services,2000-08-11,2021-10-15
+CLLS,ARCA,usstock,USD,Cellectis,Health Care,Biotechnology,2015-03-25,2021-10-15
+CRSP,ARCA,usstock,USD,CRISPR Therapeutics AG,Health Care,Biotechnology,2016-10-19,2021-10-15
+CSTL,ARCA,usstock,USD,Castle Biosciences,Health Care,Biotechnology,2019-07-25,2021-10-15
+EDIT,ARCA,usstock,USD,Editas Medicine Inc,Health Care,Biotechnology,2016-02-03,2021-10-15
+EVGN,ARCA,usstock,USD,EVOGENE LTD,Health Care,Biotechnology,2010-12-13,2021-10-15
+EXAS,ARCA,usstock,USD,EXACT SCIENCES CORP,Health Care,Biotechnology,2001-02-01,2021-10-15
+FATE,ARCA,usstock,USD,Fate Therapeutics Inc,Health Care,Biotechnology,2013-10-01,2021-10-15
+FLGT,ARCA,usstock,USD,FULGENT GENETICS INC,Health Care,Health Care Providers & Services,2016-09-29,2021-10-15
+GH,ARCA,usstock,USD,Guardant Health Inc,Health Care,Health Care Providers & Services,2018-10-04,2021-10-15
+INMD,ARCA,usstock,USD,INMODE LTD,Health Care,Health Care Equipment & Supplies,2019-08-08,2021-10-15
+INO,ARCA,usstock,USD,Inovio Pharma,Health Care,Biotechnology,1998-12-08,2021-10-15
+IONS,ARCA,usstock,USD,Ionis Pharmaceuticals,Health Care,Biotechnology,1991-05-17,2021-10-15
+IOVA,ARCA,usstock,USD,Iovance Biotherapeutics,Health Care,Biotechnology,2010-10-15,2021-10-15
+MCRB,ARCA,usstock,USD,Seres Theraptc,Health Care,Biotechnology,2015-06-26,2021-10-15
+MRNA,ARCA,usstock,USD,Moderna Inc,Health Care,Biotechnology,2018-12-07,2021-10-15
+NNOX,ARCA,usstock,USD,NANOX IMAGING LTD,Health Care,Health Care Equipment & Supplies,2020-08-21,2021-10-15
+NSTG,ARCA,usstock,USD,Nanostring Tech,Health Care,Life Sciences Tools & Services,2013-06-26,2021-10-15
+NTLA,ARCA,usstock,USD,Intellia Therapeutics,Health Care,Biotechnology,2016-05-06,2021-10-15
+NVAX,ARCA,usstock,USD,NOVAVAX INC,Health Care,Biotechnology,1995-12-05,2021-10-15
+NVCR,ARCA,usstock,USD,Novocure Ltd,Health Care,Health Care Equipment & Supplies,2015-10-02,2021-10-15
+NVS,ARCA,usstock,USD,NOVARTIS AG,Health Care,Pharmaceuticals,1996-11-07,2021-10-15
+NVTA,ARCA,usstock,USD,Invitae Corp,Health Care,Biotechnology,2015-02-12,2021-10-15
+ONVO,ARCA,usstock,USD,Organovo Holdings,Health Care,Biotechnology,2012-02-14,2021-10-15
+PACB,ARCA,usstock,USD,Pacific Biosciences,Health Care,Life Sciences Tools & Services,2010-10-27,2021-10-15
+PHR,ARCA,usstock,USD,PHREESIA INC,Health Care,Health Care Technology,2019-07-18,2021-10-15
+PSNL,ARCA,usstock,USD,Personalis Inc,Health Care,Life Sciences Tools & Services,2019-06-20,2021-10-15
+PSTI,ARCA,usstock,USD,Pluristem Therapeutic,Health Care,Biotechnology,2003-06-30,2021-10-15
+RDHL,ARCA,usstock,USD,REDHILL BIOPHARMA LTD,Health Care,Pharmaceuticals,2013-01-07,2021-10-15
+SDGR,ARCA,usstock,USD,Schrodinger Inc,Health Care,Health Care Technology,2020-02-06,2021-10-15
+SURF,ARCA,usstock,USD,Surface Oncology Inc,Health Care,Biotechnology,2018-04-19,2021-10-15
+SYRS,ARCA,usstock,USD,Syros Pharmaceuticals,Health Care,Biotechnology,2016-06-30,2021-10-15
+TDOC,ARCA,usstock,USD,Teladoc Inc,Health Care,Health Care Technology,2015-07-01,2021-10-15
+TEVA,ARCA,usstock,USD,Teva Pharmaceutical Industries,Health Care,Pharmaceuticals,1990-01-02,2021-10-15
+TWST,ARCA,usstock,USD,Twist Bioscience Corp,Health Care,Biotechnology,2018-10-31,2021-10-15
+TXG,ARCA,usstock,USD,10X Genomics Inc,Health Care,Life Sciences Tools & Services,2019-09-12,2021-10-15
+VCYT,ARCA,usstock,USD,Veracyte Inc,Health Care,Biotechnology,2013-10-30,2021-10-15
+VEEV,ARCA,usstock,USD,Veeva Systems Inc,Health Care,Health Care Technology,2013-10-16,2021-10-15
+VIR,ARCA,usstock,USD,Vir Biotechnology Inc,Health Care,Biotechnology,2019-10-11,2021-10-15
+AVAV,ARCA,usstock,USD,AEROVIRONMENT INC,Industrials,Aerospace & Defense,2007-01-23,2021-10-15
+BE,ARCA,usstock,USD,Bloom Energy Corp,Industrials,Electrical Equipment,2018-07-25,2021-10-15
+BLDP,ARCA,usstock,USD,BALLARD POWER SYSTEMS INC,Industrials,Electrical Equipment,1995-11-08,2021-10-15
+DM,ARCA,usstock,USD,DESKTOP METAL INC,Industrials,Machinery,2019-05-03,2021-10-15
+ESLT,ARCA,usstock,USD,ELBIT SYSTEMS LTD,Industrials,Aerospace & Defense,1996-11-27,2021-10-15
+FCEL,ARCA,usstock,USD,FUELCELL ENERGY INC,Industrials,Electrical Equipment,1992-06-25,2021-10-15
+KRNT,ARCA,usstock,USD,Kornit Digital Ltd,Industrials,Machinery,2015-04-02,2021-10-15
+KTOS,ARCA,usstock,USD,KRATOS DEFENSE AND SECURITY SOLUTIONS INC,Industrials,Aerospace & Defense,1999-11-05,2021-10-15
+PLUG,ARCA,usstock,USD,Plug Power Inc,Industrials,Electrical Equipment,1999-10-29,2021-10-15
+PRLB,ARCA,usstock,USD,PROTO LABS INC,Industrials,Machinery,2012-02-24,2021-10-15
+RADA,ARCA,usstock,USD,RADA ELECTRONIC INDUSTRIES LTD,Industrials,Aerospace & Defense,1990-01-02,2021-10-15
+RAVN,ARCA,usstock,USD,RAVEN INDUSTRIES INC,Industrials,Industrial Conglomerates,1990-01-02,2021-10-15
+RUN,ARCA,usstock,USD,Sunrun Inc,Industrials,Electrical Equipment,2015-08-05,2021-10-15
+SPCE,ARCA,usstock,USD,VIRGIN GALACTIC HOLDINGS INC,Industrials,Aerospace & Defense,2017-09-29,2021-10-15
+TRU,ARCA,usstock,USD,TRANSUNION,Industrials,Professional Services,2015-06-25,2021-10-15
+UBER,ARCA,usstock,USD,Uber Technologies Inc,Industrials,Road & Rail,2019-05-10,2021-10-15
+XONE,ARCA,usstock,USD,EXONE CO,Industrials,Machinery,2013-02-07,2021-10-15
+API,ARCA,usstock,USD,AGORA INC,Information Technology,Software,2020-06-26,2021-10-15
+AYX,ARCA,usstock,USD,Alteryx Inc,Information Technology,Application Software,2017-03-24,2021-10-15
+BB,ARCA,usstock,USD,BLACKBERRY LTD,Information Technology,Software,1999-02-04,2021-10-15
+BL,ARCA,usstock,USD,Blackline Inc,Information Technology,Software,2016-10-28,2021-10-15
+CAN,ARCA,usstock,USD,CANAAN INC,Information Technology,"Technology Hardware, Storage & Peripherals",2019-11-20,2021-10-15
+CHKP,ARCA,usstock,USD,Check Point Software Technologies Ltd,Information Technology,Software,1996-06-28,2021-10-15
+COUP,ARCA,usstock,USD,COUPA SOFTWARE INC,Information Technology,Software,2016-10-06,2021-10-15
+CRWD,ARCA,usstock,USD,CrowdStrike Holdings,Information Technology,Systems Software,2019-06-12,2021-10-15
+CSIQ,ARCA,usstock,USD,Canadian Solar Inc,Information Technology,Semiconductors & Semiconductor Equipment,2006-11-09,2021-10-15
+CYBR,ARCA,usstock,USD,Cyberark Software Ltd,Information Technology,Software,2014-09-24,2021-10-15
+DDD,ARCA,usstock,USD,3D SYSTEMS CORP,Information Technology,"Technology Hardware, Storage & Peripherals",1990-01-02,2021-10-15
+DDOG,ARCA,usstock,USD,Datadog Inc,Information Technology,Software,2019-09-19,2021-10-15
+DOCU,ARCA,usstock,USD,DOCUSIGN INC,Information Technology,Software,2018-04-27,2021-10-15
+DOX,ARCA,usstock,USD,Amdocs Ltd,Information Technology,IT Services,1998-06-19,2021-10-15
+DQ,ARCA,usstock,USD,Daqo New Energy Corp,Information Technology,Semiconductors & Semiconductor Equipment,2010-10-07,2021-10-15
+DT,ARCA,usstock,USD,Dynatrace Inc,Information Technology,Software,2019-08-01,2021-10-15
+ENPH,ARCA,usstock,USD,Enphase Energy Inc,Information Technology,Semiconductors & Semiconductor Equipment,2012-03-30,2021-10-15
+ESTC,ARCA,usstock,USD,Elastic NV,Information Technology,Software,2018-10-05,2021-10-15
+FIVN,ARCA,usstock,USD,Five9 Inc,Information Technology,Software,2014-04-04,2021-10-15
+FSLY,ARCA,usstock,USD,FASTLY INC,Information Technology,IT services,2019-05-17,2021-10-15
+GILT,ARCA,usstock,USD,GILAT SATELLITE NETWORKS LTD,Information Technology,Communications Equipment,1993-03-26,2021-10-15
+GWRE,ARCA,usstock,USD,GUIDEWIRE SOFTWARE INC,Information Technology,Software,2012-01-25,2021-10-15
+HUBS,ARCA,usstock,USD,HubSpot Inc,Information Technology,Application Software,2014-10-09,2021-10-15
+INFY,ARCA,usstock,USD,Infosys Techonologies,Information Technology,IT services,1999-03-11,2021-10-15
+IRBT,ARCA,usstock,USD,iRobot Corporation,Information Technology,Consumer Electronics,2005-11-09,2021-10-15
+ITRN,ARCA,usstock,USD,ITURAN LOCATION AND CONTROL LTD,Information Technology,Communications Equipment,2005-09-28,2021-10-15
+JKS,ARCA,usstock,USD,JinkoSolar Holding Co Ltd,Information Technology,Semiconductors & Semiconductor Equipment,2010-05-14,2021-10-15
+LPSN,ARCA,usstock,USD,LivePerson Inc,Information Technology,Software,2000-04-07,2021-10-15
+LSPD,ARCA,usstock,USD,LIGHTSPEED POS INC,Information Technology,Software,2020-09-11,2021-10-15
+MDB,ARCA,usstock,USD,MONGODB INC,Information Technology,IT Services,2017-10-19,2021-10-15
+MSTR,ARCA,usstock,USD,MICROSTRATEGY INC,Information Technology,Software,1998-06-11,2021-10-15
+MTLS,ARCA,usstock,USD,MATERIALISE NV,Information Technology,Software,2014-06-25,2021-10-15
+MVIS,ARCA,usstock,USD,MicroVision Inc,Information Technology,Scientific & Technical Instruments,1996-08-27,2021-10-15
+NET,ARCA,usstock,USD,CLOUDFLARE INC,Information Technology,Software,2019-09-13,2021-10-15
+NICE,ARCA,usstock,USD,Nice Ltd,Information Technology,Software,1996-01-25,2021-10-15
+NNDM,ARCA,usstock,USD,NANO DIMENSION LTD,Information Technology,"Technology Hardware, Storage & Peripherals",2016-03-07,2021-10-15
+NOK,ARCA,usstock,USD,NOKIA OYJ,Information Technology,Communications Equipment,1994-01-03,2021-10-15
+NXPI,ARCA,usstock,USD,NXP SEMICONDUCTORS NV,Information Technology,Semiconductors,2010-08-06,2021-10-15
+OKTA,ARCA,usstock,USD,Okta Inc,Information Technology,IT Services,2017-04-07,2021-10-15
+PCTY,ARCA,usstock,USD,Paylocity Holding Corp,Information Technology,Software,2014-03-19,2021-10-15
+PD,ARCA,usstock,USD,Pagerduty Inc,Information Technology,Software,2019-04-11,2021-10-15
+PLAN,ARCA,usstock,USD,Anaplan Inc,Information Technology,Software,2018-10-12,2021-10-15
+PLTR,ARCA,usstock,USD,PALANTIR TECHNOLOGIES INC,Information Technology,Software,2020-09-30,2021-10-15
+PSTG,ARCA,usstock,USD,Pure Storage Inc,Information Technology,"Technology Hardware, Storage & Peripherals",2015-10-07,2021-10-15
+RIOT,ARCA,usstock,USD,RIOT BLOCKCHAIN INC,Information Technology,Software,2016-03-31,2021-10-15
+SHOP,ARCA,usstock,USD,Shopify Inc,Information Technology,IT Services,2015-05-21,2021-10-15
+SPLK,ARCA,usstock,USD,Splunk Inc,Information Technology,Application Software,2012-04-19,2021-10-15
+SPT,ARCA,usstock,USD,Sprout Social Inc,Information Technology,Software,2019-12-13,2021-10-15
+SPWR,ARCA,usstock,USD,SunPower Corp,Information Technology,Semiconductors & Semiconductor Equipment,2005-11-17,2021-10-15
+SQ,ARCA,usstock,USD,Square Inc.,Information Technology,Application Software,2015-11-19,2021-10-15
+SSYS,ARCA,usstock,USD,STRATASYS LTD,Information Technology,"Technology Hardware, Storage & Peripherals",1994-10-21,2021-10-15
+STNE,ARCA,usstock,USD,StoneCo Ltd,Information Technology,IT Services,2018-10-25,2021-10-15
+TEAM,ARCA,usstock,USD,Atlassian Corporation Plc,Information Technology,Application Software,2015-12-10,2021-10-15
+TENB,ARCA,usstock,USD,Tenable Holdings Inc,Information Technology,Software,2018-07-26,2021-10-15
+TER,ARCA,usstock,USD,Teradyn Inc,Information Technology,Semiconductors,1990-01-02,2021-10-15
+TRMB,ARCA,usstock,USD,TRIMBLE INC,Information Technology,"Electronic Equipment, Instruments & Components",1990-07-20,2021-10-15
+TSM,ARCA,usstock,USD,Taiwan Semiconductor Manufacturing,Information Technology,Semiconductors & Semiconductor Equipment,1997-10-09,2021-10-15
+TTD,ARCA,usstock,USD,Trade Desk Inc,Information Technology,Application Software,2016-09-21,2021-10-15
+TWLO,ARCA,usstock,USD,Twilio Inc,Information Technology,IT Services,2016-06-23,2021-10-15
+TWOU,ARCA,usstock,USD,2U Inc,Information Technology,Application Software,2014-03-28,2021-10-15
+U,ARCA,usstock,USD,UNITY SOFTWARE INC,Information Technology,Software,2020-09-18,2021-10-15
+VMW,ARCA,usstock,USD,VMWare Inc,Information Technology,Systems Software,2007-08-15,2021-10-15
+VRNS,ARCA,usstock,USD,Varonis Systems Inc,Information Technology,Software,2014-02-28,2021-10-15
+VRNS,ARCA,usstock,USD,Varonis Systems,Information Technology,Software,2014-02-28,2021-10-15
+VRNT,ARCA,usstock,USD,Verint Systems Inc,Information Technology,Software,2002-05-16,2021-10-15
+VUZI,ARCA,usstock,USD,Vuzix Corporation,Information Technology,Consumer Electronics,2010-04-06,2021-10-15
+WDAY,ARCA,usstock,USD,Workday Inc,Information Technology,Application Software,2012-10-12,2021-10-15
+WIX,ARCA,usstock,USD,WIX.COM LTD,Information Technology,IT Services,2013-11-06,2021-10-15
+ZEN,ARCA,usstock,USD,Zendesk Inc,Information Technology,Software,2014-05-15,2021-10-15
+ZM,ARCA,usstock,USD,ZOOM VIDEO COMMUNICATIONS INC,Information Technology,Software,2019-04-18,2021-10-15
+ZS,ARCA,usstock,USD,Zscaler Inc,Information Technology,Systems Software,2018-03-16,2021-10-15
+ALB,ARCA,usstock,USD,Albemarle Corporation,Materials,Specialty Chemicals,1994-02-22,2021-10-15
+CENX,ARCA,usstock,USD,Century Aluminum Company,Materials,Aluminum,1996-03-29,2021-10-15
+LAC,ARCA,usstock,USD,Lithium Americas Corp,Materials,Other Industrial Metals & Mining,2008-09-19,2021-10-15
+LTHM,ARCA,usstock,USD,Livent Corp,Materials,Chemicals,2018-10-11,2021-10-15
+SCCO,ARCA,usstock,USD,Southern Copper Corporation,Materials,Copper,1996-01-05,2021-10-15
+TROX,ARCA,usstock,USD,LTronox Inc,Materials,Chemicals,2010-12-01,2021-10-15
+VEDL,ARCA,usstock,USD,Vedanta Limited,Materials,Other Industrial Metals & Mining,2007-06-20,2021-10-15
+CWEN,ARCA,usstock,USD,Clearway Energy Inc,Utilities,Independent Power & Renewable Electricity Producers,2015-05-15,2021-10-15
+ORA,ARCA,usstock,USD,Ormat Technologies Inc,Utilities,Independent Power & Renewable Electricity Producers,2004-11-11,2021-10-15
