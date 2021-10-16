@@ -1,90 +1,90 @@
 symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
-AAXJ,ARCA,coreetf,USD,All Country Asia Ex Japan Ishares MSCI ETF,na,na,2008-08-15,2021-04-23
-ACWI,ARCA,coreetf,USD,ACWI Ishares MSCI ETF,na,na,2008-03-28,2021-04-23
-AMLP,ARCA,coreetf,USD,Alerian MLP ETF,na,na,2010-08-25,2021-04-23
-ARKG,ARCA,coreetf,USD,ARK Genomic Revolution ETF,na,na,2014-10-31,2021-04-23
-ARKK,ARCA,coreetf,USD,ARK Innovation ETF,na,na,2014-10-31,2021-04-23
-ARKQ,ARCA,coreetf,USD,ARK Industrial Innovation ETF,na,na,2014-09-30,2021-04-23
-ARKW,ARCA,coreetf,USD,ARK Web x.0 ETF,na,na,2014-09-30,2021-04-23
-CLOU,ARCA,coreetf,USD,Global X Cloud Computing ETF,na,na,2019-04-16,2021-04-23
-CQQQ,ARCA,coreetf,USD,Invesco China Technology ETF,na,na,2010-01-22,2021-04-23
-CXSE,ARCA,coreetf,USD,WisdomTree China ex-State-Owned Enterprises Fund,na,na,2012-09-20,2021-04-23
-DIA,ARCA,coreetf,USD,SPDR Dow Jones Industrial Average ETF,na,na,1998-01-20,2021-04-23
-EEM,ARCA,coreetf,USD,iShares MSCI Emerging Markets ETF,na,na,2003-04-14,2021-04-23
-EFA,ARCA,coreetf,USD,iShares MSCI EAFE ETF,na,na,2001-08-27,2021-04-23
-EWC,ARCA,coreetf,USD,iShares MSCI Canada ETF,na,na,1996-03-18,2021-04-23
-EWG,ARCA,coreetf,USD,iShares MSCI Germany ETF,na,na,1996-03-18,2021-04-23
-EWH,ARCA,coreetf,USD,iShares MSCI Hong Kong ETF,na,na,1996-03-18,2021-04-23
-EWJ,ARCA,coreetf,USD,iShares MSCI Japan ETF,na,na,1996-03-18,2021-04-23
-EWT,ARCA,coreetf,USD,iShares MSCI Taiwan ETF,na,na,2000-06-23,2021-04-23
-EWW,ARCA,coreetf,USD,iShares MSCI Mexico ETF,na,na,1996-03-18,2021-04-23
-EWY,ARCA,coreetf,USD,iShares MSCI South Korea ETF,na,na,2000-05-12,2021-04-23
-EWZ,ARCA,coreetf,USD,iShares MSCI Brazil ETF,na,na,2000-07-14,2021-04-23
-EZU,ARCA,coreetf,USD,iShares MSCI EMU ETF,na,na,2000-07-31,2021-04-23
-FEZ,ARCA,coreetf,USD,SPDR EURO STOXX 50 ETF,na,na,2002-10-21,2021-04-23
-FXI,ARCA,coreetf,USD,iShares China Large-Cap ETF,na,na,2004-10-08,2021-04-23
-GDX,ARCA,coreetf,USD,VanEck Vectors Gold Miners ETF,na,na,2006-05-22,2021-04-23
-GDXJ,ARCA,coreetf,USD,VanEck Vectors Junior Gold Miners ETF,na,na,2009-11-11,2021-04-23
-HERO,ARCA,coreetf,USD,Global X Video Games & Esports ETF,na,na,2019-10-31,2021-04-23
-IBB,ARCA,coreetf,USD,iShares Nasdaq Biotechnology ETF,na,na,2001-02-12,2021-04-23
-IBUY,ARCA,coreetf,USD,Amplify Online Retail ETF,na,na,2016-04-20,2021-04-23
-ICLN,ARCA,coreetf,USD,iShares Global Clean Energy ETF,na,na,2008-06-25,2021-04-23
-IGV,ARCA,coreetf,USD,North American Tech-Software Ishares ETF,na,na,2001-07-17,2021-04-23
-IHI,ARCA,coreetf,USD,iShares U.S. Medical Devices ETF,na,na,2006-05-05,2021-04-23
-IJR,ARCA,coreetf,USD,iShares Core S&P Small-Cap ETF,na,na,2000-05-26,2021-04-23
-INDA,ARCA,coreetf,USD,iShares MSCI India ETF,na,na,2012-02-03,2021-04-23
-IPO,ARCA,coreetf,USD,Renaissance IPO ETF,na,na,2013-10-16,2021-04-23
-ITA,ARCA,coreetf,USD,iShares U.S. Aerospace & Defense ETF,na,na,2006-05-05,2021-04-23
-ITB,ARCA,coreetf,USD,iShares U.S. Home Construction ETF,na,na,2006-05-05,2021-04-23
-IWB,ARCA,coreetf,USD,Russell 1000 Ishares ETF,na,na,2000-05-19,2021-04-23
-IWD,ARCA,coreetf,USD,Russell 1000 Value Ishares ETF,na,na,2000-05-26,2021-04-23
-IWF,ARCA,coreetf,USD,Russell 1000 Growth Ishares ETF,na,na,2000-05-26,2021-04-23
-IWM,ARCA,coreetf,USD,iShares Russell 2000 ETF,na,na,2000-05-26,2021-04-23
-IWO,ARCA,coreetf,USD,Russell 2000 Growth Ishares ETF,na,na,2000-07-28,2021-04-23
-IWP,ARCA,coreetf,USD,iShares Russell Midcap Growth ETF,na,na,2001-08-03,2021-04-23
-IXN,ARCA,coreetf,USD,iShares Global Tech ETF,na,na,2001-11-27,2021-04-23
-IYR,ARCA,coreetf,USD,iShares U.S. Real Estate ETF,na,na,2021-04-23,2021-04-23
-JETS,ARCA,coreetf,USD,U.S. Global Jets ETF,na,na,2015-04-30,2021-04-23
-KRE,ARCA,coreetf,USD,SPDR S&P Regional Banking ETF,na,na,2006-06-22,2021-04-23
-KWEB,ARCA,coreetf,USD,KraneShares CSI China Internet ETF,na,na,2013-08-01,2021-04-23
-LIT,ARCA,coreetf,USD,Global X Lithium ETF,na,na,2010-07-23,2021-04-23
-MCHI,ARCA,coreetf,USD,iShares MSCI China ETF,na,na,2011-03-31,2021-04-23
-MDY,ARCA,coreetf,USD,S&P Midcap 400 SPDR,na,na,1995-05-04,2021-04-23
-MTUM,ARCA,coreetf,USD,iShares Edge MSCI USA Momentum Factor ETF,na,na,2013-04-18,2021-04-23
-OGIG,ARCA,coreetf,USD,O’Shares Global Internet Giants ETF,na,na,2018-06-05,2021-04-23
-OIH,ARCA,coreetf,USD,VanEck Vectors Oil Services ETF,na,na,2001-02-26,2021-04-23
-PFF,ARCA,coreetf,USD,US Preferred Stock Ishares ETF,na,na,2007-03-30,2021-04-23
-QQQ,ARCA,coreetf,USD,PowerShares QQQ,na,na,1999-03-10,2021-04-23
-REMX,ARCA,coreetf,USD,VanEck Vectors Rare Earth & Strategic Metals ETF,na,na,2010-10-28,2021-04-23
-RSX,ARCA,coreetf,USD,VanEck Vectors Russia ETF,na,na,2007-04-30,2021-04-23
-RWR,ARCA,coreetf,USD,SPDR Dow Jones REIT ETF,na,na,2001-08-29,2021-04-23
-SIL,ARCA,coreetf,USD,Global X Silver Miners ETF,na,na,2010-04-20,2021-04-23
-SILJ,ARCA,coreetf,USD,ETFMG Prime Junior Silver ETF,na,na,2012-11-29,2021-04-23
-SKYY,ARCA,coreetf,USD,First Trust ISE Cloud Computing Index Fund,na,na,2011-07-06,2021-04-23
-SMH,ARCA,coreetf,USD,VanEck Vectors Semiconductor ETF,na,na,2000-06-05,2021-04-23
-SOXX,ARCA,coreetf,USD,iShares PHLX Semiconductor ETF,na,na,2001-07-13,2021-04-23
-SPLV,ARCA,coreetf,USD,S&P 500 Low Vol Invesco ETF,na,na,2011-05-05,2021-04-23
-SPY,ARCA,coreetf,USD,SPDR S&P 500 ETF,na,na,1993-01-29,2021-04-23
-SPYG,ARCA,coreetf,USD,SPDR Portfolio S&P 500 Growth ETF,na,na,2000-10-02,2021-04-23
-TAN,ARCA,coreetf,USD,Invesco Solar ETF,na,na,2008-04-15,2021-04-23
-USMV,ARCA,coreetf,USD,USA Min Vol Ishares Edge MSCI ETF,na,na,2011-10-20,2021-04-23
-VEU,ARCA,coreetf,USD,FTSE All-World Ex-US ETF Vanguard,na,na,2007-03-08,2021-04-23
-VNQI,ARCA,coreetf,USD,Vanguard Global ex-U.S. Real Estate Index Fund ETF,na,na,2010-11-01,2021-04-23
-VTI,ARCA,coreetf,USD,Total Stock Market ETF Vanguard,na,na,2001-06-15,2021-04-23
-WCLD,ARCA,coreetf,USD,WisdomTree Cloud Computing Fund,na,na,2019-09-06,2021-04-23
-XBI,ARCA,coreetf,USD,SPDR S&P Biotech ETF,na,na,2006-02-06,2021-04-23
-XHB,ARCA,coreetf,USD,SPDR S&P Homebuilders ETF,na,na,2006-02-06,2021-04-23
-XLB,ARCA,coreetf,USD,Materials Select Sector SPDR ETF,na,na,1998-12-22,2021-04-23
-XLC,ARCA,coreetf,USD,S&P 500 Communication Sector SPDR,na,na,2018-06-19,2021-04-23
-XLE,ARCA,coreetf,USD,Energy Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLF,ARCA,coreetf,USD,Financial Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLI,ARCA,coreetf,USD,Industrial Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLK,ARCA,coreetf,USD,Technology Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLP,ARCA,coreetf,USD,Consumer Staples Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLRE,ARCA,coreetf,USD,Real Estate Select Sector SPDR Fund,na,na,2015-10-08,2021-04-23
-XLU,ARCA,coreetf,USD,Utilities Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLV,ARCA,coreetf,USD,Health Care Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XLY,ARCA,coreetf,USD,Consumer Discretionary Select Sector SPDR Fund,na,na,1998-12-22,2021-04-23
-XME,ARCA,coreetf,USD,SPDR S&P Metals & Mining ETF,na,na,2006-06-22,2021-04-23
-XOP,ARCA,coreetf,USD,SPDR S&P Oil & Gas Exploration & Production ETF,na,na,2006-06-22,2021-04-23
-XRT,ARCA,coreetf,USD,SPDR S&P Retail ETF,na,na,2006-06-22,2021-04-23
+AAXJ,ARCA,coreetf,USD,All Country Asia Ex Japan Ishares MSCI ETF,na,na,2008-08-15,2021-10-15
+ACWI,ARCA,coreetf,USD,ACWI Ishares MSCI ETF,na,na,2008-03-28,2021-10-15
+AMLP,ARCA,coreetf,USD,Alerian MLP ETF,na,na,2010-08-25,2021-10-15
+ARKG,ARCA,coreetf,USD,ARK Genomic Revolution ETF,na,na,2014-10-31,2021-10-15
+ARKK,ARCA,coreetf,USD,ARK Innovation ETF,na,na,2014-10-31,2021-10-15
+ARKQ,ARCA,coreetf,USD,ARK Industrial Innovation ETF,na,na,2014-09-30,2021-10-15
+ARKW,ARCA,coreetf,USD,ARK Web x.0 ETF,na,na,2014-09-30,2021-10-15
+CLOU,ARCA,coreetf,USD,Global X Cloud Computing ETF,na,na,2019-04-16,2021-10-15
+CQQQ,ARCA,coreetf,USD,Invesco China Technology ETF,na,na,2010-01-22,2021-10-15
+CXSE,ARCA,coreetf,USD,WisdomTree China ex-State-Owned Enterprises Fund,na,na,2012-09-20,2021-10-15
+DIA,ARCA,coreetf,USD,SPDR Dow Jones Industrial Average ETF,na,na,1998-01-20,2021-10-15
+EEM,ARCA,coreetf,USD,iShares MSCI Emerging Markets ETF,na,na,2003-04-14,2021-10-15
+EFA,ARCA,coreetf,USD,iShares MSCI EAFE ETF,na,na,2001-08-27,2021-10-15
+EWC,ARCA,coreetf,USD,iShares MSCI Canada ETF,na,na,1996-03-18,2021-10-15
+EWG,ARCA,coreetf,USD,iShares MSCI Germany ETF,na,na,1996-03-18,2021-10-15
+EWH,ARCA,coreetf,USD,iShares MSCI Hong Kong ETF,na,na,1996-03-18,2021-10-15
+EWJ,ARCA,coreetf,USD,iShares MSCI Japan ETF,na,na,1996-03-18,2021-10-15
+EWT,ARCA,coreetf,USD,iShares MSCI Taiwan ETF,na,na,2000-06-23,2021-10-15
+EWW,ARCA,coreetf,USD,iShares MSCI Mexico ETF,na,na,1996-03-18,2021-10-15
+EWY,ARCA,coreetf,USD,iShares MSCI South Korea ETF,na,na,2000-05-12,2021-10-15
+EWZ,ARCA,coreetf,USD,iShares MSCI Brazil ETF,na,na,2000-07-14,2021-10-15
+EZU,ARCA,coreetf,USD,iShares MSCI EMU ETF,na,na,2000-07-31,2021-10-15
+FEZ,ARCA,coreetf,USD,SPDR EURO STOXX 50 ETF,na,na,2002-10-21,2021-10-15
+FXI,ARCA,coreetf,USD,iShares China Large-Cap ETF,na,na,2004-10-08,2021-10-15
+GDX,ARCA,coreetf,USD,VanEck Vectors Gold Miners ETF,na,na,2006-05-22,2021-10-15
+GDXJ,ARCA,coreetf,USD,VanEck Vectors Junior Gold Miners ETF,na,na,2009-11-11,2021-10-15
+HERO,ARCA,coreetf,USD,Global X Video Games & Esports ETF,na,na,2019-10-31,2021-10-15
+IBB,ARCA,coreetf,USD,iShares Nasdaq Biotechnology ETF,na,na,2001-02-12,2021-10-15
+IBUY,ARCA,coreetf,USD,Amplify Online Retail ETF,na,na,2016-04-20,2021-10-15
+ICLN,ARCA,coreetf,USD,iShares Global Clean Energy ETF,na,na,2008-06-25,2021-10-15
+IGV,ARCA,coreetf,USD,North American Tech-Software Ishares ETF,na,na,2001-07-17,2021-10-15
+IHI,ARCA,coreetf,USD,iShares U.S. Medical Devices ETF,na,na,2006-05-05,2021-10-15
+IJR,ARCA,coreetf,USD,iShares Core S&P Small-Cap ETF,na,na,2000-05-26,2021-10-15
+INDA,ARCA,coreetf,USD,iShares MSCI India ETF,na,na,2012-02-03,2021-10-15
+IPO,ARCA,coreetf,USD,Renaissance IPO ETF,na,na,2013-10-16,2021-10-15
+ITA,ARCA,coreetf,USD,iShares U.S. Aerospace & Defense ETF,na,na,2006-05-05,2021-10-15
+ITB,ARCA,coreetf,USD,iShares U.S. Home Construction ETF,na,na,2006-05-05,2021-10-15
+IWB,ARCA,coreetf,USD,Russell 1000 Ishares ETF,na,na,2000-05-19,2021-10-15
+IWD,ARCA,coreetf,USD,Russell 1000 Value Ishares ETF,na,na,2000-05-26,2021-10-15
+IWF,ARCA,coreetf,USD,Russell 1000 Growth Ishares ETF,na,na,2000-05-26,2021-10-15
+IWM,ARCA,coreetf,USD,iShares Russell 2000 ETF,na,na,2000-05-26,2021-10-15
+IWO,ARCA,coreetf,USD,Russell 2000 Growth Ishares ETF,na,na,2000-07-28,2021-10-15
+IWP,ARCA,coreetf,USD,iShares Russell Midcap Growth ETF,na,na,2001-08-03,2021-10-15
+IXN,ARCA,coreetf,USD,iShares Global Tech ETF,na,na,2001-11-27,2021-10-15
+IYR,ARCA,coreetf,USD,iShares U.S. Real Estate ETF,na,na,2000-06-19,2021-10-15
+JETS,ARCA,coreetf,USD,U.S. Global Jets ETF,na,na,2015-04-30,2021-10-15
+KRE,ARCA,coreetf,USD,SPDR S&P Regional Banking ETF,na,na,2006-06-22,2021-10-15
+KWEB,ARCA,coreetf,USD,KraneShares CSI China Internet ETF,na,na,2013-08-01,2021-10-15
+LIT,ARCA,coreetf,USD,Global X Lithium ETF,na,na,2010-07-23,2021-10-15
+MCHI,ARCA,coreetf,USD,iShares MSCI China ETF,na,na,2011-03-31,2021-10-15
+MDY,ARCA,coreetf,USD,S&P Midcap 400 SPDR,na,na,1995-05-04,2021-10-15
+MTUM,ARCA,coreetf,USD,iShares Edge MSCI USA Momentum Factor ETF,na,na,2013-04-18,2021-10-15
+OGIG,ARCA,coreetf,USD,O’Shares Global Internet Giants ETF,na,na,2018-06-05,2021-10-15
+OIH,ARCA,coreetf,USD,VanEck Vectors Oil Services ETF,na,na,2001-02-26,2021-10-15
+PFF,ARCA,coreetf,USD,US Preferred Stock Ishares ETF,na,na,2007-03-30,2021-10-15
+QQQ,ARCA,coreetf,USD,PowerShares QQQ,na,na,1999-03-10,2021-10-15
+REMX,ARCA,coreetf,USD,VanEck Vectors Rare Earth & Strategic Metals ETF,na,na,2010-10-28,2021-10-15
+RSX,ARCA,coreetf,USD,VanEck Vectors Russia ETF,na,na,2007-04-30,2021-10-15
+RWR,ARCA,coreetf,USD,SPDR Dow Jones REIT ETF,na,na,2001-08-29,2021-10-15
+SIL,ARCA,coreetf,USD,Global X Silver Miners ETF,na,na,2010-04-20,2021-10-15
+SILJ,ARCA,coreetf,USD,ETFMG Prime Junior Silver ETF,na,na,2012-11-29,2021-10-15
+SKYY,ARCA,coreetf,USD,First Trust ISE Cloud Computing Index Fund,na,na,2011-07-06,2021-10-15
+SMH,ARCA,coreetf,USD,VanEck Vectors Semiconductor ETF,na,na,2000-06-05,2021-10-15
+SOXX,ARCA,coreetf,USD,iShares PHLX Semiconductor ETF,na,na,2001-07-13,2021-10-15
+SPLV,ARCA,coreetf,USD,S&P 500 Low Vol Invesco ETF,na,na,2011-05-05,2021-10-15
+SPY,ARCA,coreetf,USD,SPDR S&P 500 ETF,na,na,1993-01-29,2021-10-15
+SPYG,ARCA,coreetf,USD,SPDR Portfolio S&P 500 Growth ETF,na,na,2000-10-02,2021-10-15
+TAN,ARCA,coreetf,USD,Invesco Solar ETF,na,na,2008-04-15,2021-10-15
+USMV,ARCA,coreetf,USD,USA Min Vol Ishares Edge MSCI ETF,na,na,2011-10-20,2021-10-15
+VEU,ARCA,coreetf,USD,FTSE All-World Ex-US ETF Vanguard,na,na,2007-03-08,2021-10-15
+VNQI,ARCA,coreetf,USD,Vanguard Global ex-U.S. Real Estate Index Fund ETF,na,na,2010-11-01,2021-10-15
+VTI,ARCA,coreetf,USD,Total Stock Market ETF Vanguard,na,na,2001-06-15,2021-10-15
+WCLD,ARCA,coreetf,USD,WisdomTree Cloud Computing Fund,na,na,2019-09-06,2021-10-15
+XBI,ARCA,coreetf,USD,SPDR S&P Biotech ETF,na,na,2006-02-06,2021-10-15
+XHB,ARCA,coreetf,USD,SPDR S&P Homebuilders ETF,na,na,2006-02-06,2021-10-15
+XLB,ARCA,coreetf,USD,Materials Select Sector SPDR ETF,na,na,1998-12-22,2021-10-15
+XLC,ARCA,coreetf,USD,S&P 500 Communication Sector SPDR,na,na,2018-06-19,2021-10-15
+XLE,ARCA,coreetf,USD,Energy Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLF,ARCA,coreetf,USD,Financial Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLI,ARCA,coreetf,USD,Industrial Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLK,ARCA,coreetf,USD,Technology Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLP,ARCA,coreetf,USD,Consumer Staples Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLRE,ARCA,coreetf,USD,Real Estate Select Sector SPDR Fund,na,na,2015-10-08,2021-10-15
+XLU,ARCA,coreetf,USD,Utilities Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLV,ARCA,coreetf,USD,Health Care Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XLY,ARCA,coreetf,USD,Consumer Discretionary Select Sector SPDR Fund,na,na,1998-12-22,2021-10-15
+XME,ARCA,coreetf,USD,SPDR S&P Metals & Mining ETF,na,na,2006-06-22,2021-10-15
+XOP,ARCA,coreetf,USD,SPDR S&P Oil & Gas Exploration & Production ETF,na,na,2006-06-22,2021-10-15
+XRT,ARCA,coreetf,USD,SPDR S&P Retail ETF,na,na,2006-06-22,2021-10-15
