@@ -1,17 +1,17 @@
 symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
-DX-Y.NYB,CBOE,Indices,USD,US Dollar Index,none,none,1990-01-01,2021-04-26
-^DJI,NYSE,Indices,USD,Dow Jones Industrial Average,none,none,1990-01-02,2021-04-23
-^FVX,NYBOT,Indices,USD,Treasury Yield 5 Years,none,none,1993-10-29,2021-04-23
-^GDAXI,XETRA,Indices,EUR,Dax Performance Index,none,none,1993-12-14,2021-04-26
-^GSPC,NYSE,Indices,USD,S&P 500 Index,none,none,1990-01-02,2021-04-23
-^HSCE,HKSE,Indices,HKD,Hang Seng China Enterprise Index,none,none,1994-08-08,2021-04-26
-^HSI,HKSE,Indices,HKD,Hang Seng Index,none,none,1990-01-02,2021-04-26
-^IRX,NYBOT,Indices,USD,13 Week Treasury Bill,none,none,1993-10-25,2021-04-23
-^IXIC,NYSE,Indices,USD,Nasdaq Composite Index,none,none,1990-01-02,2021-04-23
-^N225,TSE,Indices,JPY,Nikkei 225 Index,none,none,1990-01-04,2021-04-26
-^NYA,NYSE,Indices,USD,NYSE Composite Index,none,none,2001-01-03,2021-04-23
-^RUT,NYSE,Indices,USD,Russell 2000 Index,none,none,1990-01-02,2021-04-23
-^TNX,NYBOT,Indices,USD,Treasury Yield 10 Years,none,none,1993-10-29,2021-04-23
-^TYX,NYBOT,Indices,USD,Treasury Yield 30 Years,none,none,1993-10-29,2021-04-23
-^VIX,CBOE,Indices,USD,CBOE Volatility Index,none,none,1992-01-02,2021-04-23
-^VXN,CBOE,Indices,USD,CBOE NASDAQ 100 Voltility,none,none,2000-10-10,2021-04-23
+DX-Y.NYB,CBOE,Indices,USD,US Dollar Index,none,none,1990-01-01,2021-10-15
+^DJI,NYSE,Indices,USD,Dow Jones Industrial Average,none,none,1990-01-02,2021-10-15
+^FVX,NYBOT,Indices,USD,Treasury Yield 5 Years,none,none,1993-10-29,2021-10-15
+^GDAXI,XETRA,Indices,EUR,Dax Performance Index,none,none,1993-12-14,2021-10-15
+^GSPC,NYSE,Indices,USD,S&P 500 Index,none,none,1990-01-02,2021-10-15
+^HSCE,HKSE,Indices,HKD,Hang Seng China Enterprise Index,none,none,1994-08-08,2021-10-15
+^HSI,HKSE,Indices,HKD,Hang Seng Index,none,none,1990-01-02,2021-10-15
+^IRX,NYBOT,Indices,USD,13 Week Treasury Bill,none,none,1993-10-25,2021-10-15
+^IXIC,NYSE,Indices,USD,Nasdaq Composite Index,none,none,1990-01-02,2021-10-15
+^N225,TSE,Indices,JPY,Nikkei 225 Index,none,none,1990-01-04,2021-10-15
+^NYA,NYSE,Indices,USD,NYSE Composite Index,none,none,2001-01-03,2021-10-15
+^RUT,NYSE,Indices,USD,Russell 2000 Index,none,none,1990-01-02,2021-10-15
+^TNX,NYBOT,Indices,USD,Treasury Yield 10 Years,none,none,1993-10-29,2021-10-15
+^TYX,NYBOT,Indices,USD,Treasury Yield 30 Years,none,none,1993-10-29,2021-10-15
+^VIX,CBOE,Indices,USD,CBOE Volatility Index,none,none,1992-01-02,2021-10-15
+^VXN,CBOE,Indices,USD,CBOE NASDAQ 100 Voltility,none,none,2001-01-23,2021-10-15
