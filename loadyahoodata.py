@@ -110,3 +110,34 @@ def getlitedata(symbollist, adjust=True, startstr='1990-01-01', endstr='2046-12-
     dfallsymbols = dfallsymbols.fillna(method='ffill')
 
     return dfallsymbols
+
+def getyahoofutures(symbol, startstr='2010-01-01', endstr='2046-12-31', futures=True):
+    """Scrape via yahoo API to obtain data for a single symbol."""
+    renamedict = {'Date': 'date', 'Open': 'op', 'High': 'hi', 'Low': 'lo', 'Close': 'cl', 'Volume': 'vol',
+                  'Adj Close': 'adj_cl', 'Dividends': 'div', 'Stock Splits': 'split'}
+    ohlcvdfield = ['op', 'hi', 'lo', 'cl', 'vol', 'div']
+    if futures:
+        fsymbol = f'{symbol}=F'
+    else:
+        fsymbol = symbol
+    try:
+        dfsymbol = yf.download(fsymbol, start=startstr, end=endstr, auto_adjust=False, actions=True,
+                               group_by='Tickers', threads=16)
+        dfsymbol = dfsymbol[(dfsymbol['Volume'] > 0) | (dfsymbol['High'] > dfsymbol['Low'])]  # Filter bad data
+        dfsymbol = dfsymbol.reset_index()
+        dfsymbol = dfsymbol.rename(columns=renamedict)
+        dfsymbol = dfsymbol.set_index('date')
+        adjfactor = dfsymbol['adj_cl'] / dfsymbol['cl']
+        for field in ohlcvdfield[:-2]:
+            dfsymbol[f'adj_{field}'] = dfsymbol[field] * adjfactor
+        dfsymbol['adj_vol'] = dfsymbol['vol'] / adjfactor
+        dfsymbol = dfsymbol[[f'adj_{field}' for field in ohlcvdfield[:-1]]]
+        dfsymbol = dfsymbol.rename(columns={f'adj_{field}': f'{symbol}_{field}' for field in ohlcvdfield[:-1]})
+        dfsymbol = np.round(dfsymbol, 4)
+    except:
+        dfsymbol = pd.DataFrame()
+        print(f'Failed preparing data for {symbol}.')
+
+    dfsymbol = np.round(dfsymbol, 4)
+
+    return dfsymbol
