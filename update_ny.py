@@ -39,7 +39,7 @@ dict_testsymbol = {'Indices': ['^DJI', '^GSPC', '^VIX', '^HSI'],
 
 if __name__ == '__main__':
     Yahoodata = Litedata('yahoo') 
-    list_sectype = ['Indices', 'usstock', 'largecap', 'coreetf', 'altetf', 'levetf']
+    list_sectype = ['coreetf', 'usstock', 'largecap', 'levetf', 'altetf', 'Indices']
     for sectype in list_sectype:
         update_sectypedata(sectype, dict_testsymbol[sectype])
 
