@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 16 20:14:39 2020
-
-@author: willbillion
-"""
-
 import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import sys
