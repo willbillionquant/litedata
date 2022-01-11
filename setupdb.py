@@ -1,5 +1,4 @@
 import os
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import sys
 sys.path.append('..')
 from glob import glob
