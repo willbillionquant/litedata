@@ -1,5 +1,4 @@
 import os
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import sys
 sys.path.append('..')
 
@@ -15,17 +14,12 @@ from sqlalchemy import insert
 from itertools import product
 import yfinance as yf
 
-df_setting = pd.read_csv('setting_litedata.csv', header=0, index_col='field')
-basepath = df_setting.loc['basepath', 'value']
-logpath = os.path.join(basepath, 'logs')
-if not os.path.exists(logpath):
-    os.makedirs(logpath)
+from litedata import *
 
 import logging
 currenttime = datetime.now().strftime('%Y%m%d')
-logfile = os.path.join(logpath, 'liteupdate_%s.txt'%(currenttime))
-logging.basicConfig(filename=logfile, level=logging.INFO, 
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logfile = os.path.join(logpath, f'liteupdate_{currenttime}.txt')
+logging.basicConfig(filename=logfile, level=logging.INFO,  format='%(asctime)s - %(levelname)s - %(message)s')
 
 class Litedata():
 
