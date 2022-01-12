@@ -1,5 +1,4 @@
 import os
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import sys
 sys.path.append('..')
 from datetime import datetime, timedelta
@@ -10,7 +9,7 @@ logfile = 'liteupdate_%s.txt'%(currenttime)
 logging.basicConfig(filename=logfile, level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-from litedata import Litedata
+from litedata.litedb import *
 Yahoodata = Litedata('yahoo')
 
 def update_sectypedata(sectype, symbollist_test, vecdelta=(16, 0), 
