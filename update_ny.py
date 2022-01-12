@@ -1,21 +1,20 @@
 import os
 import sys
 sys.path.append('..')
-
-from litedata import basepath
-import logging
-
-from litedata import Litedata
-from setupdb import init_dbsetup
-dbfile = os.path.join(basepath, 'global_data.db')
-if not os.path.exists(dbfile):
-    init_dbsetup()
-
 from datetime import datetime
+
+from litedata import *
+from litedata.litedb import *
+import logging
 currenttime = datetime.now().strftime('%Y%m%d')
 logfile = f'liteupdate_{currenttime}.txt'
 logging.basicConfig(filename=logfile, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info('START Updating US data:')
+
+from setupdb import init_dbsetup
+dbfile = os.path.join(basepath, 'global_data.db')
+if not os.path.exists(dbfile):
+    init_dbsetup()
 
 from updatesectype_flow import update_sectypedata
 
