@@ -2,7 +2,8 @@ import os
 import sys
 sys.path.append('..')
 
-from litedata import basepath
+from litedata import *
+from litedata.litedb import *
 from litedata.setupdb import init_dbsetup
 dbfile = os.path.join(basepath, 'global_data.db')
 if not os.path.exists(dbfile):
@@ -16,7 +17,6 @@ logging.basicConfig(filename=logfile, level=logging.INFO, format='%(asctime)s - 
 logging.info('START Updating Asian data:')
 
 from updatesectype_flow import update_sectypedata
-from litedata import Litedata
 
 list_hksymbol = ['0388.HK', '0700.HK', '2318.HK', '3690.HK']
 list_indexsymbol = ['^DJI', '^GSPC', '^VIX', '^HSI']
