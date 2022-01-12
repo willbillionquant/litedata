@@ -3,7 +3,9 @@ import sys
 sys.path.append('..')
 from glob import glob
 import shutil
-from litedata import Litedata, basepath
+
+from litedata import *
+from litedata.litedb import *
 
 def init_dbsetup():
     if not os.path.exists(basepath):
