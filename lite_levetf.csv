@@ -1,41 +1,31 @@
 symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
-AGQ,ARCA,levetf,USD,ProShares Ultra Silver,na,na,2008-12-04,2021-10-15
-DDM,ARCA,levetf,USD,ProShares Ultra Dow30,na,na,2006-06-21,2021-10-15
-DGP,ARCA,levetf,USD,DB Gold Double Long ETN,na,na,2008-02-28,2021-10-15
-DXD,ARCA,levetf,USD,ProShares UltraShort Dow 30,na,na,2006-07-13,2021-10-15
-DZZ,ARCA,levetf,USD,DB Gold Double Short ETN,na,na,2008-02-28,2021-10-15
-EDC,ARCA,levetf,USD,Direxion Daily Emerging Markets Bull 3X Shares,na,na,2008-12-30,2021-10-15
-EDZ,ARCA,levetf,USD,Direxion Daily Emerging Markets Bear 3X Shares,na,na,2008-12-30,2021-10-15
-FAS,ARCA,levetf,USD,Direxion Daily Financial Bull 3X Shares,na,na,2008-11-19,2021-10-15
-FAZ,ARCA,levetf,USD,Direxion Daily Financial Bear 3X Shares,na,na,2008-11-19,2021-10-15
-LABD,ARCA,levetf,USD,Direxion Daily S&P Biotech Bear 3x Shares,na,na,2015-05-28,2021-10-15
-LABU,ARCA,levetf,USD,Direxion Daily S&P Biotech Bull 3x Shares,na,na,2015-05-28,2021-10-15
-QID,ARCA,levetf,USD,ProShares UltraShort QQQ,na,na,2006-07-13,2021-10-15
-QLD,ARCA,levetf,USD,ProShares Ultra QQQ,na,na,2006-06-21,2021-10-15
-SCO,ARCA,levetf,USD,ProShares UltraShort Bloomberg Crude Oil,na,na,2008-11-25,2021-10-15
-SDOW,ARCA,levetf,USD,ProShares UltraPro Short Dow30,na,na,2010-02-11,2021-10-15
-SDS,ARCA,levetf,USD,ProShares UltraShort S&P 500,na,na,2006-07-13,2021-10-15
-SOXL,ARCA,levetf,USD,Direxion Daily Semiconductor Bull 3x Shares,na,na,2010-03-11,2021-10-15
-SOXS,ARCA,levetf,USD,Direxion Daily Semiconductor Bear 3x Shares,na,na,2010-03-11,2021-10-15
-SPXL,ARCA,levetf,USD,Direxion Daily S&P 500 Bull 3X Shares,na,na,2008-11-05,2021-10-15
-SPXS,ARCA,levetf,USD,Direxion Daily S&P 500 Bear 3X Shares,na,na,2008-11-19,2021-10-15
-SQQQ,ARCA,levetf,USD,Ultrapro Short QQQ Proshares,na,na,2010-02-11,2021-10-15
-SRTY,ARCA,levetf,USD,ProShares UltraPro Short Russell2000,na,na,2010-02-11,2021-10-15
-SSO,ARCA,levetf,USD,ProShares Ultra S&P 500,na,na,2006-06-21,2021-10-15
-SVXY,ARCA,levetf,USD,ProShares Short VIX Short-Term Futures,na,na,2011-10-04,2021-10-15
-TECL,ARCA,levetf,USD,Direxion Daily Technology Bull 3X Shares,na,na,2008-12-30,2021-10-15
-TECS,ARCA,levetf,USD,Direxion Daily Technology Bear 3X Shares,na,na,2008-12-30,2021-10-15
-TMF,ARCA,levetf,USD,Direxion Daily 20+ Yr Treasury Bull 3X ETF,na,na,2009-04-16,2021-10-15
-TMV,ARCA,levetf,USD,Direxion Daily 20+ Yr Treasury Bear 3X ETF,na,na,2009-04-16,2021-10-15
-TNA,ARCA,levetf,USD,Direxion Daily Small Cap Bull 3X Shares,na,na,2008-11-19,2021-10-15
-TQQQ,ARCA,levetf,USD,Ultrapro QQQ Proshares,na,na,2010-02-11,2021-10-15
-TWM,ARCA,levetf,USD,ProShares Ultra Short Russell 2000,na,na,2007-01-25,2021-10-15
-TZA,ARCA,levetf,USD,Direxion Daily Small Cap Bear 3X Shares,na,na,2008-11-19,2021-10-15
-UCO,ARCA,levetf,USD,ProShares Ultra Bloomberg Crude Oil,na,na,2008-11-25,2021-10-15
-UDOW,ARCA,levetf,USD,ProShares UltraPro Dow30,na,na,2010-02-11,2021-10-15
-URTY,ARCA,levetf,USD,ProShares UltraPro Russell2000,na,na,2010-02-11,2021-10-15
-UVXY,ARCA,levetf,USD,ProShares Ultra VIX Short-Term Futures,na,na,2011-10-04,2021-10-15
-UWM,ARCA,levetf,USD,ProShares Ultra Russell2000,na,na,2007-01-25,2021-10-15
-YANG,ARCA,levetf,USD,Direxion Daily China 3x Bear Shares,na,na,2009-12-03,2021-10-15
-YINN,ARCA,levetf,USD,Direxion Daily China 3x Bull Shares,na,na,2009-12-03,2021-10-15
-ZSL,ARCA,levetf,USD,ProShares UltraShort Silver,na,na,2008-12-03,2021-10-15
+AGQ,ARCA,levetf,USD,ProShares Ultra Silver,na,na,2008-12-04,2022-06-03
+ZSL,ARCA,levetf,USD,ProShares UltraShort Silver,na,na,2008-12-03,2022-06-03
+DGP,ARCA,levetf,USD,DB Gold Double Long ETN,na,na,2008-02-28,2022-06-03
+DZZ,ARCA,levetf,USD,DB Gold Double Short ETN,na,na,2008-02-28,2022-06-03
+EDC,ARCA,levetf,USD,Direxion Daily Emerging Markets Bull 3X Shares,na,na,2008-12-30,2022-06-03
+EDZ,ARCA,levetf,USD,Direxion Daily Emerging Markets Bear 3X Shares,na,na,2008-12-30,2022-06-03
+FAS,ARCA,levetf,USD,Direxion Daily Financial Bull 3X Shares,na,na,2008-11-19,2022-06-03
+FAZ,ARCA,levetf,USD,Direxion Daily Financial Bear 3X Shares,na,na,2008-11-19,2022-06-03
+LABD,ARCA,levetf,USD,Direxion Daily S&P Biotech Bear 3x Shares,na,na,2015-05-28,2022-06-03
+LABU,ARCA,levetf,USD,Direxion Daily S&P Biotech Bull 3x Shares,na,na,2015-05-28,2022-06-03
+SOXL,ARCA,levetf,USD,Direxion Daily Semiconductor Bull 3x Shares,na,na,2010-03-11,2022-06-03
+SOXS,ARCA,levetf,USD,Direxion Daily Semiconductor Bear 3x Shares,na,na,2010-03-11,2022-06-03
+SPXL,ARCA,levetf,USD,Direxion Daily S&P 500 Bull 3X Shares,na,na,2008-11-05,2022-06-03
+SPXS,ARCA,levetf,USD,Direxion Daily S&P 500 Bear 3X Shares,na,na,2008-11-19,2022-06-03
+TECL,ARCA,levetf,USD,Direxion Daily Technology Bull 3X Shares,na,na,2008-12-30,2022-06-03
+TECS,ARCA,levetf,USD,Direxion Daily Technology Bear 3X Shares,na,na,2008-12-30,2022-06-03
+TMF,ARCA,levetf,USD,Direxion Daily 20+ Yr Treasury Bull 3X ETF,na,na,2009-04-16,2022-06-03
+TMV,ARCA,levetf,USD,Direxion Daily 20+ Yr Treasury Bear 3X ETF,na,na,2009-04-16,2022-06-03
+TQQQ,ARCA,levetf,USD,Ultrapro QQQ Proshares,na,na,2010-02-11,2022-06-03
+SQQQ,ARCA,levetf,USD,Ultrapro Short QQQ Proshares,na,na,2010-02-11,2022-06-03
+TNA,ARCA,levetf,USD,Direxion Daily Small Cap Bull 3X Shares,na,na,2008-11-19,2022-06-03
+TZA,ARCA,levetf,USD,Direxion Daily Small Cap Bear 3X Shares,na,na,2008-11-19,2022-06-03
+UCO,ARCA,levetf,USD,ProShares Ultra Bloomberg Crude Oil,na,na,2008-11-25,2022-06-03
+SCO,ARCA,levetf,USD,ProShares UltraShort Bloomberg Crude Oil,na,na,2008-11-25,2022-06-03
+UDOW,ARCA,levetf,USD,ProShares UltraPro Dow30,na,na,2010-02-11,2022-06-03
+SDOW,ARCA,levetf,USD,ProShares UltraPro Short Dow30,na,na,2010-02-11,2022-06-03
+UVXY,ARCA,levetf,USD,ProShares Ultra VIX Short-Term Futures,na,na,2011-10-04,2022-06-03
+SVXY,ARCA,levetf,USD,ProShares Short VIX Short-Term Futures,na,na,2011-10-04,2022-06-03
+YANG,ARCA,levetf,USD,Direxion Daily China 3x Bear Shares,na,na,2009-12-03,2022-06-03
+YINN,ARCA,levetf,USD,Direxion Daily China 3x Bull Shares,na,na,2009-12-03,2022-06-03
