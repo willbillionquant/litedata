@@ -19,7 +19,6 @@ if not os.path.exists(dbfile):
 from updatesectype_flow import update_sectypedata
 
 dict_testsymbol = {'Indices': ['^DJI', '^GSPC', '^VIX', '^HSI'],
-                   'usstock': ['IOVA', 'MELI', 'SE', 'SQ'],
                    'largecap': ['AAPL', 'AMZN', 'MSFT', 'NVDA'],
                    'coreetf': ['SPY', 'QQQ', 'IWM', 'ARKK'],
                    'altetf': ['TLT', 'GLD', 'SLV', 'HYG'],
@@ -28,7 +27,7 @@ dict_testsymbol = {'Indices': ['^DJI', '^GSPC', '^VIX', '^HSI'],
 
 if __name__ == '__main__':
     Yahoodata = Litedata('yahoo') 
-    list_sectype = ['Indices', 'coreetf', 'altetf', 'levetf', 'largecap', 'usstock']
+    list_sectype = ['Indices', 'coreetf', 'altetf', 'levetf', 'largecap']
     for sectype in list_sectype:
         update_sectypedata(sectype, dict_testsymbol[sectype])
 
