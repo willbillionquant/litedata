@@ -3,6 +3,8 @@ codepath = os.path.dirname(os.path.abspath(__file__))
 import sys
 sys.path.append('..')
 
+from datetime import datetime, timedelta
+
 from configparser import ConfigParser
 configdata = ConfigParser()
 configdata.read(os.path.join(codepath, 'setting_litedata.ini'))
@@ -13,3 +15,59 @@ logpath = os.path.join(basepath, 'logs')
 for path in [basepath, logpath]:
     if not os.path.exists(path):
         os.makedirs(path)
+
+# US trading days setup
+holidaydict = {
+    2014: ['-01-01', '-01-20', '-02-17', '-04-18', '-05-26', '-07-04', '-09-01', '-11-27', '-12-25'],
+    2015: ['-01-01', '-01-19', '-02-16', '-04-03', '-05-25', '-07-03', '-09-07', '-11-26', '-12-25'],
+    2016: ['-01-01', '-01-18', '-02-15', '-03-25', '-05-30', '-07-04', '-09-05', '-11-24', '-12-26'],
+    2017: ['-01-02', '-01-16', '-02-20', '-04-14', '-05-29', '-07-04', '-09-04', '-11-23', '-12-25'],
+    2018: ['-01-01', '-01-15', '-02-19', '-03-30', '-05-28', '-07-04', '-09-03', '-11-22', '-12-25'],
+    2019: ['-01-01', '-01-21', '-02-18', '-04-19', '-05-27', '-07-04', '-09-02', '-11-28', '-12-25'],
+    2020: ['-01-01', '-01-20', '-02-17', '-04-10', '-05-25', '-07-03', '-09-07', '-11-26', '-12-25'],
+    2021: ['-01-01', '-01-18', '-02-15', '-04-02', '-05-31', '-07-05', '-09-06', '-11-25', '-12-24'],
+    2022: ['-01-17', '-02-21', '-04-15', '-05-30', '-06-20', '-07-04', '-09-05', '-11-24', '-12-26'],
+    2023: ['-01-02', '-01-16', '-02-20', '-04-07', '-05-29', '-06-19', '-07-04', '-09-04', '-11-23', '-12-25'],
+}
+
+holidaydict = {year: [f'{str(year)}{dtstr}' for dtstr in vallist] for year, vallist in holidaydict.items()}
+
+def getworkdays(startyr=2015, endyr=2022, form=0):
+    """Get all dates  to string in format 0 ('yyyy-mm-dd') or 1 ('yyyymmdd'') or 2 ('yymmdd)."""
+    assert (form in [0, 1, 2]), 'Inappropriate form!'
+    dtlist = []
+    ltdate = datetime.strptime(str(startyr) + '-01-01', '%Y-%m-%d')
+    while (ltdate.year >= startyr) and (ltdate.year <= endyr):
+        if ltdate.weekday() <= 4:
+            ltdtstr = ltdate.strftime('%Y-%m-%d')
+            if form == 0:
+                dtlist.append(ltdtstr)
+            elif form == 1:
+                dtlist.append(ltdtstr.replace("-", ""))
+            elif form == 2:
+                dtlist.append(ltdtstr.replace("-", "")[2:])
+        ltdate += timedelta(days=1)
+
+    return dtlist
+
+def gettradedays(holidaydict, form=0):
+    """Get all trading day spanning a couple of years."""
+    assert (form in [0, 1, 2]), 'Inappropriate form!'
+    yearlist = list(holidaydict.keys())
+    yearlist.sort()
+    workdtlist = getworkdays(yearlist[0], yearlist[-1], form)
+
+    tdlist = workdtlist.copy()
+    holidaylist = []
+    for year in range(yearlist[0], yearlist[-1] + 1):
+        hdaylist = holidaydict[year]
+        if form == 1:
+            hdaylist = [name.replace("-", "") for name in hdaylist]
+        elif form == 2:
+            hdaylist = [name.replace("-", "")[2:] for name in hdaylist]
+        holidaylist += hdaylist
+
+    for date in holidaylist:
+        tdlist.remove(date)
+
+    return tdlist
