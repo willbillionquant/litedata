@@ -19,11 +19,9 @@ logging.info('START Updating Asian data:')
 from updatesectype_flow import update_sectypedata
 
 list_hksymbol = ['0388.HK', '0700.HK', '2318.HK', '3690.HK']
-list_indexsymbol = ['^DJI', '^GSPC', '^VIX', '^HSI']
 
 if __name__ == '__main__':
     Yahoodata = Litedata('yahoo')
-    update_sectypedata('Indices', list_indexsymbol, (16,0), 18, 5)
     update_sectypedata('hkstock', list_hksymbol, (16,0), 18, 5)
     
 logging.info('END Updating Asian data.')
