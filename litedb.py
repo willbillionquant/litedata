@@ -77,7 +77,7 @@ class Litedata():
                 meta.create_all(self.engine)
     
                
-    def get_symboldict_db(self, sectype):
+    def get_symboldict_db(self):
         """Load the symbol table from database to extract the symbol dictionary."""
         self.create_symboltable()
         symboldict = dict()
@@ -85,8 +85,8 @@ class Litedata():
             with self.engine.connect() as con:
                 stmt_select = "SELECT symbol, ex_code, sectype, currency, \
                                name, sector, industry, start_date, end_date\
-                               FROM `symbol` WHERE `vendor` = '%s' AND `sectype` = '%s' \
-                               ORDER BY `sectype`, `start_date`, `symbol`" %(self.vendor, sectype)
+                               FROM `symbol` WHERE `vendor` = '%s' \
+                               ORDER BY `sectype`, `start_date`, `symbol`" %(self.vendor)
                 result = con.execute(stmt_select).fetchall()
                 symboldict = {item[0]: (item[1], item[2], item[3], item[4], item[5], item[6], item[7], item[8])
                                         for item in result}
