@@ -323,7 +323,7 @@ class Litedata():
             lasttd_sectype = max(list_lasttd)
 
         updatelist = []
-        
+
         for symbol in symboldict.keys():
             spec = self.symboldict[symbol]
             lastdate_db = datetime.strptime(spec[-1][:19], '%Y-%m-%d %H:%M:%S')
