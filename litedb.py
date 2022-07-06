@@ -26,7 +26,7 @@ class Litedata():
     def __init__(self, vendor):
         self.vendor = vendor
         self.data_path = self.get_datapath()
-        self.engine = create_engine('sqlite:///%s'%(os.path.join(basepath, 'global_data.db')))
+        self.engine = create_engine('sqlite:///%s'%(os.path.join(basepath, 'globaldata.db')))
         self.symboldict = self.get_symboldict_db()
         self.symbollist = self.symboldict.keys()
         ohlcv_columns = ['%s%s'%(style, field) for style, field in product(['', 'adj_'], ['op', 'hi', 'lo', 'cl', 'vol'])]
