@@ -178,7 +178,6 @@ MSCI,ARCA,largecap,USD,MSCI Inc,Financials,Financial Exchanges & Data,2007-11-15
 MTB,ARCA,largecap,USD,M&T Bank Corp.,Financials,Regional Banks,1990-01-02,2022-06-03
 NDAQ,ARCA,largecap,USD,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,2002-07-01,2022-06-03
 NTRS,ARCA,largecap,USD,Northern Trust Corp.,Financials,Asset Management & Custody Banks,1990-01-02,2022-06-03
-PBCT,ARCA,largecap,USD,People's United Financial,Financials,Thrifts & Mortgage Finance,1990-01-02,2022-04-01
 PFG,ARCA,largecap,USD,Principal Financial Group,Financials,Life & Health Insurance,2001-10-23,2022-06-03
 PGR,ARCA,largecap,USD,Progressive Corp.,Financials,Property & Casualty Insurance,1990-01-02,2022-06-03
 PNC,ARCA,largecap,USD,PNC Financial Services,Financials,Regional Banks,1990-01-02,2022-06-03
@@ -213,7 +212,6 @@ BIIB,ARCA,largecap,USD,Biogen Inc.,Health Care,Biotechnology,1991-09-17,2022-06-
 BMY,ARCA,largecap,USD,Bristol-Myers Squibb,Health Care,Health Care Distributors,1990-01-02,2022-06-03
 BSX,ARCA,largecap,USD,Boston Scientific,Health Care,Health Care Equipment,1992-05-19,2022-06-03
 CAH,ARCA,largecap,USD,Cardinal Health Inc.,Health Care,Health Care Distributors,1990-01-02,2022-06-03
-CERN,ARCA,largecap,USD,Cerner,Health Care,Health Care Technology,1990-01-02,2022-06-03
 CI,ARCA,largecap,USD,CIGNA Corp.,Health Care,Managed Health Care,1990-01-02,2022-06-03
 CNC,ARCA,largecap,USD,Centene Corporation,Health Care,Managed Health Care,2001-12-13,2022-06-03
 COO,ARCA,largecap,USD,The Cooper Companies,Health Care,Health Care Supplies,1990-01-02,2022-06-03
