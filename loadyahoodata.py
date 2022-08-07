@@ -5,9 +5,7 @@ import numpy as np
 import pandas as pd
 
 import yfinance as yf
-from litedata.litedb import *
 
-Yahoodata = Litedata('yahoo')
 ohlcvdfield = ['op', 'hi', 'lo', 'cl', 'vol', 'div']
 
 
