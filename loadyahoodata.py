@@ -81,13 +81,13 @@ def getyahoodata(symbollist, adjust=True, startstr='1990-01-01', endstr='2046-12
 
     return dfallsymbols
 
-def getlitedata(symbollist, adjust=True, startstr='1990-01-01', endstr='2046-12-31'):
+def getlitedata(Dbohlc, symbollist, adjust=True, startstr='1990-01-01', endstr='2046-12-31'):
     """Obtain via standalone Yahoo database."""
     datadict = dict()
     ohlcvdfield = ['op', 'hi', 'lo', 'cl', 'vol', 'div']
     for symbol in symbollist:
         try:
-            dfsymbol = Yahoodata.load_dbdata(symbol, startstr, endstr)
+            dfsymbol = Dbohlc.load_dbdata(symbol, startstr, endstr)
             if not adjust:
                 dfsymbol = dfsymbol[ohlcvdfield]
                 dfsymbol = dfsymbol.rename(columns={field: f'{symbol}_{field}' for field in ohlcvdfield})
