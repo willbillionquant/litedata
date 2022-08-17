@@ -115,3 +115,17 @@ def gettradedays(holidaydict, form=0):
             print(f'{date} NOT in working day list.')
 
     return tdlist
+
+## Resample to other frequency
+def ohlcresample(dfohlc, assetlist, freq='W'):
+    """Resample the OHLC dataframe into desired timeframe."""
+    aggrule = {}
+    for asset in assetlist:
+        aggrule[f'{asset}_op'] = 'first'
+        aggrule[f'{asset}_hi'] = 'max'
+        aggrule[f'{asset}_lo'] = 'min'
+        aggrule[f'{asset}_cl'] = 'last'
+        aggrule[f'{asset}_vol'] = 'sum'
+    dfnew = dfohlc.resample(rule=freq, label='left').agg(aggrule)
+
+    return dfnew
