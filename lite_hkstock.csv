@@ -1,450 +1,581 @@
 symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
-0001.HK,HKSE,hkstock,HKD,CKH HOLDINGS,Conglomerates,none,2000-01-04,2022-06-17
-0019.HK,HKSE,hkstock,HKD,SWIRE PACIFIC A,Conglomerates,none,2000-01-04,2022-06-17
-0087.HK,HKSE,hkstock,HKD,SWIRE PACIFIC B,Conglomerates,none,2000-01-04,2022-06-17
-0242.HK,HKSE,hkstock,HKD,SHUN TAK HOLD,Conglomerates,none,2000-01-04,2022-06-17
-0267.HK,HKSE,hkstock,HKD,CITIC,Conglomerates,none,2000-01-04,2022-06-17
-0363.HK,HKSE,hkstock,HKD,SHANGHAI IND H,Conglomerates,none,2000-01-04,2022-06-17
-0656.HK,HKSE,hkstock,HKD,FOSUN INTL,Conglomerates,none,2007-07-16,2022-06-17
-0659.HK,HKSE,hkstock,HKD,NWS HOLDINGS,Conglomerates,none,2003-02-24,2022-06-17
-1282.HK,HKSE,hkstock,HKD,GLORY SUN FIN,Conglomerates,none,2010-12-15,2022-06-17
-0027.HK,HKSE,hkstock,HKD,GALAXY ENT,Consumer Discretionary,none,2000-01-04,2022-06-17
-0066.HK,HKSE,hkstock,HKD,MTR CORPORATION,Consumer Discretionary,none,2000-10-09,2022-06-17
-0069.HK,HKSE,hkstock,HKD,SHANGRI-LA ASIA,Consumer Discretionary,none,2000-01-04,2022-06-17
-0078.HK,HKSE,hkstock,HKD,REGAL INT'L,Consumer Discretionary,none,2002-10-18,2022-06-17
-0116.HK,HKSE,hkstock,HKD,CHOW SANG SANG,Consumer Discretionary,none,2000-01-04,2022-06-17
-0175.HK,HKSE,hkstock,HKD,GEELY AUTO,Consumer Discretionary,none,2005-09-29,2022-06-17
-0178.HK,HKSE,hkstock,HKD,SA SA INT'L,Consumer Discretionary,none,2000-01-04,2022-06-17
-0179.HK,HKSE,hkstock,HKD,JOHNSON ELEC H,Consumer Discretionary,none,2000-08-29,2022-06-17
-0200.HK,HKSE,hkstock,HKD,MELCO INT'L DEV,Consumer Discretionary,none,2000-01-04,2022-06-17
-0256.HK,HKSE,hkstock,HKD,CITYCHAMP,Consumer Discretionary,none,2000-01-04,2022-06-17
-0293.HK,HKSE,hkstock,HKD,CATHAY PAC AIR,Consumer Discretionary,none,2000-01-04,2022-06-17
-0308.HK,HKSE,hkstock,HKD,CHINA TRAVEL HK,Consumer Discretionary,none,2000-01-04,2022-06-17
-0341.HK,HKSE,hkstock,HKD,CAFE DE CORAL H,Consumer Discretionary,none,2000-01-04,2022-06-17
-0425.HK,HKSE,hkstock,HKD,MINTH GROUP,Consumer Discretionary,none,2005-12-01,2022-06-17
-0489.HK,HKSE,hkstock,HKD,DONGFENG GROUP,Consumer Discretionary,none,2005-12-07,2022-06-17
-0493.HK,HKSE,hkstock,HKD,GOME RETAIL,Consumer Discretionary,none,2004-09-10,2022-06-17
-0520.HK,HKSE,hkstock,HKD,XIABUXIABU,Consumer Discretionary,none,2014-12-17,2022-06-17
-0525.HK,HKSE,hkstock,HKD,GUANGSHEN RAIL,Consumer Discretionary,none,2000-01-04,2022-06-17
-0551.HK,HKSE,hkstock,HKD,YUE YUEN IND,Consumer Discretionary,none,2003-03-11,2022-06-17
-0582.HK,HKSE,hkstock,HKD,LANDING INTL,Consumer Discretionary,none,2002-04-30,2022-06-17
-0590.HK,HKSE,hkstock,HKD,LUK FOOK HOLD,Consumer Discretionary,none,2000-01-04,2022-06-17
-0667.HK,HKSE,hkstock,HKD,CHINA EAST EDU,Consumer Discretionary,none,2019-06-12,2022-06-17
-0669.HK,HKSE,hkstock,HKD,TECHTRONIC IND,Consumer Discretionary,none,2004-06-14,2022-06-17
-0670.HK,HKSE,hkstock,HKD,CHINA EAST AIR,Consumer Discretionary,none,2000-01-04,2022-06-17
-0694.HK,HKSE,hkstock,HKD,BEIJING AIRPORT,Consumer Discretionary,none,2000-02-01,2022-06-17
-0709.HK,HKSE,hkstock,HKD,GIORDANO INT'L,Consumer Discretionary,none,2000-08-25,2022-06-07
-0751.HK,HKSE,hkstock,HKD,SKYWORTH GROUP,Consumer Discretionary,none,2000-04-07,2022-06-17
-0753.HK,HKSE,hkstock,HKD,AIR CHINA,Consumer Discretionary,none,2004-12-15,2022-06-17
-0772.HK,HKSE,hkstock,HKD,CHINA LIT,Consumer Discretionary,none,2017-11-08,2022-06-17
-0780.HK,HKSE,hkstock,HKD,TONGCHENG-ELONG,Consumer Discretionary,none,2018-11-26,2022-06-17
-0839.HK,HKSE,hkstock,HKD,CHINA EDU GROUP,Consumer Discretionary,none,2017-12-15,2022-06-17
-0880.HK,HKSE,hkstock,HKD,SJM HOLDINGS,Consumer Discretionary,none,2008-07-16,2022-06-17
-0881.HK,HKSE,hkstock,HKD,ZHONGSHENG HLDG,Consumer Discretionary,none,2010-03-26,2022-06-17
-0973.HK,HKSE,hkstock,HKD,L'OCCITANE,Consumer Discretionary,none,2010-05-07,2022-06-17
-1055.HK,HKSE,hkstock,HKD,CHINA SOUTH AIR,Consumer Discretionary,none,2000-01-04,2022-06-17
-1060.HK,HKSE,hkstock,HKD,ALI PICTURES,Consumer Discretionary,none,2003-01-08,2022-06-17
-1070.HK,HKSE,hkstock,HKD,TCL ELECTRONICS,Consumer Discretionary,none,2000-01-04,2022-06-17
-1128.HK,HKSE,hkstock,HKD,WYNN MACAU,Consumer Discretionary,none,2009-10-09,2022-06-17
-1211.HK,HKSE,hkstock,HKD,BYD COMPANY,Consumer Discretionary,none,2002-07-31,2022-06-17
-1212.HK,HKSE,hkstock,HKD,LIFESTYLE INT'L,Consumer Discretionary,none,2005-09-29,2022-06-17
-1234.HK,HKSE,hkstock,HKD,CHINA LILANG,Consumer Discretionary,none,2009-09-25,2022-06-17
-1268.HK,HKSE,hkstock,HKD,MEIDONG AUTO,Consumer Discretionary,none,2013-12-05,2022-06-17
-1269.HK,HKSE,hkstock,HKD,FIRST CAP GP,Consumer Discretionary,none,2011-11-23,2022-06-17
-1293.HK,HKSE,hkstock,HKD,GRAND BAOXIN,Consumer Discretionary,none,2011-12-14,2022-06-17
-1316.HK,HKSE,hkstock,HKD,NEXTEER,Consumer Discretionary,none,2013-10-07,2022-06-17
-1368.HK,HKSE,hkstock,HKD,XTEP INT'L,Consumer Discretionary,none,2008-06-03,2022-06-17
-1382.HK,HKSE,hkstock,HKD,PACIFICTEXTILES,Consumer Discretionary,none,2007-05-18,2022-06-17
-1448.HK,HKSE,hkstock,HKD,FU SHOU YUAN,Consumer Discretionary,none,2013-12-19,2022-06-17
-1569.HK,HKSE,hkstock,HKD,MINSHENG EDU,Consumer Discretionary,none,2017-03-22,2022-06-17
-1585.HK,HKSE,hkstock,HKD,YADEA,Consumer Discretionary,none,2016-05-19,2022-06-17
-1691.HK,HKSE,hkstock,HKD,JS GLOBAL LIFE,Consumer Discretionary,none,2019-12-18,2022-06-17
-1728.HK,HKSE,hkstock,HKD,ZHENGTONGAUTO,Consumer Discretionary,none,2010-12-10,2022-06-17
-1765.HK,HKSE,hkstock,HKD,HOPE EDU,Consumer Discretionary,none,2018-08-03,2022-06-17
-1797.HK,HKSE,hkstock,HKD,KOOLEARN,Consumer Discretionary,none,2019-03-28,2022-06-17
-1836.HK,HKSE,hkstock,HKD,STELLA HOLDINGS,Consumer Discretionary,none,2007-07-06,2022-06-17
-1848.HK,HKSE,hkstock,HKD,CALC,Consumer Discretionary,none,2014-10-10,2022-06-17
-1860.HK,HKSE,hkstock,HKD,MOBVISTA,Consumer Discretionary,none,2018-12-12,2022-06-17
-1890.HK,HKSE,hkstock,HKD,CHINA KEPEI,Consumer Discretionary,none,2019-01-25,2022-06-17
-1896.HK,HKSE,hkstock,HKD,MAOYAN ENT,Consumer Discretionary,none,2019-02-04,2022-06-17
-1910.HK,HKSE,hkstock,HKD,SAMSONITE,Consumer Discretionary,none,2007-11-01,2022-06-17
-1913.HK,HKSE,hkstock,HKD,PRADA,Consumer Discretionary,none,2007-10-30,2022-06-17
-1928.HK,HKSE,hkstock,HKD,SANDS CHINA LTD,Consumer Discretionary,none,2009-11-30,2022-06-17
-1929.HK,HKSE,hkstock,HKD,CHOW TAI FOOK,Consumer Discretionary,none,2011-12-15,2022-06-17
-1958.HK,HKSE,hkstock,HKD,BAIC MOTOR,Consumer Discretionary,none,2014-12-19,2022-06-17
-1970.HK,HKSE,hkstock,HKD,IMAX CHINA,Consumer Discretionary,none,2015-10-08,2022-06-17
-1999.HK,HKSE,hkstock,HKD,MAN WAH HLDGS,Consumer Discretionary,none,2010-04-09,2022-06-17
-2001.HK,HKSE,hkstock,HKD,NEW HIGHER EDU,Consumer Discretionary,none,2017-04-19,2022-06-17
-2013.HK,HKSE,hkstock,HKD,WEIMOB INC,Consumer Discretionary,none,2019-01-15,2022-06-17
-2020.HK,HKSE,hkstock,HKD,ANTA SPORTS,Consumer Discretionary,none,2007-07-10,2022-06-17
-2238.HK,HKSE,hkstock,HKD,GAC GROUP,Consumer Discretionary,none,2000-01-04,2022-06-17
-2255.HK,HKSE,hkstock,HKD,HAICHANG HLDG,Consumer Discretionary,none,2014-03-13,2022-06-17
-2282.HK,HKSE,hkstock,HKD,MGM CHINA,Consumer Discretionary,none,2011-06-03,2022-06-17
-2313.HK,HKSE,hkstock,HKD,SHENZHOU INTL,Consumer Discretionary,none,2005-11-24,2022-06-17
-2331.HK,HKSE,hkstock,HKD,LI NING,Consumer Discretionary,none,2004-06-28,2022-06-17
-2333.HK,HKSE,hkstock,HKD,GREATWALL MOTOR,Consumer Discretionary,none,2003-12-15,2022-06-17
-2588.HK,HKSE,hkstock,HKD,BOC AVIATION,Consumer Discretionary,none,2016-06-01,2022-06-17
-2678.HK,HKSE,hkstock,HKD,TEXHONG TEXTILE,Consumer Discretionary,none,2004-12-09,2022-06-17
-3306.HK,HKSE,hkstock,HKD,JNBY,Consumer Discretionary,none,2016-10-31,2022-06-17
-3606.HK,HKSE,hkstock,HKD,FUYAO GLASS,Consumer Discretionary,none,2015-03-31,2022-06-17
-3669.HK,HKSE,hkstock,HKD,YONGDA AUTO,Consumer Discretionary,none,2012-07-12,2022-06-17
-3818.HK,HKSE,hkstock,HKD,CHINA DONGXIANG,Consumer Discretionary,none,2007-10-10,2022-06-17
-3836.HK,HKSE,hkstock,HKD,HARMONY AUTO,Consumer Discretionary,none,2013-06-13,2022-06-17
-3918.HK,HKSE,hkstock,HKD,NAGACORP,Consumer Discretionary,none,2006-10-19,2022-06-17
-3998.HK,HKSE,hkstock,HKD,BOSIDENG,Consumer Discretionary,none,2007-10-11,2022-06-17
-6110.HK,HKSE,hkstock,HKD,TOPSPORTS,Consumer Discretionary,none,2019-10-10,2022-06-17
-6169.HK,HKSE,hkstock,HKD,YUHUA EDU,Consumer Discretionary,none,2017-02-28,2022-06-17
-6862.HK,HKSE,hkstock,HKD,HAIDILAO,Consumer Discretionary,none,2018-09-26,2022-06-17
-0142.HK,HKSE,hkstock,HKD,FIRST PACIFIC,Consumer Staples,none,2000-01-04,2022-06-17
-0151.HK,HKSE,hkstock,HKD,WANT WANT CHINA,Consumer Staples,none,2008-03-26,2022-06-17
-0168.HK,HKSE,hkstock,HKD,TSINGTAO BREW,Consumer Staples,none,2000-01-04,2022-06-17
-0220.HK,HKSE,hkstock,HKD,U-PRESID CHINA,Consumer Staples,none,2007-12-17,2022-06-17
-0288.HK,HKSE,hkstock,HKD,WH GROUP,Consumer Staples,none,2014-08-05,2022-06-17
-0291.HK,HKSE,hkstock,HKD,CHINA RES BEER,Consumer Staples,none,2000-01-04,2022-06-17
-0322.HK,HKSE,hkstock,HKD,TINGYI,Consumer Staples,none,2000-01-04,2022-06-17
-0336.HK,HKSE,hkstock,HKD,HUABAO INTL,Consumer Staples,none,2004-05-17,2022-06-17
-0345.HK,HKSE,hkstock,HKD,VITASOY INT'L,Consumer Staples,none,2000-01-04,2022-06-17
-0506.HK,HKSE,hkstock,HKD,CHINA FOODS,Consumer Staples,none,2001-05-24,2022-06-17
-0546.HK,HKSE,hkstock,HKD,FUFENG GROUP,Consumer Staples,none,2007-02-08,2022-06-17
-1044.HK,HKSE,hkstock,HKD,HENGAN INT'L,Consumer Staples,none,2000-01-04,2022-06-17
-1112.HK,HKSE,hkstock,HKD,H&H INTL HLDG,Consumer Staples,none,2010-12-17,2022-06-17
-1117.HK,HKSE,hkstock,HKD,CH MODERN D,Consumer Staples,none,2010-11-26,2022-06-17
-1458.HK,HKSE,hkstock,HKD,ZHOU HEI YA,Consumer Staples,none,2016-11-11,2022-06-17
-1579.HK,HKSE,hkstock,HKD,YIHAI INTL,Consumer Staples,none,2016-07-13,2022-06-17
-1610.HK,HKSE,hkstock,HKD,COFCO MEAT,Consumer Staples,none,2016-11-01,2022-06-17
-1717.HK,HKSE,hkstock,HKD,AUSNUTRIA,Consumer Staples,none,2009-10-08,2022-06-17
-1876.HK,HKSE,hkstock,HKD,BUD APAC,Consumer Staples,none,2019-09-30,2022-06-17
-2319.HK,HKSE,hkstock,HKD,MENGNIU DAIRY,Consumer Staples,none,2004-06-10,2022-06-17
-3331.HK,HKSE,hkstock,HKD,VINDA INT'L,Consumer Staples,none,2007-07-10,2022-06-17
-3799.HK,HKSE,hkstock,HKD,DALI FOODS,Consumer Staples,none,2015-11-20,2022-06-17
-6055.HK,HKSE,hkstock,HKD,CTIHK,Consumer Staples,none,2019-06-12,2022-06-17
-6186.HK,HKSE,hkstock,HKD,CHINA FEIHE,Consumer Staples,none,2019-11-13,2022-06-17
-6808.HK,HKSE,hkstock,HKD,SUNART RETAIL,Consumer Staples,none,2007-08-30,2022-06-17
-0386.HK,HKSE,hkstock,HKD,SINOPEC CORP,Energy,none,2000-10-19,2022-06-17
-0467.HK,HKSE,hkstock,HKD,UNITEDENERGY GP,Energy,none,2005-08-23,2022-06-17
-0639.HK,HKSE,hkstock,HKD,SHOUGANG RES,Energy,none,2001-10-10,2022-06-17
-0857.HK,HKSE,hkstock,HKD,PETROCHINA,Energy,none,2000-04-07,2022-06-17
-0883.HK,HKSE,hkstock,HKD,CNOOC,Energy,none,2004-03-31,2022-06-17
-0934.HK,HKSE,hkstock,HKD,SINOPEC KANTONS,Energy,none,2000-01-04,2022-06-17
-1088.HK,HKSE,hkstock,HKD,CHINA SHENHUA,Energy,none,2005-06-15,2022-06-17
-1171.HK,HKSE,hkstock,HKD,YANZHOU COAL,Energy,none,2000-01-04,2022-06-17
-1898.HK,HKSE,hkstock,HKD,CHINA COAL,Energy,none,2006-12-19,2022-06-17
-2386.HK,HKSE,hkstock,HKD,SINOPEC SEG,Energy,none,2013-05-23,2022-06-17
-2883.HK,HKSE,hkstock,HKD,CHINA OILFIELD,Energy,none,2002-11-20,2022-06-17
-3899.HK,HKSE,hkstock,HKD,CIMC ENRIC,Energy,none,2005-10-18,2022-06-17
-0005.HK,HKSE,hkstock,HKD,HSBC HOLDINGS,Financials,none,2000-01-03,2022-06-17
-0011.HK,HKSE,hkstock,HKD,HANG SENG BANK,Financials,none,2000-01-04,2022-06-17
-0023.HK,HKSE,hkstock,HKD,BANK OF E ASIA,Financials,none,2000-01-04,2022-06-17
-0086.HK,HKSE,hkstock,HKD,SUN HUNG KAI CO,Financials,none,2000-01-04,2022-06-17
-0165.HK,HKSE,hkstock,HKD,CHINA EB LTD,Financials,none,2000-01-04,2022-06-17
-0388.HK,HKSE,hkstock,HKD,HKEX,Financials,none,2000-06-27,2022-06-17
-0440.HK,HKSE,hkstock,HKD,DAH SING,Financials,none,2000-01-04,2022-06-17
-0665.HK,HKSE,hkstock,HKD,HAITONG INT'L,Financials,none,2000-01-04,2022-06-17
-0806.HK,HKSE,hkstock,HKD,VALUE PARTNERS,Financials,none,2007-11-22,2022-06-17
-0939.HK,HKSE,hkstock,HKD,CCB,Financials,none,2005-10-27,2022-06-17
-0966.HK,HKSE,hkstock,HKD,CHINA TAIPING,Financials,none,2000-06-29,2022-06-17
-0998.HK,HKSE,hkstock,HKD,CITIC BANK,Financials,none,2007-04-27,2022-06-17
-1288.HK,HKSE,hkstock,HKD,ABC,Financials,none,2010-07-16,2022-06-17
-1299.HK,HKSE,hkstock,HKD,AIA,Financials,none,2010-10-29,2022-06-17
-1336.HK,HKSE,hkstock,HKD,NCI,Financials,none,2011-12-15,2022-06-17
-1339.HK,HKSE,hkstock,HKD,PICC GROUP,Financials,none,2012-12-07,2022-06-17
-1359.HK,HKSE,hkstock,HKD,CHINA CINDA,Financials,none,2013-12-12,2022-06-17
-1398.HK,HKSE,hkstock,HKD,ICBC,Financials,none,2006-10-27,2022-06-17
-1508.HK,HKSE,hkstock,HKD,CHINA RE,Financials,none,2015-10-26,2022-06-17
-1658.HK,HKSE,hkstock,HKD,PSBC,Financials,none,2016-09-28,2022-06-17
-1776.HK,HKSE,hkstock,HKD,GF SEC,Financials,none,2015-04-10,2022-06-17
-1788.HK,HKSE,hkstock,HKD,GUOTAI JUNAN I,Financials,none,2010-07-08,2022-06-17
-1905.HK,HKSE,hkstock,HKD,HAITONG UT,Financials,none,2019-06-03,2022-06-17
-1911.HK,HKSE,hkstock,HKD,CR HOLDINGS,Financials,none,2018-09-27,2022-06-17
-1963.HK,HKSE,hkstock,HKD,BCQ,Financials,none,2013-11-06,2022-06-17
-1988.HK,HKSE,hkstock,HKD,MINSHENG BANK,Financials,none,2009-11-26,2022-06-17
-2003.HK,HKSE,hkstock,HKD,VCREDIT,Financials,none,2018-06-21,2022-06-17
-2051.HK,HKSE,hkstock,HKD,51 CREDIT CARD,Financials,none,2018-07-13,2022-06-17
-2318.HK,HKSE,hkstock,HKD,PING AN,Financials,none,2004-06-24,2022-06-17
-2328.HK,HKSE,hkstock,HKD,PICC P&C,Financials,none,2003-11-06,2022-06-17
-2388.HK,HKSE,hkstock,HKD,BOC HONG KONG,Financials,none,2002-07-25,2022-06-17
-2601.HK,HKSE,hkstock,HKD,CPIC,Financials,none,2009-12-23,2022-06-17
-2611.HK,HKSE,hkstock,HKD,GTJA,Financials,none,2017-04-11,2022-06-17
-2628.HK,HKSE,hkstock,HKD,CHINA LIFE,Financials,none,2003-12-18,2022-06-17
-2666.HK,HKSE,hkstock,HKD,UNI MEDICAL,Financials,none,2015-07-08,2022-06-17
-2858.HK,HKSE,hkstock,HKD,YIXIN,Financials,none,2017-11-16,2022-06-17
-3328.HK,HKSE,hkstock,HKD,BANKCOMM,Financials,none,2005-06-23,2022-06-17
-3360.HK,HKSE,hkstock,HKD,FE HORIZON,Financials,none,2007-11-14,2022-06-17
-3618.HK,HKSE,hkstock,HKD,CQRC BANK,Financials,none,2010-12-16,2022-06-17
-3877.HK,HKSE,hkstock,HKD,CSSC SHIPPING,Financials,none,2019-06-17,2022-06-17
-3908.HK,HKSE,hkstock,HKD,CICC,Financials,none,2015-11-09,2022-06-17
-3958.HK,HKSE,hkstock,HKD,DFZQ,Financials,none,2016-07-08,2022-06-17
-3968.HK,HKSE,hkstock,HKD,CM BANK,Financials,none,2006-09-22,2022-06-17
-3988.HK,HKSE,hkstock,HKD,BANK OF CHINA,Financials,none,2006-06-01,2022-06-17
-6030.HK,HKSE,hkstock,HKD,CITIC SEC,Financials,none,2007-10-15,2022-06-17
-6060.HK,HKSE,hkstock,HKD,ZA ONLINE,Financials,none,2017-09-28,2022-06-17
-6066.HK,HKSE,hkstock,HKD,CSC,Financials,none,2016-12-09,2022-06-17
-6069.HK,HKSE,hkstock,HKD,SHENGYE CAPITAL,Financials,none,2017-07-07,2022-06-17
-6806.HK,HKSE,hkstock,HKD,SWHY,Financials,none,2019-04-26,2022-06-17
-6818.HK,HKSE,hkstock,HKD,CEB BANK,Financials,none,2013-12-20,2022-06-17
-6837.HK,HKSE,hkstock,HKD,HAITONG SEC,Financials,none,2012-04-27,2022-06-17
-6881.HK,HKSE,hkstock,HKD,CGS,Financials,none,2013-05-22,2022-06-17
-6886.HK,HKSE,hkstock,HKD,HTSC,Financials,none,2015-06-01,2022-06-17
-0241.HK,HKSE,hkstock,HKD,ALI HEALTH,Health Care,none,2004-03-22,2022-06-17
-0460.HK,HKSE,hkstock,HKD,SIHUAN PHARM,Health Care,none,2010-10-28,2022-06-17
-0512.HK,HKSE,hkstock,HKD,CHINAGRANDPHARM,Health Care,none,2004-05-11,2022-06-17
-0570.HK,HKSE,hkstock,HKD,TRAD CHI MED,Health Care,none,2000-01-04,2022-06-17
-0853.HK,HKSE,hkstock,HKD,MICROPORT,Health Care,none,2010-09-24,2022-06-17
-0867.HK,HKSE,hkstock,HKD,CMS,Health Care,none,2010-09-28,2022-06-17
-0874.HK,HKSE,hkstock,HKD,BAIYUNSHAN PH,Health Care,none,2000-01-04,2022-06-17
-1066.HK,HKSE,hkstock,HKD,WEIGAO GROUP,Health Care,none,2004-02-27,2022-06-17
-1093.HK,HKSE,hkstock,HKD,CSPC PHARMA,Health Care,none,2003-05-13,2022-06-17
-1099.HK,HKSE,hkstock,HKD,SINOPHARM,Health Care,none,2009-09-23,2022-06-17
-1177.HK,HKSE,hkstock,HKD,SINO BIOPHARM,Health Care,none,2004-05-12,2022-06-17
-1302.HK,HKSE,hkstock,HKD,LIFETECH SCI,Health Care,none,2011-11-10,2022-06-17
-1513.HK,HKSE,hkstock,HKD,LIVZON PHARMA,Health Care,none,2014-01-16,2022-06-17
-1515.HK,HKSE,hkstock,HKD,CR MEDICAL,Health Care,none,2013-11-29,2022-06-17
-1521.HK,HKSE,hkstock,HKD,FRONTAGE,Health Care,none,2019-05-30,2022-06-17
-1530.HK,HKSE,hkstock,HKD,3SBIO,Health Care,none,2015-06-11,2022-06-17
-1548.HK,HKSE,hkstock,HKD,GENSCRIPT BIO,Health Care,none,2015-12-30,2022-06-17
-1558.HK,HKSE,hkstock,HKD,HEC PHARM,Health Care,none,2015-12-29,2022-06-17
-1666.HK,HKSE,hkstock,HKD,TONG REN TANG,Health Care,none,2000-10-31,2022-06-17
-1681.HK,HKSE,hkstock,HKD,CONSUN PHARMA,Health Care,none,2013-12-19,2022-06-17
-1789.HK,HKSE,hkstock,HKD,AK MEDICAL,Health Care,none,2017-12-20,2022-06-17
-1833.HK,HKSE,hkstock,HKD,PA GOODDOCTOR,Health Care,none,2018-05-04,2022-06-17
-1873.HK,HKSE,hkstock,HKD,VIVA BIOTECH,Health Care,none,2019-05-09,2022-06-17
-1951.HK,HKSE,hkstock,HKD,JXR,Health Care,none,2019-06-28,2022-06-17
-2005.HK,HKSE,hkstock,HKD,SSY GROUP,Health Care,none,2005-12-20,2022-06-17
-2186.HK,HKSE,hkstock,HKD,LUYE PHARMA,Health Care,none,2014-07-09,2022-06-17
-2196.HK,HKSE,hkstock,HKD,FOSUN PHARMA,Health Care,none,2012-10-30,2022-06-17
-2269.HK,HKSE,hkstock,HKD,WUXI BIO,Health Care,none,2017-06-13,2022-06-17
-2359.HK,HKSE,hkstock,HKD,WUXI APPTEC,Health Care,none,2018-12-13,2022-06-17
-2607.HK,HKSE,hkstock,HKD,SH PHARMA,Health Care,none,2007-09-06,2022-06-17
-2877.HK,HKSE,hkstock,HKD,SHINEWAY PHARM,Health Care,none,2004-12-02,2022-06-17
-3309.HK,HKSE,hkstock,HKD,C-MER EYE,Health Care,none,2018-01-15,2022-06-17
-3320.HK,HKSE,hkstock,HKD,CHINARES PHARMA,Health Care,none,2016-10-28,2022-06-17
-3613.HK,HKSE,hkstock,HKD,TONGRENTANGCM,Health Care,none,2013-05-07,2022-06-17
-3692.HK,HKSE,hkstock,HKD,HANSOH PHARMA,Health Care,none,2019-06-14,2022-06-17
-3933.HK,HKSE,hkstock,HKD,UNITED LAB,Health Care,none,2007-06-15,2022-06-17
-0144.HK,HKSE,hkstock,HKD,CHINA MER PORT,Industrials,none,2000-01-04,2022-06-17
-0148.HK,HKSE,hkstock,HKD,KINGBOARD HLDG,Industrials,none,2000-01-04,2022-06-17
-0152.HK,HKSE,hkstock,HKD,SHENZHEN INT'L,Industrials,none,2000-01-04,2022-06-17
-0177.HK,HKSE,hkstock,HKD,JIANGSU EXPRESS,Industrials,none,2000-01-04,2022-06-17
-0317.HK,HKSE,hkstock,HKD,COMEC,Industrials,none,2000-01-04,2022-06-17
-0468.HK,HKSE,hkstock,HKD,GAPACK,Industrials,none,2010-12-09,2022-06-17
-0548.HK,HKSE,hkstock,HKD,SHENZHENEXPRESS,Industrials,none,2000-01-04,2022-06-17
-0576.HK,HKSE,hkstock,HKD,ZHEJIANGEXPRESS,Industrials,none,2000-01-04,2022-06-17
-0586.HK,HKSE,hkstock,HKD,CONCH VENTURE,Industrials,none,2013-12-19,2022-06-17
-0598.HK,HKSE,hkstock,HKD,SINOTRANS,Industrials,none,2003-02-13,2022-06-17
-0607.HK,HKSE,hkstock,HKD,FULLSHARE,Industrials,none,2002-12-18,2022-06-17
-0631.HK,HKSE,hkstock,HKD,SANY INT'L,Industrials,none,2009-11-25,2022-06-17
-0636.HK,HKSE,hkstock,HKD,KERRY LOG NET,Industrials,none,2013-12-19,2022-06-17
-0658.HK,HKSE,hkstock,HKD,C TRANSMISSION,Industrials,none,2007-07-04,2022-06-17
-0698.HK,HKSE,hkstock,HKD,TONGDA GROUP,Industrials,none,2001-12-12,2022-06-17
-0732.HK,HKSE,hkstock,HKD,TRULY INT'L,Industrials,none,2000-01-04,2022-06-17
-0819.HK,HKSE,hkstock,HKD,TIANNENG POWER,Industrials,none,2007-06-11,2022-06-17
-0868.HK,HKSE,hkstock,HKD,XINYI GLASS,Industrials,none,2005-02-03,2022-06-17
-0906.HK,HKSE,hkstock,HKD,COFCO PACKAGING,Industrials,none,2008-10-06,2022-06-17
-0968.HK,HKSE,hkstock,HKD,XINYI SOLAR,Industrials,none,2013-12-12,2022-06-17
-1052.HK,HKSE,hkstock,HKD,YUEXIUTRANSPORT,Industrials,none,2000-01-04,2022-06-17
-1138.HK,HKSE,hkstock,HKD,COSCO SHIP ENGY,Industrials,none,2000-01-04,2022-06-17
-1157.HK,HKSE,hkstock,HKD,ZOOMLION,Industrials,none,2010-12-23,2022-06-17
-1196.HK,HKSE,hkstock,HKD,REALORD GROUP,Industrials,none,2001-05-28,2022-06-17
-1199.HK,HKSE,hkstock,HKD,COSCO SHIP PORT,Industrials,none,2000-01-04,2022-06-17
-1286.HK,HKSE,hkstock,HKD,IMPRO PRECISION,Industrials,none,2019-07-02,2022-06-17
-1308.HK,HKSE,hkstock,HKD,SITC,Industrials,none,2010-10-06,2022-06-17
-1478.HK,HKSE,hkstock,HKD,Q TECH,Industrials,none,2014-12-02,2022-06-17
-1766.HK,HKSE,hkstock,HKD,CRRC,Industrials,none,2008-08-21,2022-06-17
-1882.HK,HKSE,hkstock,HKD,HAITIAN INT'L,Industrials,none,2006-12-22,2022-06-17
-1888.HK,HKSE,hkstock,HKD,KB LAMINATES,Industrials,none,2006-12-07,2022-06-17
-1919.HK,HKSE,hkstock,HKD,COSCO SHIP HOLD,Industrials,none,2005-06-30,2022-06-17
-2018.HK,HKSE,hkstock,HKD,AAC TECH,Industrials,none,2005-08-09,2022-06-17
-2039.HK,HKSE,hkstock,HKD,CIMC,Industrials,none,2012-12-19,2022-06-17
-2208.HK,HKSE,hkstock,HKD,GOLDWIND,Industrials,none,2010-10-08,2022-06-17
-2338.HK,HKSE,hkstock,HKD,WEICHAI POWER,Industrials,none,2004-03-11,2022-06-17
-2343.HK,HKSE,hkstock,HKD,PACIFIC BASIN,Industrials,none,2004-07-14,2022-06-17
-2357.HK,HKSE,hkstock,HKD,AVICHINA,Industrials,none,2003-10-30,2022-06-17
-2382.HK,HKSE,hkstock,HKD,SUNNY OPTICAL,Industrials,none,2007-06-15,2022-06-17
-2727.HK,HKSE,hkstock,HKD,SH ELECTRIC,Industrials,none,2005-04-28,2022-06-17
-3339.HK,HKSE,hkstock,HKD,LONKING,Industrials,none,2005-11-17,2022-06-17
-3382.HK,HKSE,hkstock,HKD,TIANJINPORT DEV,Industrials,none,2006-05-24,2022-06-17
-3808.HK,HKSE,hkstock,HKD,SINOTRUK,Industrials,none,2007-11-28,2022-06-17
-3898.HK,HKSE,hkstock,HKD,CRRC TIMES ELEC,Industrials,none,2006-12-20,2022-06-17
-0136.HK,HKSE,hkstock,HKD,HENGTEN NET,Information Technology,none,2000-01-04,2022-06-17
-0268.HK,HKSE,hkstock,HKD,KINGDEE INT'L,Information Technology,none,2005-09-29,2022-06-17
-0285.HK,HKSE,hkstock,HKD,BYD ELECTRONIC,Information Technology,none,2007-12-20,2022-06-17
-0302.HK,HKSE,hkstock,HKD,CMGE,Information Technology,none,2019-10-31,2022-06-17
-0303.HK,HKSE,hkstock,HKD,VTECH HOLDINGS,Information Technology,none,2000-01-04,2022-06-17
-0327.HK,HKSE,hkstock,HKD,PAX GLOBAL,Information Technology,none,2010-12-20,2022-06-17
-0354.HK,HKSE,hkstock,HKD,CHINASOFT INT'L,Information Technology,none,2003-06-20,2022-06-17
-0522.HK,HKSE,hkstock,HKD,ASM PACIFIC,Information Technology,none,2000-07-04,2022-06-17
-0552.HK,HKSE,hkstock,HKD,CHINACOMSERVICE,Information Technology,none,2006-12-08,2022-06-17
-0696.HK,HKSE,hkstock,HKD,TRAVELSKY TECH,Information Technology,none,2001-02-08,2022-06-17
-0700.HK,HKSE,hkstock,HKD,TENCENT,Information Technology,none,2004-06-16,2022-06-17
-0763.HK,HKSE,hkstock,HKD,ZTE,Information Technology,none,2004-12-09,2022-06-17
-0777.HK,HKSE,hkstock,HKD,NETDRAGON,Information Technology,none,2007-11-02,2022-06-17
-0799.HK,HKSE,hkstock,HKD,IGG,Information Technology,none,2013-10-18,2022-06-17
-0856.HK,HKSE,hkstock,HKD,VSTECS,Information Technology,none,2002-05-10,2022-06-17
-0861.HK,HKSE,hkstock,HKD,DC HOLDINGS,Information Technology,none,2000-03-22,2022-06-17
-0981.HK,HKSE,hkstock,HKD,SMIC,Information Technology,none,2004-03-18,2022-06-17
-0992.HK,HKSE,hkstock,HKD,LENOVO GROUP,Information Technology,none,2000-03-22,2022-06-17
-1119.HK,HKSE,hkstock,HKD,IDREAMSKY,Information Technology,none,2018-12-06,2022-06-17
-1347.HK,HKSE,hkstock,HKD,HUA HONG SEMI,Information Technology,none,2014-10-15,2022-06-17
-1357.HK,HKSE,hkstock,HKD,MEITU,Information Technology,none,2016-12-16,2022-06-17
-1686.HK,HKSE,hkstock,HKD,SUNEVISION,Information Technology,none,2000-03-20,2022-06-17
-1810.HK,HKSE,hkstock,HKD,XIAOMI-W,Information Technology,none,2018-07-09,2022-06-17
-2038.HK,HKSE,hkstock,HKD,FIH,Information Technology,none,2005-02-03,2022-06-17
-2280.HK,HKSE,hkstock,HKD,HC GROUP,Information Technology,none,2003-12-17,2022-06-17
-2400.HK,HKSE,hkstock,HKD,XD INC,Information Technology,none,2019-12-12,2022-06-17
-3396.HK,HKSE,hkstock,HKD,LEGENDHOLDING,Information Technology,none,2015-06-29,2022-06-17
-3690.HK,HKSE,hkstock,HKD,MEITUAN-W,Information Technology,none,2018-09-20,2022-06-17
-3888.HK,HKSE,hkstock,HKD,KINGSOFT,Information Technology,none,2007-10-09,2022-06-17
-3969.HK,HKSE,hkstock,HKD,CHINA CRSC,Information Technology,none,2015-08-07,2022-06-17
-6088.HK,HKSE,hkstock,HKD,FIT HON TENG,Information Technology,none,2017-07-17,2022-06-17
-6869.HK,HKSE,hkstock,HKD,YOFC,Information Technology,none,2014-12-10,2022-06-17
-9618.HK,HKSE,hkstock,HKD,JD-SW,Information Technology,none,2020-06-18,2022-06-17
-9988.HK,HKSE,hkstock,HKD,BABA-SW,Information Technology,none,2019-11-26,2022-06-17
-9999.HK,HKSE,hkstock,HKD,NTES-S,Information Technology,none,2020-06-11,2022-06-17
-0189.HK,HKSE,hkstock,HKD,DONGYUE GROUP,Materials,none,2007-12-10,2022-06-17
-0297.HK,HKSE,hkstock,HKD,SINOFERT,Materials,none,2004-06-07,2022-06-17
-0323.HK,HKSE,hkstock,HKD,MAANSHAN IRON,Materials,none,2000-01-04,2022-06-17
-0338.HK,HKSE,hkstock,HKD,SHANGHAI PECHEM,Materials,none,2000-01-04,2022-06-17
-0347.HK,HKSE,hkstock,HKD,ANGANG STEEL,Materials,none,2000-01-04,2022-06-17
-0358.HK,HKSE,hkstock,HKD,JIANGXI COPPER,Materials,none,2000-01-04,2022-06-17
-0486.HK,HKSE,hkstock,HKD,RUSAL,Materials,none,2010-01-27,2022-06-17
-0581.HK,HKSE,hkstock,HKD,CHINA ORIENTAL,Materials,none,2004-03-02,2022-06-17
-0826.HK,HKSE,hkstock,HKD,TIANGONG INT'L,Materials,none,2007-07-26,2022-06-17
-1205.HK,HKSE,hkstock,HKD,CITIC RESOURCES,Materials,none,2005-09-29,2022-06-17
-1208.HK,HKSE,hkstock,HKD,MMG,Materials,none,2004-01-21,2022-06-17
-1378.HK,HKSE,hkstock,HKD,CHINAHONGQIAO,Materials,none,2011-03-24,2022-06-17
-1787.HK,HKSE,hkstock,HKD,SD GOLD,Materials,none,2018-09-28,2022-06-17
-1818.HK,HKSE,hkstock,HKD,ZHAOJIN MINING,Materials,none,2006-12-08,2022-06-17
-1907.HK,HKSE,hkstock,HKD,CHINA RISUN GP,Materials,none,2019-03-15,2022-06-17
-2314.HK,HKSE,hkstock,HKD,LEE & MAN PAPER,Materials,none,2005-09-29,2022-06-17
-2362.HK,HKSE,hkstock,HKD,JINCHUAN INTL,Materials,none,2001-07-09,2022-06-17
-2600.HK,HKSE,hkstock,HKD,CHALCO,Materials,none,2001-12-12,2022-06-17
-2689.HK,HKSE,hkstock,HKD,ND PAPER,Materials,none,2006-03-03,2022-06-17
-2899.HK,HKSE,hkstock,HKD,ZIJIN MINING,Materials,none,2003-12-23,2022-06-17
-3983.HK,HKSE,hkstock,HKD,CHINA BLUECHEM,Materials,none,2006-09-29,2022-06-17
-3993.HK,HKSE,hkstock,HKD,CMOC,Materials,none,2007-04-26,2022-06-17
-0004.HK,HKSE,hkstock,HKD,WHARF HOLDINGS,Properties & Construction,none,2000-01-04,2022-06-17
-0010.HK,HKSE,hkstock,HKD,HANG LUNG GROUP,Properties & Construction,none,2000-01-04,2022-06-17
-0012.HK,HKSE,hkstock,HKD,HENDERSON LAND,Properties & Construction,none,2000-01-04,2022-06-17
-0014.HK,HKSE,hkstock,HKD,HYSAN DEV,Properties & Construction,none,2000-01-04,2022-06-17
-0016.HK,HKSE,hkstock,HKD,SHK PPT,Properties & Construction,none,2000-01-04,2022-06-17
-0059.HK,HKSE,hkstock,HKD,SKYFAME REALTY,Properties & Construction,none,2005-08-19,2022-06-17
-0081.HK,HKSE,hkstock,HKD,CH OVS G OCEANS,Properties & Construction,none,2000-01-04,2022-06-17
-0083.HK,HKSE,hkstock,HKD,SINO LAND,Properties & Construction,none,2000-01-04,2022-06-17
-0095.HK,HKSE,hkstock,HKD,LVGEM CHINA,Properties & Construction,none,2005-12-02,2022-06-17
-0101.HK,HKSE,hkstock,HKD,HANG LUNG PPT,Properties & Construction,none,2000-01-04,2022-06-17
-0119.HK,HKSE,hkstock,HKD,POLY PROPERTY,Properties & Construction,none,2000-01-04,2022-06-17
-0120.HK,HKSE,hkstock,HKD,COSMOPOL INT'L,Properties & Construction,none,2004-02-24,2022-06-17
-0123.HK,HKSE,hkstock,HKD,YUEXIU PROPERTY,Properties & Construction,none,2000-01-04,2022-06-17
-0173.HK,HKSE,hkstock,HKD,K. WAH INT'L,Properties & Construction,none,2000-01-04,2022-06-17
-0272.HK,HKSE,hkstock,HKD,SHUI ON LAND,Properties & Construction,none,2006-10-04,2022-06-17
-0337.HK,HKSE,hkstock,HKD,GREENLAND HK,Properties & Construction,none,2006-10-10,2022-06-17
-0390.HK,HKSE,hkstock,HKD,CHINA RAILWAY,Properties & Construction,none,2007-12-07,2022-06-17
-0405.HK,HKSE,hkstock,HKD,YUEXIU REIT,Properties & Construction,none,2000-01-04,2022-06-17
-0410.HK,HKSE,hkstock,HKD,SOHO CHINA,Properties & Construction,none,2007-10-08,2022-06-17
-0435.HK,HKSE,hkstock,HKD,SUNLIGHT REIT,Properties & Construction,none,2007-10-31,2022-06-17
-0496.HK,HKSE,hkstock,HKD,KASEN,Properties & Construction,none,2005-10-20,2022-06-17
-0535.HK,HKSE,hkstock,HKD,GEMDALE PPT,Properties & Construction,none,2001-03-28,2022-06-17
-0563.HK,HKSE,hkstock,HKD,SH IND URBAN,Properties & Construction,none,2007-11-12,2022-06-17
-0604.HK,HKSE,hkstock,HKD,SHENZHEN INVEST,Properties & Construction,none,2002-08-14,2022-06-17
-0683.HK,HKSE,hkstock,HKD,KERRY PPT,Properties & Construction,none,2000-01-04,2022-06-17
-0687.HK,HKSE,hkstock,HKD,TYSAN HOLDINGS,Properties & Construction,none,2000-01-04,2022-06-16
-0688.HK,HKSE,hkstock,HKD,CHINA OVERSEAS,Properties & Construction,none,2000-01-04,2022-06-17
-0743.HK,HKSE,hkstock,HKD,ASIA CEMENT CH,Properties & Construction,none,2008-05-20,2022-06-17
-0778.HK,HKSE,hkstock,HKD,FORTUNE REIT,Properties & Construction,none,2010-04-20,2022-06-17
-0808.HK,HKSE,hkstock,HKD,PROSPERITY REIT,Properties & Construction,none,2007-10-31,2022-06-17
-0817.HK,HKSE,hkstock,HKD,CHINA JINMAO,Properties & Construction,none,2007-08-17,2022-06-17
-0823.HK,HKSE,hkstock,HKD,LINK REIT,Properties & Construction,none,2007-10-31,2022-06-17
-0832.HK,HKSE,hkstock,HKD,CENTRAL CHINA,Properties & Construction,none,2008-06-06,2022-06-17
-0884.HK,HKSE,hkstock,HKD,CIFI HOLD GP,Properties & Construction,none,2012-11-23,2022-06-17
-0914.HK,HKSE,hkstock,HKD,CONCH CEMENT,Properties & Construction,none,2000-01-04,2022-06-17
-0960.HK,HKSE,hkstock,HKD,LONGFOR GROUP,Properties & Construction,none,2009-11-19,2022-06-17
-0978.HK,HKSE,hkstock,HKD,CHI MER LAND,Properties & Construction,none,2000-01-04,2022-06-17
-1030.HK,HKSE,hkstock,HKD,SEAZEN,Properties & Construction,none,2013-01-17,2022-06-17
-1098.HK,HKSE,hkstock,HKD,ROAD KING INFRA,Properties & Construction,none,2000-01-04,2022-06-17
-1109.HK,HKSE,hkstock,HKD,CHINA RES LAND,Properties & Construction,none,2000-01-04,2022-06-17
-1113.HK,HKSE,hkstock,HKD,CK ASSET,Properties & Construction,none,2015-06-03,2022-06-17
-1176.HK,HKSE,hkstock,HKD,ZHUGUANG HOLD,Properties & Construction,none,2000-01-07,2022-06-17
-1186.HK,HKSE,hkstock,HKD,CHINA RAIL CONS,Properties & Construction,none,2005-09-30,2022-06-17
-1233.HK,HKSE,hkstock,HKD,TIMES CHINA,Properties & Construction,none,2013-12-11,2022-06-17
-1238.HK,HKSE,hkstock,HKD,POWERLONG,Properties & Construction,none,2009-10-14,2022-06-17
-1313.HK,HKSE,hkstock,HKD,CHINARES CEMENT,Properties & Construction,none,2009-10-06,2022-06-17
-1528.HK,HKSE,hkstock,HKD,RS MACALLINE,Properties & Construction,none,2015-06-26,2022-06-17
-1589.HK,HKSE,hkstock,HKD,CNLP,Properties & Construction,none,2016-07-15,2022-06-17
-1618.HK,HKSE,hkstock,HKD,MCC,Properties & Construction,none,2009-09-24,2022-06-17
-1622.HK,HKSE,hkstock,HKD,REDCO GROUP,Properties & Construction,none,2014-01-30,2022-06-17
-1628.HK,HKSE,hkstock,HKD,YUZHOU PPT,Properties & Construction,none,2009-11-02,2022-06-17
-1668.HK,HKSE,hkstock,HKD,CHINASOUTHCITY,Properties & Construction,none,2009-09-30,2022-06-17
-1800.HK,HKSE,hkstock,HKD,CHINA COMM CONS,Properties & Construction,none,2006-12-15,2022-06-17
-1813.HK,HKSE,hkstock,HKD,KWG GROUP,Properties & Construction,none,2007-07-03,2022-06-17
-1881.HK,HKSE,hkstock,HKD,REGAL REIT,Properties & Construction,none,2007-10-31,2022-06-17
-1908.HK,HKSE,hkstock,HKD,C&D INTL GROUP,Properties & Construction,none,2012-12-14,2022-06-17
-1966.HK,HKSE,hkstock,HKD,CHINA SCE GROUP,Properties & Construction,none,2010-02-05,2022-06-17
-1972.HK,HKSE,hkstock,HKD,SWIREPROPERTIES,Properties & Construction,none,2000-01-04,2022-06-17
-1996.HK,HKSE,hkstock,HKD,RSUN PPT,Properties & Construction,none,2018-07-12,2022-06-17
-1997.HK,HKSE,hkstock,HKD,WHARF REIC,Properties & Construction,none,2017-11-23,2022-06-17
-2007.HK,HKSE,hkstock,HKD,COUNTRY GARDEN,Properties & Construction,none,2007-04-20,2022-06-17
-2009.HK,HKSE,hkstock,HKD,BBMG,Properties & Construction,none,2009-07-29,2022-06-17
-2019.HK,HKSE,hkstock,HKD,DEXIN CHINA,Properties & Construction,none,2019-02-26,2022-06-17
-2048.HK,HKSE,hkstock,HKD,E-HOUSE ENT,Properties & Construction,none,2018-07-20,2022-06-17
-2128.HK,HKSE,hkstock,HKD,CHINA LESSO,Properties & Construction,none,2010-06-23,2022-06-17
-2202.HK,HKSE,hkstock,HKD,CHINA VANKE,Properties & Construction,none,2014-06-25,2022-06-17
-2233.HK,HKSE,hkstock,HKD,WESTCHINACEMENT,Properties & Construction,none,2006-12-04,2022-06-17
-2329.HK,HKSE,hkstock,HKD,GUORUI PPT,Properties & Construction,none,2014-10-10,2022-06-17
-2669.HK,HKSE,hkstock,HKD,CHINA OVS PPT,Properties & Construction,none,2015-10-23,2022-06-17
-2768.HK,HKSE,hkstock,HKD,JIAYUAN INTL,Properties & Construction,none,2016-03-08,2022-06-17
-2772.HK,HKSE,hkstock,HKD,ZHONGLIANG HLDG,Properties & Construction,none,2019-07-16,2022-06-17
-2777.HK,HKSE,hkstock,HKD,R&F PROPERTIES,Properties & Construction,none,2006-03-23,2022-06-17
-2778.HK,HKSE,hkstock,HKD,CHAMPION REIT,Properties & Construction,none,2007-10-31,2022-06-17
-2869.HK,HKSE,hkstock,HKD,GREENTOWN SER,Properties & Construction,none,2016-07-12,2022-06-17
-3301.HK,HKSE,hkstock,HKD,RONSHINECHINA,Properties & Construction,none,2016-01-13,2022-06-17
-3311.HK,HKSE,hkstock,HKD,CHINA STATE CON,Properties & Construction,none,2000-01-04,2022-06-17
-3319.HK,HKSE,hkstock,HKD,A-LIVING,Properties & Construction,none,2018-02-09,2022-06-17
-3323.HK,HKSE,hkstock,HKD,CNBM,Properties & Construction,none,2006-03-23,2022-06-17
-3377.HK,HKSE,hkstock,HKD,SINO-OCEAN GP,Properties & Construction,none,2007-09-28,2022-06-17
-3383.HK,HKSE,hkstock,HKD,AGILE GROUP,Properties & Construction,none,2005-12-15,2022-06-17
-3900.HK,HKSE,hkstock,HKD,GREENTOWN CHINA,Properties & Construction,none,2006-07-13,2022-06-17
-3990.HK,HKSE,hkstock,HKD,MIDEA REAL EST,Properties & Construction,none,2018-10-11,2022-06-17
-6049.HK,HKSE,hkstock,HKD,POLY PPT DEV,Properties & Construction,none,2019-12-19,2022-06-17
-6098.HK,HKSE,hkstock,HKD,CG SERVICES,Properties & Construction,none,2018-06-19,2022-06-17
-6158.HK,HKSE,hkstock,HKD,ZHENRO PPT,Properties & Construction,none,2018-01-16,2022-06-17
-0008.HK,HKSE,hkstock,HKD,PCCW,Telecommunications,none,2003-01-22,2022-06-17
-0215.HK,HKSE,hkstock,HKD,HUTCHTEL HK,Telecommunications,none,2004-04-01,2022-06-17
-0315.HK,HKSE,hkstock,HKD,SMARTONE TELE,Telecommunications,none,2000-01-04,2022-06-17
-0728.HK,HKSE,hkstock,HKD,CHINA TELECOM,Telecommunications,none,2002-11-15,2022-06-17
-0762.HK,HKSE,hkstock,HKD,CHINA UNICOM,Telecommunications,none,2000-06-22,2022-06-17
-0788.HK,HKSE,hkstock,HKD,CHINA TOWER,Telecommunications,none,2018-08-08,2022-06-17
-0941.HK,HKSE,hkstock,HKD,CHINA MOBILE,Telecommunications,none,2000-01-04,2022-06-17
-1310.HK,HKSE,hkstock,HKD,HKBN,Telecommunications,none,2015-03-12,2022-06-17
-1883.HK,HKSE,hkstock,HKD,CITIC TELECOM,Telecommunications,none,2007-04-03,2022-06-17
-6823.HK,HKSE,hkstock,HKD,HKT-SS,Telecommunications,none,2003-01-22,2022-06-17
-0002.HK,HKSE,hkstock,HKD,CLP HOLDINGS,Utilities,none,2000-01-04,2022-06-17
-0003.HK,HKSE,hkstock,HKD,HK & CHINA GAS,Utilities,none,2000-01-04,2022-06-17
-0006.HK,HKSE,hkstock,HKD,POWER ASSETS,Utilities,none,2000-01-04,2022-06-17
-0135.HK,HKSE,hkstock,HKD,KUNLUN ENERGY,Utilities,none,2000-01-04,2022-06-17
-0257.HK,HKSE,hkstock,HKD,CHINA EB INT'L,Utilities,none,2000-01-04,2022-06-17
-0270.HK,HKSE,hkstock,HKD,GUANGDONG INV,Utilities,none,2000-01-04,2022-06-17
-0371.HK,HKSE,hkstock,HKD,BJ ENT WATER,Utilities,none,2002-04-15,2022-06-17
-0384.HK,HKSE,hkstock,HKD,CHINA GAS HOLD,Utilities,none,2002-07-19,2022-06-17
-0392.HK,HKSE,hkstock,HKD,BEIJING ENT,Utilities,none,2005-09-29,2022-06-17
-0451.HK,HKSE,hkstock,HKD,GCL NEWENERGY,Utilities,none,2003-10-03,2022-06-17
-0686.HK,HKSE,hkstock,HKD,PANDA GREEN,Utilities,none,2000-04-13,2022-06-17
-0836.HK,HKSE,hkstock,HKD,CHINA RES POWER,Utilities,none,2003-11-12,2022-06-17
-0855.HK,HKSE,hkstock,HKD,CHINA WATER,Utilities,none,2003-08-08,2022-06-17
-0902.HK,HKSE,hkstock,HKD,HUANENG POWER,Utilities,none,2000-01-04,2022-06-17
-0916.HK,HKSE,hkstock,HKD,CHINA LONGYUAN,Utilities,none,2009-12-10,2022-06-17
-0991.HK,HKSE,hkstock,HKD,DATANG POWER,Utilities,none,2000-01-04,2022-06-17
-1038.HK,HKSE,hkstock,HKD,CKI HOLDINGS,Utilities,none,2000-01-04,2022-06-17
-1071.HK,HKSE,hkstock,HKD,HUADIAN POWER,Utilities,none,2000-01-04,2022-06-17
-1083.HK,HKSE,hkstock,HKD,TOWNGAS CHINA,Utilities,none,2000-01-04,2022-06-17
-1193.HK,HKSE,hkstock,HKD,CHINA RES GAS,Utilities,none,2001-02-05,2022-06-17
-1257.HK,HKSE,hkstock,HKD,CEB GREENTECH,Utilities,none,2017-05-08,2022-06-17
-1381.HK,HKSE,hkstock,HKD,CANVEST ENV,Utilities,none,2014-12-29,2022-06-17
-1600.HK,HKSE,hkstock,HKD,TIAN LUN GAS,Utilities,none,2010-11-10,2022-06-17
-1608.HK,HKSE,hkstock,HKD,VPOWER GROUP,Utilities,none,2016-11-24,2022-06-17
-1811.HK,HKSE,hkstock,HKD,CGN NEW ENERGY,Utilities,none,2014-10-03,2022-06-17
-1816.HK,HKSE,hkstock,HKD,CGN POWER,Utilities,none,2014-12-10,2022-06-17
-2380.HK,HKSE,hkstock,HKD,CHINA POWER,Utilities,none,2004-10-15,2022-06-17
-2638.HK,HKSE,hkstock,HKD,HKELECTRIC-SS,Utilities,none,2014-01-29,2022-06-17
-2688.HK,HKSE,hkstock,HKD,ENN ENERGY,Utilities,none,2001-05-10,2022-06-17
-3633.HK,HKSE,hkstock,HKD,ZHONGYU GAS,Utilities,none,2004-03-19,2022-06-17
-3868.HK,HKSE,hkstock,HKD,XINYI ENERGY,Utilities,none,2019-05-28,2022-06-17
+0001.HK,HKSE,hkstock,HKD,CKH HOLDINGS,Conglomerates,none,2000-01-04,2022-09-02
+0019.HK,HKSE,hkstock,HKD,SWIRE PACIFIC A,Conglomerates,none,2000-01-04,2022-09-02
+0087.HK,HKSE,hkstock,HKD,SWIRE PACIFIC B,Conglomerates,none,2000-01-04,2022-09-02
+0242.HK,HKSE,hkstock,HKD,SHUN TAK HOLD,Conglomerates,none,2000-01-04,2022-09-02
+0267.HK,HKSE,hkstock,HKD,CITIC,Conglomerates,none,2000-01-04,2022-09-02
+0363.HK,HKSE,hkstock,HKD,SHANGHAI IND H,Conglomerates,none,2000-01-04,2022-09-02
+0656.HK,HKSE,hkstock,HKD,FOSUN INTL,Conglomerates,none,2007-07-16,2022-09-02
+0659.HK,HKSE,hkstock,HKD,NWS HOLDINGS,Conglomerates,none,2003-02-24,2022-09-02
+1282.HK,HKSE,hkstock,HKD,GLORY SUN FIN,Conglomerates,none,2010-12-15,2022-09-02
+0027.HK,HKSE,hkstock,HKD,GALAXY ENT,Consumer Discretionary,none,2000-01-04,2022-09-02
+0066.HK,HKSE,hkstock,HKD,MTR CORPORATION,Consumer Discretionary,none,2000-10-09,2022-09-02
+0069.HK,HKSE,hkstock,HKD,SHANGRI-LA ASIA,Consumer Discretionary,none,2000-01-04,2022-09-02
+0078.HK,HKSE,hkstock,HKD,REGAL INT'L,Consumer Discretionary,none,2002-10-18,2022-09-02
+0116.HK,HKSE,hkstock,HKD,CHOW SANG SANG,Consumer Discretionary,none,2000-01-07,2022-09-02
+0175.HK,HKSE,hkstock,HKD,GEELY AUTO,Consumer Discretionary,none,2005-09-29,2022-09-02
+0178.HK,HKSE,hkstock,HKD,SA SA INT'L,Consumer Discretionary,none,2000-01-04,2022-09-02
+0179.HK,HKSE,hkstock,HKD,JOHNSON ELEC H,Consumer Discretionary,none,2000-08-29,2022-09-02
+0200.HK,HKSE,hkstock,HKD,MELCO INT'L DEV,Consumer Discretionary,none,2000-01-04,2022-09-02
+0256.HK,HKSE,hkstock,HKD,CITYCHAMP,Consumer Discretionary,none,2000-01-04,2022-09-02
+0293.HK,HKSE,hkstock,HKD,CATHAY PAC AIR,Consumer Discretionary,none,2000-01-04,2022-09-02
+0308.HK,HKSE,hkstock,HKD,CHINA TRAVEL HK,Consumer Discretionary,none,2000-01-04,2022-09-02
+0341.HK,HKSE,hkstock,HKD,CAFE DE CORAL H,Consumer Discretionary,none,2000-01-04,2022-09-02
+0425.HK,HKSE,hkstock,HKD,MINTH GROUP,Consumer Discretionary,none,2005-12-01,2022-09-02
+0489.HK,HKSE,hkstock,HKD,DONGFENG GROUP,Consumer Discretionary,none,2005-12-07,2022-09-02
+0493.HK,HKSE,hkstock,HKD,GOME RETAIL,Consumer Discretionary,none,2004-09-10,2022-09-02
+0520.HK,HKSE,hkstock,HKD,XIABUXIABU,Consumer Discretionary,none,2014-12-17,2022-09-02
+0525.HK,HKSE,hkstock,HKD,GUANGSHEN RAIL,Consumer Discretionary,none,2000-01-04,2022-09-02
+0551.HK,HKSE,hkstock,HKD,YUE YUEN IND,Consumer Discretionary,none,2003-03-11,2022-09-02
+0582.HK,HKSE,hkstock,HKD,LANDING INTL,Consumer Discretionary,none,2002-04-30,2022-09-02
+0590.HK,HKSE,hkstock,HKD,LUK FOOK HOLD,Consumer Discretionary,none,2000-01-04,2022-09-02
+0667.HK,HKSE,hkstock,HKD,CHINA EAST EDU,Consumer Discretionary,none,2019-06-12,2022-09-02
+0669.HK,HKSE,hkstock,HKD,TECHTRONIC IND,Consumer Discretionary,none,2004-06-14,2022-09-02
+0670.HK,HKSE,hkstock,HKD,CHINA EAST AIR,Consumer Discretionary,none,2000-01-04,2022-09-02
+0694.HK,HKSE,hkstock,HKD,BEIJING AIRPORT,Consumer Discretionary,none,2000-02-01,2022-09-02
+0709.HK,HKSE,hkstock,HKD,GIORDANO INT'L,Consumer Discretionary,none,2000-08-25,2022-09-02
+0751.HK,HKSE,hkstock,HKD,SKYWORTH GROUP,Consumer Discretionary,none,2000-04-07,2022-09-02
+0753.HK,HKSE,hkstock,HKD,AIR CHINA,Consumer Discretionary,none,2004-12-15,2022-09-02
+0772.HK,HKSE,hkstock,HKD,CHINA LIT,Consumer Discretionary,none,2017-11-08,2022-09-02
+0780.HK,HKSE,hkstock,HKD,TONGCHENG-ELONG,Consumer Discretionary,none,2018-11-26,2022-09-02
+0839.HK,HKSE,hkstock,HKD,CHINA EDU GROUP,Consumer Discretionary,none,2017-12-15,2022-09-02
+0880.HK,HKSE,hkstock,HKD,SJM HOLDINGS,Consumer Discretionary,none,2008-07-16,2022-09-02
+0881.HK,HKSE,hkstock,HKD,ZHONGSHENG HLDG,Consumer Discretionary,none,2010-03-26,2022-09-02
+0973.HK,HKSE,hkstock,HKD,L'OCCITANE,Consumer Discretionary,none,2010-05-07,2022-09-02
+1055.HK,HKSE,hkstock,HKD,CHINA SOUTH AIR,Consumer Discretionary,none,2000-01-04,2022-09-02
+1060.HK,HKSE,hkstock,HKD,ALI PICTURES,Consumer Discretionary,none,2003-01-08,2022-09-02
+1070.HK,HKSE,hkstock,HKD,TCL ELECTRONICS,Consumer Discretionary,none,2000-01-04,2022-09-02
+1121.HK,HKSE,hkstock,HKD,GOLDENSOLAR,Consumer Discretionary,none,2011-01-28,2022-09-02
+1128.HK,HKSE,hkstock,HKD,WYNN MACAU,Consumer Discretionary,none,2009-10-09,2022-09-02
+1179.HK,HKSE,hkstock,HKD,HUAZHU-S,Consumer Discretionary,none,2020-09-22,2022-09-02
+1211.HK,HKSE,hkstock,HKD,BYD COMPANY,Consumer Discretionary,none,2002-07-31,2022-09-02
+1212.HK,HKSE,hkstock,HKD,LIFESTYLE INT'L,Consumer Discretionary,none,2005-09-29,2022-09-02
+1234.HK,HKSE,hkstock,HKD,CHINA LILANG,Consumer Discretionary,none,2009-09-25,2022-09-02
+1268.HK,HKSE,hkstock,HKD,MEIDONG AUTO,Consumer Discretionary,none,2013-12-05,2022-09-02
+1269.HK,HKSE,hkstock,HKD,FIRST CAP GP,Consumer Discretionary,none,2011-11-23,2022-09-02
+1293.HK,HKSE,hkstock,HKD,GRAND BAOXIN,Consumer Discretionary,none,2011-12-14,2022-09-02
+1316.HK,HKSE,hkstock,HKD,NEXTEER,Consumer Discretionary,none,2013-10-07,2022-09-02
+1368.HK,HKSE,hkstock,HKD,XTEP INT'L,Consumer Discretionary,none,2008-06-03,2022-09-02
+1382.HK,HKSE,hkstock,HKD,PACIFICTEXTILES,Consumer Discretionary,none,2007-05-18,2022-09-02
+1448.HK,HKSE,hkstock,HKD,FU SHOU YUAN,Consumer Discretionary,none,2013-12-19,2022-09-02
+1569.HK,HKSE,hkstock,HKD,MINSHENG EDU,Consumer Discretionary,none,2017-03-23,2022-09-02
+1585.HK,HKSE,hkstock,HKD,YADEA,Consumer Discretionary,none,2016-05-19,2022-09-02
+1691.HK,HKSE,hkstock,HKD,JS GLOBAL LIFE,Consumer Discretionary,none,2019-12-18,2022-09-02
+1728.HK,HKSE,hkstock,HKD,ZHENGTONGAUTO,Consumer Discretionary,none,2010-12-10,2022-09-02
+1765.HK,HKSE,hkstock,HKD,HOPE EDU,Consumer Discretionary,none,2018-08-03,2022-09-02
+1769.HK,HKSE,hkstock,HKD,SCHOLAR EDU,Consumer Discretionary,none,2019-06-21,2022-09-02
+1773.HK,HKSE,hkstock,HKD,TIANLI EDU,Consumer Discretionary,none,2018-07-12,2022-09-02
+1797.HK,HKSE,hkstock,HKD,KOOLEARN,Consumer Discretionary,none,2019-03-28,2022-09-02
+1817.HK,HKSE,hkstock,HKD,MULSANNE GROUP,Consumer Discretionary,none,2019-05-27,2022-09-02
+1836.HK,HKSE,hkstock,HKD,STELLA HOLDINGS,Consumer Discretionary,none,2007-07-06,2022-09-02
+1848.HK,HKSE,hkstock,HKD,CALC,Consumer Discretionary,none,2014-10-10,2022-09-02
+1860.HK,HKSE,hkstock,HKD,MOBVISTA,Consumer Discretionary,none,2018-12-12,2022-09-02
+1890.HK,HKSE,hkstock,HKD,CHINA KEPEI,Consumer Discretionary,none,2019-01-25,2022-09-02
+1896.HK,HKSE,hkstock,HKD,MAOYAN ENT,Consumer Discretionary,none,2019-02-04,2022-09-02
+1910.HK,HKSE,hkstock,HKD,SAMSONITE,Consumer Discretionary,none,2007-11-01,2022-09-02
+1913.HK,HKSE,hkstock,HKD,PRADA,Consumer Discretionary,none,2007-10-30,2022-09-02
+1928.HK,HKSE,hkstock,HKD,SANDS CHINA LTD,Consumer Discretionary,none,2009-11-30,2022-09-02
+1929.HK,HKSE,hkstock,HKD,CHOW TAI FOOK,Consumer Discretionary,none,2011-12-15,2022-09-02
+1958.HK,HKSE,hkstock,HKD,BAIC MOTOR,Consumer Discretionary,none,2014-12-19,2022-09-02
+1970.HK,HKSE,hkstock,HKD,IMAX CHINA,Consumer Discretionary,none,2015-10-08,2022-09-02
+1981.HK,HKSE,hkstock,HKD,CATHAY EDU,Consumer Discretionary,none,2020-07-15,2022-09-02
+1992.HK,HKSE,hkstock,HKD,FOSUN TOURISM,Consumer Discretionary,none,2018-12-14,2022-09-02
+1999.HK,HKSE,hkstock,HKD,MAN WAH HLDGS,Consumer Discretionary,none,2010-04-09,2022-09-02
+2001.HK,HKSE,hkstock,HKD,NEW HIGHER EDU,Consumer Discretionary,none,2017-04-20,2022-09-02
+2013.HK,HKSE,hkstock,HKD,WEIMOB INC,Consumer Discretionary,none,2019-01-15,2022-09-02
+2015.HK,HKSE,hkstock,HKD,LI AUTO-W,Consumer Discretionary,none,2021-08-12,2022-09-02
+2020.HK,HKSE,hkstock,HKD,ANTA SPORTS,Consumer Discretionary,none,2007-07-10,2022-09-02
+2148.HK,HKSE,hkstock,HKD,VESYNC,Consumer Discretionary,none,2020-12-18,2022-09-02
+2150.HK,HKSE,hkstock,HKD,NAYUKI,Consumer Discretionary,none,2021-06-30,2022-09-02
+2238.HK,HKSE,hkstock,HKD,GAC GROUP,Consumer Discretionary,none,2000-01-04,2022-09-02
+2255.HK,HKSE,hkstock,HKD,HAICHANG HLDG,Consumer Discretionary,none,2014-03-13,2022-09-02
+2282.HK,HKSE,hkstock,HKD,MGM CHINA,Consumer Discretionary,none,2011-06-03,2022-09-02
+2285.HK,HKSE,hkstock,HKD,CHERVON,Consumer Discretionary,none,2021-12-30,2022-09-02
+2313.HK,HKSE,hkstock,HKD,SHENZHOU INTL,Consumer Discretionary,none,2005-11-24,2022-09-02
+2331.HK,HKSE,hkstock,HKD,LI NING,Consumer Discretionary,none,2004-06-28,2022-09-02
+2333.HK,HKSE,hkstock,HKD,GREATWALL MOTOR,Consumer Discretionary,none,2003-12-15,2022-09-02
+2588.HK,HKSE,hkstock,HKD,BOC AVIATION,Consumer Discretionary,none,2016-06-01,2022-09-02
+2678.HK,HKSE,hkstock,HKD,TEXHONG TEXTILE,Consumer Discretionary,none,2004-12-09,2022-09-02
+3306.HK,HKSE,hkstock,HKD,JNBY,Consumer Discretionary,none,2016-10-31,2022-09-02
+3606.HK,HKSE,hkstock,HKD,FUYAO GLASS,Consumer Discretionary,none,2015-03-31,2022-09-02
+3669.HK,HKSE,hkstock,HKD,YONGDA AUTO,Consumer Discretionary,none,2012-07-12,2022-09-02
+3813.HK,HKSE,hkstock,HKD,POU SHENG INT'L,Consumer Discretionary,none,2008-06-06,2022-09-02
+3818.HK,HKSE,hkstock,HKD,CHINA DONGXIANG,Consumer Discretionary,none,2007-10-10,2022-09-02
+3836.HK,HKSE,hkstock,HKD,HARMONY AUTO,Consumer Discretionary,none,2013-06-13,2022-09-02
+3918.HK,HKSE,hkstock,HKD,NAGACORP,Consumer Discretionary,none,2006-10-19,2022-09-02
+3998.HK,HKSE,hkstock,HKD,BOSIDENG,Consumer Discretionary,none,2007-10-11,2022-09-02
+6100.HK,HKSE,hkstock,HKD,TONGDAO LIEPIN,Consumer Discretionary,none,2018-06-29,2022-09-02
+6110.HK,HKSE,hkstock,HKD,TOPSPORTS,Consumer Discretionary,none,2019-10-10,2022-09-02
+6169.HK,HKSE,hkstock,HKD,YUHUA EDU,Consumer Discretionary,none,2017-02-28,2022-09-02
+6601.HK,HKSE,hkstock,HKD,CHEERWIN GP,Consumer Discretionary,none,2021-03-10,2022-09-02
+6690.HK,HKSE,hkstock,HKD,HAIER SMARTHOME,Consumer Discretionary,none,2020-12-23,2022-09-02
+6862.HK,HKSE,hkstock,HKD,HAIDILAO,Consumer Discretionary,none,2018-09-26,2022-09-02
+6889.HK,HKSE,hkstock,HKD,DYNAM JAPAN,Consumer Discretionary,none,2012-08-06,2022-09-02
+6969.HK,HKSE,hkstock,HKD,SMOORE INTL,Consumer Discretionary,none,2020-07-10,2022-09-02
+6988.HK,HKSE,hkstock,HKD,JOY SPREADER,Consumer Discretionary,none,2020-09-23,2022-09-02
+6993.HK,HKSE,hkstock,HKD,BLUE MOON GROUP,Consumer Discretionary,none,2020-12-16,2022-09-02
+9866.HK,HKSE,hkstock,HKD,NIO - SW,Consumer Discretionary,none,2022-03-10,2022-09-02
+9868.HK,HKSE,hkstock,HKD,XPENG-W,Consumer Discretionary,none,2021-07-07,2022-09-02
+9869.HK,HKSE,hkstock,HKD,HELENS,Consumer Discretionary,none,2021-09-10,2022-09-02
+9899.HK,HKSE,hkstock,HKD,CLOUD VILLAGE,Consumer Discretionary,none,2021-12-02,2022-09-02
+9901.HK,HKSE,hkstock,HKD,NEW ORIENTAL-S,Consumer Discretionary,none,2020-11-09,2022-09-02
+9922.HK,HKSE,hkstock,HKD,JIUMAOJIU,Consumer Discretionary,none,2020-01-15,2022-09-02
+9961.HK,HKSE,hkstock,HKD,TRIP.COM-S,Consumer Discretionary,none,2021-04-19,2022-09-02
+9987.HK,HKSE,hkstock,HKD,YUM CHINA-S,Consumer Discretionary,none,2020-09-10,2022-09-02
+9992.HK,HKSE,hkstock,HKD,POP MART,Consumer Discretionary,none,2020-12-11,2022-09-02
+0142.HK,HKSE,hkstock,HKD,FIRST PACIFIC,Consumer Staples,none,2000-01-04,2022-09-02
+0151.HK,HKSE,hkstock,HKD,WANT WANT CHINA,Consumer Staples,none,2008-03-26,2022-09-02
+0168.HK,HKSE,hkstock,HKD,TSINGTAO BREW,Consumer Staples,none,2000-01-04,2022-09-02
+0220.HK,HKSE,hkstock,HKD,U-PRESID CHINA,Consumer Staples,none,2007-12-17,2022-09-02
+0288.HK,HKSE,hkstock,HKD,WH GROUP,Consumer Staples,none,2014-08-05,2022-09-02
+0291.HK,HKSE,hkstock,HKD,CHINA RES BEER,Consumer Staples,none,2000-01-04,2022-09-02
+0322.HK,HKSE,hkstock,HKD,TINGYI,Consumer Staples,none,2000-01-04,2022-09-02
+0336.HK,HKSE,hkstock,HKD,HUABAO INTL,Consumer Staples,none,2004-05-17,2022-09-02
+0345.HK,HKSE,hkstock,HKD,VITASOY INT'L,Consumer Staples,none,2000-01-04,2022-09-02
+0506.HK,HKSE,hkstock,HKD,CHINA FOODS,Consumer Staples,none,2001-05-24,2022-09-02
+0546.HK,HKSE,hkstock,HKD,FUFENG GROUP,Consumer Staples,none,2007-02-08,2022-09-02
+1044.HK,HKSE,hkstock,HKD,HENGAN INT'L,Consumer Staples,none,2000-01-04,2022-09-02
+1112.HK,HKSE,hkstock,HKD,H&H INTL HLDG,Consumer Staples,none,2010-12-17,2022-09-02
+1117.HK,HKSE,hkstock,HKD,CH MODERN D,Consumer Staples,none,2010-11-26,2022-09-02
+1458.HK,HKSE,hkstock,HKD,ZHOU HEI YA,Consumer Staples,none,2016-11-11,2022-09-02
+1475.HK,HKSE,hkstock,HKD,NISSIN FOODS,Consumer Staples,none,2017-12-11,2022-09-02
+1579.HK,HKSE,hkstock,HKD,YIHAI INTL,Consumer Staples,none,2016-07-13,2022-09-02
+1610.HK,HKSE,hkstock,HKD,COFCO MEAT,Consumer Staples,none,2016-11-01,2022-09-02
+1717.HK,HKSE,hkstock,HKD,AUSNUTRIA,Consumer Staples,none,2009-10-08,2022-09-02
+1876.HK,HKSE,hkstock,HKD,BUD APAC,Consumer Staples,none,2019-09-30,2022-09-02
+2319.HK,HKSE,hkstock,HKD,MENGNIU DAIRY,Consumer Staples,none,2004-06-10,2022-09-02
+3331.HK,HKSE,hkstock,HKD,VINDA INT'L,Consumer Staples,none,2007-07-10,2022-09-02
+3799.HK,HKSE,hkstock,HKD,DALI FOODS,Consumer Staples,none,2015-11-20,2022-09-02
+6055.HK,HKSE,hkstock,HKD,CTIHK,Consumer Staples,none,2019-06-12,2022-09-02
+6186.HK,HKSE,hkstock,HKD,CHINA FEIHE,Consumer Staples,none,2019-11-13,2022-09-02
+6808.HK,HKSE,hkstock,HKD,SUNART RETAIL,Consumer Staples,none,2007-08-30,2022-09-02
+9633.HK,HKSE,hkstock,HKD,NONGFU SPRING,Consumer Staples,none,2020-09-08,2022-09-02
+9858.HK,HKSE,hkstock,HKD,YOURAN DAIRY,Consumer Staples,none,2021-06-18,2022-09-02
+0386.HK,HKSE,hkstock,HKD,SINOPEC CORP,Energy,none,2000-10-19,2022-09-02
+0467.HK,HKSE,hkstock,HKD,UNITEDENERGY GP,Energy,none,2005-08-23,2022-09-02
+0639.HK,HKSE,hkstock,HKD,SHOUGANG RES,Energy,none,2001-10-10,2022-09-02
+0857.HK,HKSE,hkstock,HKD,PETROCHINA,Energy,none,2000-04-07,2022-09-02
+0883.HK,HKSE,hkstock,HKD,CNOOC,Energy,none,2004-03-31,2022-09-02
+0934.HK,HKSE,hkstock,HKD,SINOPEC KANTONS,Energy,none,2000-01-04,2022-09-02
+1088.HK,HKSE,hkstock,HKD,CHINA SHENHUA,Energy,none,2005-06-15,2022-09-02
+1171.HK,HKSE,hkstock,HKD,YANZHOU COAL,Energy,none,2000-01-04,2022-09-02
+1898.HK,HKSE,hkstock,HKD,CHINA COAL,Energy,none,2006-12-19,2022-09-02
+2386.HK,HKSE,hkstock,HKD,SINOPEC SEG,Energy,none,2013-05-23,2022-09-02
+2798.HK,HKSE,hkstock,HKD,PER ENERGY,Energy,none,2018-12-12,2022-09-02
+2883.HK,HKSE,hkstock,HKD,CHINA OILFIELD,Energy,none,2002-11-20,2022-09-02
+3899.HK,HKSE,hkstock,HKD,CIMC ENRIC,Energy,none,2005-10-18,2022-09-02
+0005.HK,HKSE,hkstock,HKD,HSBC HOLDINGS,Financials,none,2000-01-03,2022-09-02
+0011.HK,HKSE,hkstock,HKD,HANG SENG BANK,Financials,none,2000-01-04,2022-09-02
+0023.HK,HKSE,hkstock,HKD,BANK OF E ASIA,Financials,none,2000-01-04,2022-09-02
+0086.HK,HKSE,hkstock,HKD,SUN HUNG KAI CO,Financials,none,2000-01-04,2022-09-02
+0165.HK,HKSE,hkstock,HKD,CHINA EB LTD,Financials,none,2000-01-04,2022-09-02
+0388.HK,HKSE,hkstock,HKD,HKEX,Financials,none,2000-06-27,2022-09-02
+0440.HK,HKSE,hkstock,HKD,DAH SING,Financials,none,2000-01-04,2022-09-02
+0665.HK,HKSE,hkstock,HKD,HAITONG INT'L,Financials,none,2000-01-04,2022-09-02
+0697.HK,HKSE,hkstock,HKD,SHOUCHENG,Financials,none,2000-01-04,2022-09-02
+0806.HK,HKSE,hkstock,HKD,VALUE PARTNERS,Financials,none,2007-11-22,2022-09-02
+0939.HK,HKSE,hkstock,HKD,CCB,Financials,none,2005-10-27,2022-09-02
+0966.HK,HKSE,hkstock,HKD,CHINA TAIPING,Financials,none,2000-06-29,2022-09-02
+0998.HK,HKSE,hkstock,HKD,CITIC BANK,Financials,none,2007-04-27,2022-09-02
+1141.HK,HKSE,hkstock,HKD,CMBC CAPITAL,Financials,none,2003-01-14,2022-09-02
+1288.HK,HKSE,hkstock,HKD,ABC,Financials,none,2010-07-16,2022-09-02
+1299.HK,HKSE,hkstock,HKD,AIA,Financials,none,2010-10-29,2022-09-02
+1336.HK,HKSE,hkstock,HKD,NCI,Financials,none,2011-12-15,2022-09-02
+1339.HK,HKSE,hkstock,HKD,PICC GROUP,Financials,none,2012-12-07,2022-09-02
+1359.HK,HKSE,hkstock,HKD,CHINA CINDA,Financials,none,2013-12-12,2022-09-02
+1398.HK,HKSE,hkstock,HKD,ICBC,Financials,none,2006-10-27,2022-09-02
+1508.HK,HKSE,hkstock,HKD,CHINA RE,Financials,none,2015-10-26,2022-09-02
+1658.HK,HKSE,hkstock,HKD,PSBC,Financials,none,2016-09-28,2022-09-02
+1776.HK,HKSE,hkstock,HKD,GF SEC,Financials,none,2015-04-10,2022-09-02
+1788.HK,HKSE,hkstock,HKD,GUOTAI JUNAN I,Financials,none,2010-07-08,2022-09-02
+1821.HK,HKSE,hkstock,HKD,ESR,Financials,none,2019-11-01,2022-09-02
+1905.HK,HKSE,hkstock,HKD,HAITONG UT,Financials,none,2019-06-03,2022-09-02
+1911.HK,HKSE,hkstock,HKD,CR HOLDINGS,Financials,none,2018-09-27,2022-09-02
+1963.HK,HKSE,hkstock,HKD,BCQ,Financials,none,2013-11-06,2022-09-02
+1988.HK,HKSE,hkstock,HKD,MINSHENG BANK,Financials,none,2009-11-26,2022-09-02
+2003.HK,HKSE,hkstock,HKD,VCREDIT,Financials,none,2018-06-21,2022-08-31
+2051.HK,HKSE,hkstock,HKD,51 CREDIT CARD,Financials,none,2018-07-13,2022-09-02
+2318.HK,HKSE,hkstock,HKD,PING AN,Financials,none,2004-06-24,2022-09-02
+2328.HK,HKSE,hkstock,HKD,PICC P&C,Financials,none,2003-11-06,2022-09-02
+2356.HK,HKSE,hkstock,HKD,DAHSING BANKING,Financials,none,2004-06-30,2022-09-02
+2388.HK,HKSE,hkstock,HKD,BOC HONG KONG,Financials,none,2002-07-25,2022-09-02
+2601.HK,HKSE,hkstock,HKD,CPIC,Financials,none,2009-12-23,2022-09-02
+2611.HK,HKSE,hkstock,HKD,GTJA,Financials,none,2017-04-11,2022-09-02
+2628.HK,HKSE,hkstock,HKD,CHINA LIFE,Financials,none,2003-12-18,2022-09-02
+2666.HK,HKSE,hkstock,HKD,UNI MEDICAL,Financials,none,2015-07-08,2022-09-02
+2858.HK,HKSE,hkstock,HKD,YIXIN,Financials,none,2017-11-16,2022-09-02
+3328.HK,HKSE,hkstock,HKD,BANKCOMM,Financials,none,2005-06-23,2022-09-02
+3360.HK,HKSE,hkstock,HKD,FE HORIZON,Financials,none,2007-11-14,2022-09-02
+3618.HK,HKSE,hkstock,HKD,CQRC BANK,Financials,none,2010-12-16,2022-09-02
+3877.HK,HKSE,hkstock,HKD,CSSC SHIPPING,Financials,none,2019-06-17,2022-09-02
+3908.HK,HKSE,hkstock,HKD,CICC,Financials,none,2015-11-09,2022-09-02
+3958.HK,HKSE,hkstock,HKD,DFZQ,Financials,none,2016-07-08,2022-09-02
+3968.HK,HKSE,hkstock,HKD,CM BANK,Financials,none,2006-09-22,2022-09-02
+3988.HK,HKSE,hkstock,HKD,BANK OF CHINA,Financials,none,2006-06-01,2022-09-02
+6030.HK,HKSE,hkstock,HKD,CITIC SEC,Financials,none,2007-10-15,2022-09-02
+6060.HK,HKSE,hkstock,HKD,ZA ONLINE,Financials,none,2017-09-28,2022-09-02
+6066.HK,HKSE,hkstock,HKD,CSC,Financials,none,2016-12-13,2022-09-02
+6069.HK,HKSE,hkstock,HKD,SHENGYE CAPITAL,Financials,none,2017-07-07,2022-09-02
+6099.HK,HKSE,hkstock,HKD,CMSC,Financials,none,2016-10-07,2022-09-02
+6806.HK,HKSE,hkstock,HKD,SWHY,Financials,none,2019-04-26,2022-09-02
+6818.HK,HKSE,hkstock,HKD,CEB BANK,Financials,none,2013-12-20,2022-09-02
+6837.HK,HKSE,hkstock,HKD,HAITONG SEC,Financials,none,2012-04-27,2022-09-02
+6881.HK,HKSE,hkstock,HKD,CGS,Financials,none,2013-05-22,2022-09-02
+6886.HK,HKSE,hkstock,HKD,HTSC,Financials,none,2015-06-01,2022-09-02
+9668.HK,HKSE,hkstock,HKD,CBHB,Financials,none,2020-07-16,2022-09-02
+0013.HK,HKSE,hkstock,HKD,HUTCHMED,Health Care,none,2021-06-30,2022-09-02
+0241.HK,HKSE,hkstock,HKD,ALI HEALTH,Health Care,none,2004-03-22,2022-09-02
+0460.HK,HKSE,hkstock,HKD,SIHUAN PHARM,Health Care,none,2010-10-28,2022-09-02
+0512.HK,HKSE,hkstock,HKD,CHINAGRANDPHARM,Health Care,none,2004-05-11,2022-09-02
+0570.HK,HKSE,hkstock,HKD,TRAD CHI MED,Health Care,none,2000-01-04,2022-09-02
+0775.HK,HKSE,hkstock,HKD,CKLIFE SCIENCES,Health Care,none,2000-01-04,2022-09-02
+0853.HK,HKSE,hkstock,HKD,MICROPORT,Health Care,none,2010-09-24,2022-09-02
+0867.HK,HKSE,hkstock,HKD,CMS,Health Care,none,2010-09-28,2022-09-02
+0874.HK,HKSE,hkstock,HKD,BAIYUNSHAN PH,Health Care,none,2000-01-04,2022-09-02
+1066.HK,HKSE,hkstock,HKD,WEIGAO GROUP,Health Care,none,2004-02-27,2022-09-02
+1093.HK,HKSE,hkstock,HKD,CSPC PHARMA,Health Care,none,2003-05-13,2022-09-02
+1099.HK,HKSE,hkstock,HKD,SINOPHARM,Health Care,none,2009-09-23,2022-09-02
+1167.HK,HKSE,hkstock,HKD,JACOBIO-B,Health Care,none,2020-12-21,2022-09-02
+1177.HK,HKSE,hkstock,HKD,SINO BIOPHARM,Health Care,none,2004-05-12,2022-09-02
+1302.HK,HKSE,hkstock,HKD,LIFETECH SCI,Health Care,none,2011-11-10,2022-09-02
+1477.HK,HKSE,hkstock,HKD,OCUMENSION-B,Health Care,none,2020-07-10,2022-09-02
+1513.HK,HKSE,hkstock,HKD,LIVZON PHARMA,Health Care,none,2014-01-16,2022-09-02
+1515.HK,HKSE,hkstock,HKD,CR MEDICAL,Health Care,none,2013-11-29,2022-09-02
+1521.HK,HKSE,hkstock,HKD,FRONTAGE,Health Care,none,2019-05-30,2022-09-02
+1530.HK,HKSE,hkstock,HKD,3SBIO,Health Care,none,2015-06-11,2022-09-02
+1548.HK,HKSE,hkstock,HKD,GENSCRIPT BIO,Health Care,none,2015-12-30,2022-09-02
+1558.HK,HKSE,hkstock,HKD,HEC PHARM,Health Care,none,2015-12-29,2022-09-02
+1666.HK,HKSE,hkstock,HKD,TONG REN TANG,Health Care,none,2000-10-31,2022-09-02
+1681.HK,HKSE,hkstock,HKD,CONSUN PHARMA,Health Care,none,2013-12-19,2022-09-02
+1789.HK,HKSE,hkstock,HKD,AK MEDICAL,Health Care,none,2017-12-20,2022-09-02
+1801.HK,HKSE,hkstock,HKD,INNOVENT BIO,Health Care,none,2018-10-31,2022-09-02
+1833.HK,HKSE,hkstock,HKD,PA GOODDOCTOR,Health Care,none,2018-05-04,2022-09-02
+1873.HK,HKSE,hkstock,HKD,VIVA BIOTECH,Health Care,none,2019-05-09,2022-09-02
+1877.HK,HKSE,hkstock,HKD,JUNSHI BIO,Health Care,none,2018-12-24,2022-09-02
+1951.HK,HKSE,hkstock,HKD,JXR,Health Care,none,2019-06-28,2022-09-02
+1952.HK,HKSE,hkstock,HKD,EVEREST MED-B,Health Care,none,2020-10-09,2022-09-02
+2005.HK,HKSE,hkstock,HKD,SSY GROUP,Health Care,none,2005-12-20,2022-09-02
+2096.HK,HKSE,hkstock,HKD,SIMCERE PHARMA,Health Care,none,2020-10-27,2022-09-02
+2126.HK,HKSE,hkstock,HKD,JW THERAP-B,Health Care,none,2020-11-03,2022-09-02
+2137.HK,HKSE,hkstock,HKD,BRII-B,Health Care,none,2021-07-13,2022-09-02
+2138.HK,HKSE,hkstock,HKD,EC HEALTHCARE,Health Care,none,2016-03-11,2022-09-02
+2142.HK,HKSE,hkstock,HKD,HBM HOLDINGS-B,Health Care,none,2020-12-10,2022-09-02
+2158.HK,HKSE,hkstock,HKD,YIDU TECH,Health Care,none,2021-01-15,2022-09-02
+2160.HK,HKSE,hkstock,HKD,CARDIOFLOW-B,Health Care,none,2021-02-04,2022-09-02
+2162.HK,HKSE,hkstock,HKD,KEYMED BIO-B,Health Care,none,2021-07-08,2022-09-02
+2171.HK,HKSE,hkstock,HKD,CARSGEN-B,Health Care,none,2021-06-18,2022-09-02
+2186.HK,HKSE,hkstock,HKD,LUYE PHARMA,Health Care,none,2014-07-09,2022-09-02
+2192.HK,HKSE,hkstock,HKD,MEDLIVE,Health Care,none,2021-07-15,2022-09-02
+2196.HK,HKSE,hkstock,HKD,FOSUN PHARMA,Health Care,none,2012-10-30,2022-09-02
+2197.HK,HKSE,hkstock,HKD,CLOVER BIO-B,Health Care,none,2021-11-05,2022-09-02
+2252.HK,HKSE,hkstock,HKD,MEDBOT-B,Health Care,none,2021-11-02,2022-09-02
+2269.HK,HKSE,hkstock,HKD,WUXI BIO,Health Care,none,2017-06-13,2022-09-02
+2273.HK,HKSE,hkstock,HKD,GUSHENGTANG,Health Care,none,2021-12-10,2022-09-02
+2279.HK,HKSE,hkstock,HKD,YONGHE MEDICAL,Health Care,none,2021-12-13,2022-09-02
+2359.HK,HKSE,hkstock,HKD,WUXI APPTEC,Health Care,none,2018-12-13,2022-09-02
+2500.HK,HKSE,hkstock,HKD,VENUS MEDTECH,Health Care,none,2019-12-10,2022-09-02
+2607.HK,HKSE,hkstock,HKD,SH PHARMA,Health Care,none,2007-09-06,2022-09-02
+2616.HK,HKSE,hkstock,HKD,CSTONE PHARMA-B,Health Care,none,2019-02-26,2022-09-02
+2877.HK,HKSE,hkstock,HKD,SHINEWAY PHARM,Health Care,none,2004-12-02,2022-09-02
+3309.HK,HKSE,hkstock,HKD,C-MER EYE,Health Care,none,2018-01-15,2022-09-02
+3320.HK,HKSE,hkstock,HKD,CHINARES PHARMA,Health Care,none,2016-10-28,2022-09-02
+3347.HK,HKSE,hkstock,HKD,TIGERMED,Health Care,none,2020-08-07,2022-09-02
+3613.HK,HKSE,hkstock,HKD,TONGRENTANGCM,Health Care,none,2013-05-07,2022-09-02
+3692.HK,HKSE,hkstock,HKD,HANSOH PHARMA,Health Care,none,2019-06-14,2022-09-02
+3759.HK,HKSE,hkstock,HKD,PHARMARON,Health Care,none,2019-11-28,2022-09-02
+3933.HK,HKSE,hkstock,HKD,UNITED LAB,Health Care,none,2007-06-15,2022-09-02
+6078.HK,HKSE,hkstock,HKD,HYGEIA HEALTH,Health Care,none,2020-06-29,2022-09-02
+6160.HK,HKSE,hkstock,HKD,BEIGENE,Health Care,none,2018-08-08,2022-09-02
+6185.HK,HKSE,hkstock,HKD,CANSINOBIO,Health Care,none,2019-03-28,2022-09-02
+6600.HK,HKSE,hkstock,HKD,SCICLONE PHARMA,Health Care,none,2021-03-03,2022-09-02
+6606.HK,HKSE,hkstock,HKD,NH HEALTH-B,Health Care,none,2021-02-18,2022-09-02
+6618.HK,HKSE,hkstock,HKD,JD HEALTH,Health Care,none,2020-12-08,2022-09-02
+6699.HK,HKSE,hkstock,HKD,ANGELALIGN,Health Care,none,2021-06-16,2022-09-02
+6855.HK,HKSE,hkstock,HKD,ASCENTAGE,Health Care,none,2019-10-28,2022-09-02
+6978.HK,HKSE,hkstock,HKD,IMMUNOTECH-B,Health Care,none,2020-07-10,2022-09-02
+6996.HK,HKSE,hkstock,HKD,ANTENGENE-B,Health Care,none,2020-11-20,2022-09-02
+6998.HK,HKSE,hkstock,HKD,JHBP-B,Health Care,none,2020-10-07,2022-09-02
+9688.HK,HKSE,hkstock,HKD,ZAI LAB-SB,Health Care,none,2020-09-28,2022-09-02
+9926.HK,HKSE,hkstock,HKD,AKESO,Health Care,none,2020-04-24,2022-09-02
+9939.HK,HKSE,hkstock,HKD,KINTOR PHARMA-B,Health Care,none,2020-05-22,2022-09-02
+9966.HK,HKSE,hkstock,HKD,ALPHAMAB,Health Care,none,2019-12-12,2022-09-02
+9969.HK,HKSE,hkstock,HKD,INNOCARE,Health Care,none,2020-03-23,2022-09-02
+9995.HK,HKSE,hkstock,HKD,REMEGEN-B,Health Care,none,2020-11-09,2022-09-02
+9996.HK,HKSE,hkstock,HKD,PEIJIA,Health Care,none,2020-05-15,2022-09-02
+9997.HK,HKSE,hkstock,HKD,KANGJI MEDICAL,Health Care,none,2020-06-29,2022-09-02
+0144.HK,HKSE,hkstock,HKD,CHINA MER PORT,Industrials,none,2000-01-04,2022-09-02
+0148.HK,HKSE,hkstock,HKD,KINGBOARD HLDG,Industrials,none,2000-01-04,2022-09-02
+0152.HK,HKSE,hkstock,HKD,SHENZHEN INT'L,Industrials,none,2000-01-04,2022-09-02
+0177.HK,HKSE,hkstock,HKD,JIANGSU EXPRESS,Industrials,none,2000-01-04,2022-09-02
+0316.HK,HKSE,hkstock,HKD,OOIL,Industrials,none,2004-04-15,2022-09-02
+0317.HK,HKSE,hkstock,HKD,COMEC,Industrials,none,2000-01-04,2022-09-02
+0468.HK,HKSE,hkstock,HKD,GAPACK,Industrials,none,2010-12-09,2022-09-02
+0548.HK,HKSE,hkstock,HKD,SHENZHENEXPRESS,Industrials,none,2000-01-04,2022-09-02
+0558.HK,HKSE,hkstock,HKD,LK TECH,Industrials,none,2006-10-16,2022-09-02
+0576.HK,HKSE,hkstock,HKD,ZHEJIANGEXPRESS,Industrials,none,2000-01-04,2022-09-02
+0586.HK,HKSE,hkstock,HKD,CONCH VENTURE,Industrials,none,2013-12-19,2022-09-02
+0598.HK,HKSE,hkstock,HKD,SINOTRANS,Industrials,none,2003-02-13,2022-09-02
+0607.HK,HKSE,hkstock,HKD,FULLSHARE,Industrials,none,2002-12-18,2022-09-02
+0631.HK,HKSE,hkstock,HKD,SANY INT'L,Industrials,none,2009-11-25,2022-09-02
+0636.HK,HKSE,hkstock,HKD,KERRY LOG NET,Industrials,none,2013-12-19,2022-09-02
+0658.HK,HKSE,hkstock,HKD,C TRANSMISSION,Industrials,none,2007-07-04,2022-09-02
+0698.HK,HKSE,hkstock,HKD,TONGDA GROUP,Industrials,none,2001-12-12,2022-09-02
+0732.HK,HKSE,hkstock,HKD,TRULY INT'L,Industrials,none,2000-01-04,2022-09-02
+0819.HK,HKSE,hkstock,HKD,TIANNENG POWER,Industrials,none,2007-06-11,2022-09-02
+0868.HK,HKSE,hkstock,HKD,XINYI GLASS,Industrials,none,2005-02-03,2022-09-02
+0906.HK,HKSE,hkstock,HKD,COFCO PACKAGING,Industrials,none,2008-10-06,2022-09-02
+0968.HK,HKSE,hkstock,HKD,XINYI SOLAR,Industrials,none,2013-12-12,2022-09-02
+1052.HK,HKSE,hkstock,HKD,YUEXIUTRANSPORT,Industrials,none,2000-01-04,2022-09-02
+1138.HK,HKSE,hkstock,HKD,COSCO SHIP ENGY,Industrials,none,2000-01-04,2022-09-02
+1157.HK,HKSE,hkstock,HKD,ZOOMLION,Industrials,none,2010-12-23,2022-09-02
+1196.HK,HKSE,hkstock,HKD,REALORD GROUP,Industrials,none,2001-05-28,2022-09-02
+1199.HK,HKSE,hkstock,HKD,COSCO SHIP PORT,Industrials,none,2000-01-04,2022-09-02
+1286.HK,HKSE,hkstock,HKD,IMPRO PRECISION,Industrials,none,2019-07-02,2022-09-02
+1308.HK,HKSE,hkstock,HKD,SITC,Industrials,none,2010-10-06,2022-09-02
+1478.HK,HKSE,hkstock,HKD,Q TECH,Industrials,none,2014-12-02,2022-09-02
+1766.HK,HKSE,hkstock,HKD,CRRC,Industrials,none,2008-08-21,2022-09-02
+1882.HK,HKSE,hkstock,HKD,HAITIAN INT'L,Industrials,none,2006-12-22,2022-09-02
+1888.HK,HKSE,hkstock,HKD,KB LAMINATES,Industrials,none,2006-12-07,2022-09-02
+1919.HK,HKSE,hkstock,HKD,COSCO SHIP HOLD,Industrials,none,2005-06-30,2022-09-02
+2018.HK,HKSE,hkstock,HKD,AAC TECH,Industrials,none,2005-08-09,2022-09-02
+2039.HK,HKSE,hkstock,HKD,CIMC,Industrials,none,2012-12-19,2022-09-02
+2057.HK,HKSE,hkstock,HKD,ZTO EXPRESS-SW,Industrials,none,2020-09-29,2022-09-02
+2208.HK,HKSE,hkstock,HKD,GOLDWIND,Industrials,none,2010-10-08,2022-09-02
+2338.HK,HKSE,hkstock,HKD,WEICHAI POWER,Industrials,none,2004-03-11,2022-09-02
+2343.HK,HKSE,hkstock,HKD,PACIFIC BASIN,Industrials,none,2004-07-14,2022-09-02
+2357.HK,HKSE,hkstock,HKD,AVICHINA,Industrials,none,2003-10-30,2022-09-02
+2382.HK,HKSE,hkstock,HKD,SUNNY OPTICAL,Industrials,none,2007-06-15,2022-09-02
+2618.HK,HKSE,hkstock,HKD,JD LOGISTICS,Industrials,none,2021-05-28,2022-09-02
+2727.HK,HKSE,hkstock,HKD,SH ELECTRIC,Industrials,none,2005-04-28,2022-09-02
+3339.HK,HKSE,hkstock,HKD,LONKING,Industrials,none,2005-11-17,2022-09-02
+3382.HK,HKSE,hkstock,HKD,TIANJINPORT DEV,Industrials,none,2006-05-24,2022-09-02
+3800.HK,HKSE,hkstock,HKD,GCL-POLY ENERGY,Industrials,none,2007-11-13,2022-09-02
+3808.HK,HKSE,hkstock,HKD,SINOTRUK,Industrials,none,2007-11-28,2022-09-02
+3898.HK,HKSE,hkstock,HKD,CRRC TIMES ELEC,Industrials,none,2006-12-20,2022-09-02
+6865.HK,HKSE,hkstock,HKD,FLAT GLASS,Industrials,none,2015-11-26,2022-09-02
+9956.HK,HKSE,hkstock,HKD,ANE,Industrials,none,2021-11-11,2022-09-02
+0020.HK,HKSE,hkstock,HKD,SENSETIME-W,Information Technology,none,2021-12-30,2022-09-02
+0136.HK,HKSE,hkstock,HKD,HENGTEN NET,Information Technology,none,2000-01-04,2022-09-02
+0268.HK,HKSE,hkstock,HKD,KINGDEE INT'L,Information Technology,none,2005-09-29,2022-09-02
+0285.HK,HKSE,hkstock,HKD,BYD ELECTRONIC,Information Technology,none,2007-12-20,2022-09-02
+0302.HK,HKSE,hkstock,HKD,CMGE,Information Technology,none,2019-10-31,2022-09-02
+0303.HK,HKSE,hkstock,HKD,VTECH HOLDINGS,Information Technology,none,2000-01-04,2022-09-02
+0327.HK,HKSE,hkstock,HKD,PAX GLOBAL,Information Technology,none,2010-12-20,2022-09-02
+0354.HK,HKSE,hkstock,HKD,CHINASOFT INT'L,Information Technology,none,2003-06-20,2022-09-02
+0522.HK,HKSE,hkstock,HKD,ASM PACIFIC,Information Technology,none,2000-07-04,2022-09-02
+0552.HK,HKSE,hkstock,HKD,CHINACOMSERVICE,Information Technology,none,2006-12-08,2022-09-02
+0696.HK,HKSE,hkstock,HKD,TRAVELSKY TECH,Information Technology,none,2001-02-08,2022-09-02
+0700.HK,HKSE,hkstock,HKD,TENCENT,Information Technology,none,2004-06-16,2022-09-02
+0763.HK,HKSE,hkstock,HKD,ZTE,Information Technology,none,2004-12-09,2022-09-02
+0777.HK,HKSE,hkstock,HKD,NETDRAGON,Information Technology,none,2007-11-02,2022-09-02
+0799.HK,HKSE,hkstock,HKD,IGG,Information Technology,none,2013-10-18,2022-09-02
+0856.HK,HKSE,hkstock,HKD,VSTECS,Information Technology,none,2002-05-10,2022-09-02
+0861.HK,HKSE,hkstock,HKD,DC HOLDINGS,Information Technology,none,2000-03-22,2022-09-02
+0909.HK,HKSE,hkstock,HKD,MING YUAN CLOUD,Information Technology,none,2020-09-25,2022-09-02
+0981.HK,HKSE,hkstock,HKD,SMIC,Information Technology,none,2004-03-18,2022-09-02
+0992.HK,HKSE,hkstock,HKD,LENOVO GROUP,Information Technology,none,2000-03-22,2022-09-02
+1024.HK,HKSE,hkstock,HKD,KUAISHOU-W,Information Technology,none,2021-02-05,2022-09-02
+1119.HK,HKSE,hkstock,HKD,IDREAMSKY,Information Technology,none,2018-12-06,2022-09-02
+1137.HK,HKSE,hkstock,HKD,HK TECH VENTURE,Information Technology,none,2000-01-04,2022-09-02
+1347.HK,HKSE,hkstock,HKD,HUA HONG SEMI,Information Technology,none,2014-10-15,2022-09-02
+1357.HK,HKSE,hkstock,HKD,MEITU,Information Technology,none,2016-12-16,2022-09-02
+1675.HK,HKSE,hkstock,HKD,ASIAINFO TECH,Information Technology,none,2018-12-19,2022-09-02
+1686.HK,HKSE,hkstock,HKD,SUNEVISION,Information Technology,none,2000-03-20,2022-09-02
+1810.HK,HKSE,hkstock,HKD,XIAOMI-W,Information Technology,none,2018-07-09,2022-09-02
+2038.HK,HKSE,hkstock,HKD,FIH,Information Technology,none,2005-02-03,2022-09-02
+2280.HK,HKSE,hkstock,HKD,HC GROUP,Information Technology,none,2003-12-17,2022-09-02
+2342.HK,HKSE,hkstock,HKD,COMBA,Information Technology,none,2003-07-16,2022-09-02
+2400.HK,HKSE,hkstock,HKD,XD INC,Information Technology,none,2019-12-12,2022-09-02
+2518.HK,HKSE,hkstock,HKD,AUTOHOME-S,Information Technology,none,2021-03-15,2022-09-02
+3396.HK,HKSE,hkstock,HKD,LEGENDHOLDING,Information Technology,none,2015-06-29,2022-09-02
+3690.HK,HKSE,hkstock,HKD,MEITUAN-W,Information Technology,none,2018-09-20,2022-09-02
+3738.HK,HKSE,hkstock,HKD,VOBILE GROUP,Information Technology,none,2018-01-04,2022-09-02
+3888.HK,HKSE,hkstock,HKD,KINGSOFT,Information Technology,none,2007-10-09,2022-09-02
+3969.HK,HKSE,hkstock,HKD,CHINA CRSC,Information Technology,none,2015-08-07,2022-09-02
+6088.HK,HKSE,hkstock,HKD,FIT HON TENG,Information Technology,none,2017-07-17,2022-09-02
+6608.HK,HKSE,hkstock,HKD,BAIRONG-W,Information Technology,none,2021-03-31,2022-09-02
+6869.HK,HKSE,hkstock,HKD,YOFC,Information Technology,none,2014-12-10,2022-09-02
+9618.HK,HKSE,hkstock,HKD,JD-SW,Information Technology,none,2020-06-18,2022-09-02
+9626.HK,HKSE,hkstock,HKD,BILIBILI-SW,Information Technology,none,2021-03-29,2022-09-02
+9698.HK,HKSE,hkstock,HKD,GDS-SW,Information Technology,none,2020-11-02,2022-09-02
+9888.HK,HKSE,hkstock,HKD,BIDU-SW,Information Technology,none,2021-03-23,2022-09-02
+9898.HK,HKSE,hkstock,HKD,WB-SW,Information Technology,none,2021-12-08,2022-09-02
+9923.HK,HKSE,hkstock,HKD,YEAHKA,Information Technology,none,2020-06-01,2022-09-02
+9959.HK,HKSE,hkstock,HKD,LINKLOGIS-W,Information Technology,none,2021-04-09,2022-09-02
+9988.HK,HKSE,hkstock,HKD,BABA-SW,Information Technology,none,2019-11-26,2022-09-02
+9990.HK,HKSE,hkstock,HKD,ARCHOSAUR GAMES,Information Technology,none,2020-07-15,2022-09-02
+9991.HK,HKSE,hkstock,HKD,BAOZUN-SW,Information Technology,none,2020-09-29,2022-09-02
+9999.HK,HKSE,hkstock,HKD,NTES-S,Information Technology,none,2020-06-11,2022-09-02
+0189.HK,HKSE,hkstock,HKD,DONGYUE GROUP,Materials,none,2007-12-10,2022-09-02
+0297.HK,HKSE,hkstock,HKD,SINOFERT,Materials,none,2004-06-07,2022-09-02
+0323.HK,HKSE,hkstock,HKD,MAANSHAN IRON,Materials,none,2000-01-04,2022-09-02
+0338.HK,HKSE,hkstock,HKD,SHANGHAI PECHEM,Materials,none,2000-01-04,2022-09-02
+0347.HK,HKSE,hkstock,HKD,ANGANG STEEL,Materials,none,2000-01-04,2022-09-02
+0358.HK,HKSE,hkstock,HKD,JIANGXI COPPER,Materials,none,2000-01-04,2022-09-02
+0486.HK,HKSE,hkstock,HKD,RUSAL,Materials,none,2010-01-27,2022-09-02
+0581.HK,HKSE,hkstock,HKD,CHINA ORIENTAL,Materials,none,2004-03-02,2022-09-02
+0826.HK,HKSE,hkstock,HKD,TIANGONG INT'L,Materials,none,2007-07-26,2022-09-02
+0990.HK,HKSE,hkstock,HKD,THEME INT'L,Materials,none,2000-09-06,2022-09-02
+1205.HK,HKSE,hkstock,HKD,CITIC RESOURCES,Materials,none,2005-09-29,2022-09-02
+1208.HK,HKSE,hkstock,HKD,MMG,Materials,none,2004-01-21,2022-09-02
+1258.HK,HKSE,hkstock,HKD,CHINFMINING,Materials,none,2012-06-29,2022-09-02
+1378.HK,HKSE,hkstock,HKD,CHINAHONGQIAO,Materials,none,2011-03-24,2022-09-02
+1772.HK,HKSE,hkstock,HKD,GANFENGLITHIUM,Materials,none,2018-10-11,2022-09-02
+1787.HK,HKSE,hkstock,HKD,SD GOLD,Materials,none,2018-09-28,2022-09-02
+1818.HK,HKSE,hkstock,HKD,ZHAOJIN MINING,Materials,none,2006-12-08,2022-09-02
+1907.HK,HKSE,hkstock,HKD,CHINA RISUN GP,Materials,none,2019-03-15,2022-09-02
+2099.HK,HKSE,hkstock,HKD,CHINAGOLDINTL,Materials,none,2010-12-01,2022-09-02
+2314.HK,HKSE,hkstock,HKD,LEE & MAN PAPER,Materials,none,2005-09-29,2022-09-02
+2362.HK,HKSE,hkstock,HKD,JINCHUAN INTL,Materials,none,2001-07-09,2022-09-02
+2600.HK,HKSE,hkstock,HKD,CHALCO,Materials,none,2001-12-12,2022-09-02
+2689.HK,HKSE,hkstock,HKD,ND PAPER,Materials,none,2006-03-03,2022-09-02
+2899.HK,HKSE,hkstock,HKD,ZIJIN MINING,Materials,none,2003-12-23,2022-09-02
+3983.HK,HKSE,hkstock,HKD,CHINA BLUECHEM,Materials,none,2006-09-29,2022-09-02
+3993.HK,HKSE,hkstock,HKD,CMOC,Materials,none,2007-04-26,2022-09-02
+6616.HK,HKSE,hkstock,HKD,GLOBAL NEW MAT,Materials,none,2021-07-16,2022-09-02
+0004.HK,HKSE,hkstock,HKD,WHARF HOLDINGS,Properties & Construction,none,2000-01-04,2022-09-02
+0010.HK,HKSE,hkstock,HKD,HANG LUNG GROUP,Properties & Construction,none,2000-01-04,2022-09-02
+0012.HK,HKSE,hkstock,HKD,HENDERSON LAND,Properties & Construction,none,2000-01-04,2022-09-02
+0014.HK,HKSE,hkstock,HKD,HYSAN DEV,Properties & Construction,none,2000-01-04,2022-09-02
+0016.HK,HKSE,hkstock,HKD,SHK PPT,Properties & Construction,none,2000-01-04,2022-09-02
+0035.HK,HKSE,hkstock,HKD,FE CONSORT INTL,Properties & Construction,none,2000-01-04,2022-09-02
+0041.HK,HKSE,hkstock,HKD,GREAT EAGLE H,Properties & Construction,none,2000-01-04,2022-09-02
+0059.HK,HKSE,hkstock,HKD,SKYFAME REALTY,Properties & Construction,none,2005-08-19,2022-09-02
+0081.HK,HKSE,hkstock,HKD,CH OVS G OCEANS,Properties & Construction,none,2000-01-04,2022-09-02
+0083.HK,HKSE,hkstock,HKD,SINO LAND,Properties & Construction,none,2000-01-04,2022-09-02
+0095.HK,HKSE,hkstock,HKD,LVGEM CHINA,Properties & Construction,none,2005-12-02,2022-09-02
+0101.HK,HKSE,hkstock,HKD,HANG LUNG PPT,Properties & Construction,none,2000-01-04,2022-09-02
+0119.HK,HKSE,hkstock,HKD,POLY PROPERTY,Properties & Construction,none,2000-01-04,2022-09-02
+0120.HK,HKSE,hkstock,HKD,COSMOPOL INT'L,Properties & Construction,none,2004-02-24,2022-09-02
+0123.HK,HKSE,hkstock,HKD,YUEXIU PROPERTY,Properties & Construction,none,2000-01-04,2022-09-02
+0173.HK,HKSE,hkstock,HKD,K. WAH INT'L,Properties & Construction,none,2000-01-04,2022-09-02
+0185.HK,HKSE,hkstock,HKD,ZENSUN ENT,Properties & Construction,none,2004-04-27,2022-09-02
+0272.HK,HKSE,hkstock,HKD,SHUI ON LAND,Properties & Construction,none,2006-10-04,2022-09-02
+0337.HK,HKSE,hkstock,HKD,GREENLAND HK,Properties & Construction,none,2006-10-10,2022-09-02
+0390.HK,HKSE,hkstock,HKD,CHINA RAILWAY,Properties & Construction,none,2007-12-07,2022-09-02
+0405.HK,HKSE,hkstock,HKD,YUEXIU REIT,Properties & Construction,none,2000-01-04,2022-09-02
+0410.HK,HKSE,hkstock,HKD,SOHO CHINA,Properties & Construction,none,2007-10-08,2022-09-02
+0435.HK,HKSE,hkstock,HKD,SUNLIGHT REIT,Properties & Construction,none,2007-10-31,2022-09-02
+0496.HK,HKSE,hkstock,HKD,KASEN,Properties & Construction,none,2005-10-20,2022-09-02
+0535.HK,HKSE,hkstock,HKD,GEMDALE PPT,Properties & Construction,none,2001-03-28,2022-09-02
+0563.HK,HKSE,hkstock,HKD,SH IND URBAN,Properties & Construction,none,2007-11-12,2022-09-02
+0604.HK,HKSE,hkstock,HKD,SHENZHEN INVEST,Properties & Construction,none,2002-08-14,2022-09-02
+0683.HK,HKSE,hkstock,HKD,KERRY PPT,Properties & Construction,none,2000-01-04,2022-09-02
+0687.HK,HKSE,hkstock,HKD,TYSAN HOLDINGS,Properties & Construction,none,2000-01-04,2022-09-02
+0688.HK,HKSE,hkstock,HKD,CHINA OVERSEAS,Properties & Construction,none,2000-01-04,2022-09-02
+0743.HK,HKSE,hkstock,HKD,ASIA CEMENT CH,Properties & Construction,none,2008-05-20,2022-09-02
+0778.HK,HKSE,hkstock,HKD,FORTUNE REIT,Properties & Construction,none,2010-04-20,2022-09-02
+0808.HK,HKSE,hkstock,HKD,PROSPERITY REIT,Properties & Construction,none,2007-10-31,2022-09-02
+0817.HK,HKSE,hkstock,HKD,CHINA JINMAO,Properties & Construction,none,2007-08-17,2022-09-02
+0823.HK,HKSE,hkstock,HKD,LINK REIT,Properties & Construction,none,2007-10-31,2022-09-02
+0832.HK,HKSE,hkstock,HKD,CENTRAL CHINA,Properties & Construction,none,2008-06-06,2022-09-02
+0873.HK,HKSE,hkstock,HKD,SHIMAO SERVICES,Properties & Construction,none,2020-10-30,2022-09-02
+0884.HK,HKSE,hkstock,HKD,CIFI HOLD GP,Properties & Construction,none,2012-11-23,2022-09-02
+0914.HK,HKSE,hkstock,HKD,CONCH CEMENT,Properties & Construction,none,2000-01-04,2022-09-02
+0960.HK,HKSE,hkstock,HKD,LONGFOR GROUP,Properties & Construction,none,2009-11-19,2022-09-02
+0978.HK,HKSE,hkstock,HKD,CHI MER LAND,Properties & Construction,none,2000-01-04,2022-09-02
+1030.HK,HKSE,hkstock,HKD,SEAZEN,Properties & Construction,none,2013-01-17,2022-09-02
+1098.HK,HKSE,hkstock,HKD,ROAD KING INFRA,Properties & Construction,none,2000-01-04,2022-09-02
+1109.HK,HKSE,hkstock,HKD,CHINA RES LAND,Properties & Construction,none,2000-01-04,2022-09-02
+1113.HK,HKSE,hkstock,HKD,CK ASSET,Properties & Construction,none,2015-06-03,2022-09-02
+1176.HK,HKSE,hkstock,HKD,ZHUGUANG HOLD,Properties & Construction,none,2000-01-07,2022-09-02
+1186.HK,HKSE,hkstock,HKD,CHINA RAIL CONS,Properties & Construction,none,2005-09-30,2022-09-02
+1209.HK,HKSE,hkstock,HKD,CHINA RES MIXC,Properties & Construction,none,2020-12-09,2022-09-02
+1233.HK,HKSE,hkstock,HKD,TIMES CHINA,Properties & Construction,none,2013-12-11,2022-09-02
+1238.HK,HKSE,hkstock,HKD,POWERLONG,Properties & Construction,none,2009-10-14,2022-09-02
+1313.HK,HKSE,hkstock,HKD,CHINARES CEMENT,Properties & Construction,none,2009-10-06,2022-09-02
+1387.HK,HKSE,hkstock,HKD,CHINA DILI,Properties & Construction,none,2008-10-22,2022-09-02
+1516.HK,HKSE,hkstock,HKD,SUNAC SERVICES,Properties & Construction,none,2020-11-19,2022-09-02
+1528.HK,HKSE,hkstock,HKD,RS MACALLINE,Properties & Construction,none,2015-06-26,2022-09-02
+1589.HK,HKSE,hkstock,HKD,CNLP,Properties & Construction,none,2016-07-15,2022-06-24
+1618.HK,HKSE,hkstock,HKD,MCC,Properties & Construction,none,2009-09-24,2022-09-02
+1622.HK,HKSE,hkstock,HKD,REDCO GROUP,Properties & Construction,none,2014-01-30,2022-09-02
+1628.HK,HKSE,hkstock,HKD,YUZHOU PPT,Properties & Construction,none,2009-11-02,2022-09-02
+1668.HK,HKSE,hkstock,HKD,CHINASOUTHCITY,Properties & Construction,none,2009-09-30,2022-09-02
+1755.HK,HKSE,hkstock,HKD,S-ENJOY SERVICE,Properties & Construction,none,2018-11-06,2022-09-02
+1800.HK,HKSE,hkstock,HKD,CHINA COMM CONS,Properties & Construction,none,2006-12-15,2022-09-02
+1813.HK,HKSE,hkstock,HKD,KWG GROUP,Properties & Construction,none,2007-07-03,2022-09-02
+1881.HK,HKSE,hkstock,HKD,REGAL REIT,Properties & Construction,none,2007-10-31,2022-09-02
+1908.HK,HKSE,hkstock,HKD,C&D INTL GROUP,Properties & Construction,none,2012-12-14,2022-09-02
+1966.HK,HKSE,hkstock,HKD,CHINA SCE GROUP,Properties & Construction,none,2010-02-05,2022-09-02
+1972.HK,HKSE,hkstock,HKD,SWIREPROPERTIES,Properties & Construction,none,2000-01-04,2022-09-02
+1995.HK,HKSE,hkstock,HKD,EVERSUNSHINE LS,Properties & Construction,none,2018-12-17,2022-09-02
+1996.HK,HKSE,hkstock,HKD,RSUN PPT,Properties & Construction,none,2018-07-12,2022-09-02
+1997.HK,HKSE,hkstock,HKD,WHARF REIC,Properties & Construction,none,2017-11-23,2022-09-02
+2007.HK,HKSE,hkstock,HKD,COUNTRY GARDEN,Properties & Construction,none,2007-04-20,2022-09-02
+2009.HK,HKSE,hkstock,HKD,BBMG,Properties & Construction,none,2009-07-29,2022-09-02
+2019.HK,HKSE,hkstock,HKD,DEXIN CHINA,Properties & Construction,none,2019-02-26,2022-09-02
+2048.HK,HKSE,hkstock,HKD,E-HOUSE ENT,Properties & Construction,none,2018-07-20,2022-08-31
+2128.HK,HKSE,hkstock,HKD,CHINA LESSO,Properties & Construction,none,2010-06-23,2022-09-02
+2202.HK,HKSE,hkstock,HKD,CHINA VANKE,Properties & Construction,none,2014-06-25,2022-09-02
+2233.HK,HKSE,hkstock,HKD,WESTCHINACEMENT,Properties & Construction,none,2006-12-04,2022-09-02
+2329.HK,HKSE,hkstock,HKD,GUORUI PPT,Properties & Construction,none,2014-10-10,2022-09-02
+2599.HK,HKSE,hkstock,HKD,SHINSUN HOLD GP,Properties & Construction,none,2020-11-18,2022-09-02
+2669.HK,HKSE,hkstock,HKD,CHINA OVS PPT,Properties & Construction,none,2015-10-23,2022-09-02
+2768.HK,HKSE,hkstock,HKD,JIAYUAN INTL,Properties & Construction,none,2016-03-08,2022-09-02
+2772.HK,HKSE,hkstock,HKD,ZHONGLIANG HLDG,Properties & Construction,none,2019-07-16,2022-09-02
+2777.HK,HKSE,hkstock,HKD,R&F PROPERTIES,Properties & Construction,none,2006-03-23,2022-09-02
+2778.HK,HKSE,hkstock,HKD,CHAMPION REIT,Properties & Construction,none,2007-10-31,2022-09-02
+2869.HK,HKSE,hkstock,HKD,GREENTOWN SER,Properties & Construction,none,2016-07-12,2022-09-02
+3301.HK,HKSE,hkstock,HKD,RONSHINECHINA,Properties & Construction,none,2016-01-13,2022-09-02
+3311.HK,HKSE,hkstock,HKD,CHINA STATE CON,Properties & Construction,none,2000-01-04,2022-09-02
+3319.HK,HKSE,hkstock,HKD,A-LIVING,Properties & Construction,none,2018-02-09,2022-09-02
+3323.HK,HKSE,hkstock,HKD,CNBM,Properties & Construction,none,2006-03-23,2022-09-02
+3377.HK,HKSE,hkstock,HKD,SINO-OCEAN GP,Properties & Construction,none,2007-09-28,2022-09-02
+3383.HK,HKSE,hkstock,HKD,AGILE GROUP,Properties & Construction,none,2005-12-15,2022-09-02
+3900.HK,HKSE,hkstock,HKD,GREENTOWN CHINA,Properties & Construction,none,2006-07-13,2022-09-02
+3913.HK,HKSE,hkstock,HKD,KWG LIVING,Properties & Construction,none,2020-10-30,2022-09-02
+3990.HK,HKSE,hkstock,HKD,MIDEA REAL EST,Properties & Construction,none,2018-10-11,2022-09-02
+6049.HK,HKSE,hkstock,HKD,POLY PPT DEV,Properties & Construction,none,2019-12-19,2022-09-02
+6098.HK,HKSE,hkstock,HKD,CG SERVICES,Properties & Construction,none,2018-06-19,2022-09-02
+6158.HK,HKSE,hkstock,HKD,ZHENRO PPT,Properties & Construction,none,2018-01-16,2022-09-02
+6878.HK,HKSE,hkstock,HKD,DIFFER GROUP,Properties & Construction,none,2013-12-09,2022-09-02
+6989.HK,HKSE,hkstock,HKD,EXCELLENCE CM,Properties & Construction,none,2020-10-19,2022-09-02
+9666.HK,HKSE,hkstock,HKD,JINKE SERVICES,Properties & Construction,none,2020-11-17,2022-09-02
+9909.HK,HKSE,hkstock,HKD,POWERLONG CM,Properties & Construction,none,2019-12-30,2022-09-02
+9928.HK,HKSE,hkstock,HKD,TIMES NEIGHBOR,Properties & Construction,none,2019-12-19,2022-09-02
+9968.HK,HKSE,hkstock,HKD,HUIJING HLDGS,Properties & Construction,none,2020-01-16,2022-09-02
+9979.HK,HKSE,hkstock,HKD,GREENTOWN MGMT,Properties & Construction,none,2020-07-10,2022-09-02
+9983.HK,HKSE,hkstock,HKD,CC NEW LIFE,Properties & Construction,none,2020-05-15,2022-09-02
+9993.HK,HKSE,hkstock,HKD,RADIANCE HLDGS,Properties & Construction,none,2020-10-29,2022-09-02
+0008.HK,HKSE,hkstock,HKD,PCCW,Telecommunications,none,2003-01-22,2022-09-02
+0215.HK,HKSE,hkstock,HKD,HUTCHTEL HK,Telecommunications,none,2004-04-01,2022-09-02
+0315.HK,HKSE,hkstock,HKD,SMARTONE TELE,Telecommunications,none,2000-01-04,2022-09-02
+0728.HK,HKSE,hkstock,HKD,CHINA TELECOM,Telecommunications,none,2002-11-15,2022-09-02
+0762.HK,HKSE,hkstock,HKD,CHINA UNICOM,Telecommunications,none,2000-06-22,2022-09-02
+0788.HK,HKSE,hkstock,HKD,CHINA TOWER,Telecommunications,none,2018-08-08,2022-09-02
+0941.HK,HKSE,hkstock,HKD,CHINA MOBILE,Telecommunications,none,2000-01-04,2022-09-02
+1310.HK,HKSE,hkstock,HKD,HKBN,Telecommunications,none,2015-03-12,2022-09-02
+1883.HK,HKSE,hkstock,HKD,CITIC TELECOM,Telecommunications,none,2007-04-03,2022-09-02
+6823.HK,HKSE,hkstock,HKD,HKT-SS,Telecommunications,none,2003-01-22,2022-09-02
+0002.HK,HKSE,hkstock,HKD,CLP HOLDINGS,Utilities,none,2000-01-04,2022-09-02
+0003.HK,HKSE,hkstock,HKD,HK & CHINA GAS,Utilities,none,2000-01-04,2022-09-02
+0006.HK,HKSE,hkstock,HKD,POWER ASSETS,Utilities,none,2000-01-04,2022-09-02
+0135.HK,HKSE,hkstock,HKD,KUNLUN ENERGY,Utilities,none,2000-01-04,2022-09-02
+0257.HK,HKSE,hkstock,HKD,CHINA EB INT'L,Utilities,none,2000-01-04,2022-09-02
+0270.HK,HKSE,hkstock,HKD,GUANGDONG INV,Utilities,none,2000-01-04,2022-09-02
+0371.HK,HKSE,hkstock,HKD,BJ ENT WATER,Utilities,none,2002-04-15,2022-09-02
+0384.HK,HKSE,hkstock,HKD,CHINA GAS HOLD,Utilities,none,2002-07-19,2022-09-02
+0392.HK,HKSE,hkstock,HKD,BEIJING ENT,Utilities,none,2005-09-29,2022-09-02
+0451.HK,HKSE,hkstock,HKD,GCL NEWENERGY,Utilities,none,2003-10-03,2022-09-02
+0686.HK,HKSE,hkstock,HKD,PANDA GREEN,Utilities,none,2000-04-13,2022-09-02
+0836.HK,HKSE,hkstock,HKD,CHINA RES POWER,Utilities,none,2003-11-12,2022-09-02
+0855.HK,HKSE,hkstock,HKD,CHINA WATER,Utilities,none,2003-08-08,2022-09-02
+0902.HK,HKSE,hkstock,HKD,HUANENG POWER,Utilities,none,2000-01-04,2022-09-02
+0916.HK,HKSE,hkstock,HKD,CHINA LONGYUAN,Utilities,none,2009-12-10,2022-09-02
+0991.HK,HKSE,hkstock,HKD,DATANG POWER,Utilities,none,2000-01-04,2022-09-02
+1038.HK,HKSE,hkstock,HKD,CKI HOLDINGS,Utilities,none,2000-01-04,2022-09-02
+1071.HK,HKSE,hkstock,HKD,HUADIAN POWER,Utilities,none,2000-01-04,2022-09-02
+1083.HK,HKSE,hkstock,HKD,TOWNGAS CHINA,Utilities,none,2000-01-04,2022-09-02
+1193.HK,HKSE,hkstock,HKD,CHINA RES GAS,Utilities,none,2001-02-05,2022-09-02
+1257.HK,HKSE,hkstock,HKD,CEB GREENTECH,Utilities,none,2017-05-08,2022-09-02
+1381.HK,HKSE,hkstock,HKD,CANVEST ENV,Utilities,none,2014-12-29,2022-09-02
+1600.HK,HKSE,hkstock,HKD,TIAN LUN GAS,Utilities,none,2010-11-10,2022-09-02
+1608.HK,HKSE,hkstock,HKD,VPOWER GROUP,Utilities,none,2016-11-24,2022-09-02
+1811.HK,HKSE,hkstock,HKD,CGN NEW ENERGY,Utilities,none,2014-10-03,2022-09-02
+1816.HK,HKSE,hkstock,HKD,CGN POWER,Utilities,none,2014-12-10,2022-09-02
+2380.HK,HKSE,hkstock,HKD,CHINA POWER,Utilities,none,2004-10-15,2022-09-02
+2638.HK,HKSE,hkstock,HKD,HKELECTRIC-SS,Utilities,none,2014-01-29,2022-09-02
+2688.HK,HKSE,hkstock,HKD,ENN ENERGY,Utilities,none,2001-05-10,2022-09-02
+3633.HK,HKSE,hkstock,HKD,ZHONGYU GAS,Utilities,none,2004-03-19,2022-09-02
+3868.HK,HKSE,hkstock,HKD,XINYI ENERGY,Utilities,none,2019-05-28,2022-09-02
