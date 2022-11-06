@@ -116,6 +116,20 @@ def gettradedays(holidaydict, form=0):
 
     return tdlist
 
+def getltdate(holidaydict, offset=6, form=0):
+    """Obtain the latest trading date."""
+    ltddate = datetime.today() - timedelta(days=1, hours=offset)
+    if form == 0:
+        dayform = '%Y-%m-%d'
+    elif form == 1:
+        dayform = '%Y%m%d'
+    else:
+        dayform = '%y%m%d'
+    ltdstr = ltddate.strftime(dayform)
+    tdlist = [dtstr for dtstr in gettradedays(holidaydict, form) if dtstr <= ltdstr]
+
+    return tdlist[-1]
+
 ## Resample to other frequency
 def ohlcresample(dfohlc, assetlist, freq='W'):
     """Resample the OHLC dataframe into desired timeframe."""
