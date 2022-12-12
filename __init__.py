@@ -16,3 +16,4 @@ for path in [basepath, logpath]:
 
 # OHLC fields
 ohlcfield = ['op', 'hi', 'lo', 'cl']
+ohlcvdfield = ['op', 'hi', 'lo', 'cl', 'vol', 'div']
