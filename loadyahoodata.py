@@ -9,47 +9,47 @@ import yfinance as yf
 ohlcvdfield = ['op', 'hi', 'lo', 'cl', 'vol', 'div']
 
 
-def getYahooData(listSymbol, adjust=True, strStart='1990-01-01', strEnd='2046-12-31'):
-    """Scrape via yahoo API to obtain data for a listSymbol."""
-    strSymbol = ' '.join(listSymbol)
-    dictRename = {'Date': 'date', 'Open': 'op', 'High': 'hi', 'Low': 'lo', 'Close': 'cl',
+def getYahooData(symbolList, adjust=True, startStr='1990-01-01', endStr='2046-12-31'):
+    """Scrape via yahoo API to obtain data for a symbolList."""
+    symbolStr = ' '.join(symbolList)
+    renameDict = {'Date': 'date', 'Open': 'op', 'High': 'hi', 'Low': 'lo', 'Close': 'cl',
                   'Volume': 'vol', 'Adj Close': 'adj_cl', 'Dividends': 'div', 'Stock Splits': 'split'}
-    fieldsOHLC = ['op', 'hi', 'lo', 'cl']
-    columnsData = fieldsOHLC + ['vol', 'div']
+    priceFields = ['op', 'hi', 'lo', 'cl']
+    dataFields = priceFields + ['vol', 'div']
 
-    dictData = {}
+    dataDict = {}
 
     try:
-        dfData = yf.download(strSymbol, start=strStart, end=strEnd, auto_adjust=False, actions=True,
+        dfData = yf.download(symbolStr, start=startStr, end=endStr, auto_adjust=False, actions=True,
                              group_by='Tickers', threads=16)
     except:
         dfData = pd.DataFrame()
 
-    for symbol in listSymbol:
-        # try:
-        dfSymbol = dfData[(symbol,)].dropna()  # Raw data for the symbol
-        dfSymbol = dfSymbol[(dfSymbol['Volume'] > 0) | (dfSymbol['High'] > dfSymbol['Low'])]  # Filter bad data
-        dfSymbol.reset_index(inplace=True)
-        dfSymbol.rename(columns=dictRename, inplace=True)
-        dfSymbol.set_index('date', inplace=True)
+    for symbol in symbolList:
+        try:
+            dfSymbol = dfData[(symbol,)].dropna()  # Raw data for the symbol
+            dfSymbol = dfSymbol[(dfSymbol['Volume'] > 0) | (dfSymbol['High'] > dfSymbol['Low'])]  # Filter bad data
+            dfSymbol.reset_index(inplace=True)
+            dfSymbol.rename(columns=renameDict, inplace=True)
+            dfSymbol.set_index('date', inplace=True)
 
-        if not adjust:
-            dfSymbol = dfSymbol[columnsData]
-            dfSymbol.rename(columns={field: f'{symbol}_{field}' for field in columnsData}, inplace=True)
-        else:
-            adjfactor = dfSymbol['adj_cl'] / dfSymbol['cl']
-            for field in fieldsOHLC:
-                dfSymbol[f'adj_{field}'] = dfSymbol[field] * adjfactor
-            dfSymbol['adj_vol'] = dfSymbol['vol'] / adjfactor
-            dfSymbol = dfSymbol[[f'adj_{field}' for field in columnsData[:-1]]]
-            dfSymbol.rename(columns={f'adj_{field}': f'{symbol}_{field}' for field in columnsData[:-1]}, inplace=True)
-            dfSymbol = np.round(dfSymbol, 4)
+            if not adjust:
+                dfSymbol = dfSymbol[dataFields]
+                dfSymbol.rename(columns={field: f'{symbol}_{field}' for field in dataFields}, inplace=True)
+            else:
+                adjfactor = dfSymbol['adj_cl'] / dfSymbol['cl']
+                for field in priceFields:
+                    dfSymbol[f'adj_{field}'] = dfSymbol[field] * adjfactor
+                dfSymbol['adj_vol'] = dfSymbol['vol'] / adjfactor
+                dfSymbol = dfSymbol[[f'adj_{field}' for field in dataFields[:-1]]]
+                dfSymbol.rename(columns={f'adj_{field}': f'{symbol}_{field}' for field in dataFields[:-1]}, inplace=True)
+                dfSymbol = np.round(dfSymbol, 4)
 
-        dictData[symbol] = dfSymbol
-        # except:
-        #    print(f'Failed preparing data for {symbol}.')
+            dataDict[symbol] = dfSymbol
+        except:
+            print(f'Failed preparing data for {symbol}.')
 
-    dfAll = pd.concat(dictData.values(), axis=1, join='inner')
+    dfAll = pd.concat(dataDict.values(), axis=1, join='inner')
     dfAll.fillna(method='ffill', inplace=True)
 
     return dfAll
