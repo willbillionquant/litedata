@@ -55,6 +55,17 @@ def getYahooData(symbolList, adjust=True, startStr='1990-01-01', endStr='2046-12
     return dfAll
 
 
+def resampleOHLC(dfData, symbolList, freq='M'):
+    """Resample the OHLC dataframe into desired timeframe."""
+    ruleDict = {}
+    for asset in symbolList:
+        symbolDict = {f'{asset}_op': 'first', f'{asset}_cl': 'last',
+                      f'{asset}_hi': 'max', f'{asset}_lo': 'min', f'{asset}_vol': 'sum'}
+        ruleDict.update(symbolDict)
+
+    dfData1 = dfData.resample(rule=freq, label='right').agg(ruleDict)
+
+    return dfData1
 
 
 def getyahoosymbol(symbol, adjust=True, startstr='1990-01-01', endstr='2046-12-31'):
